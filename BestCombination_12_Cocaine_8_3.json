@@ -1,0 +1,17 @@
+{
+  "ranknum": 12,
+  "baseProduct": "Cocaine",
+  "permutationLength": 8,
+  "maxRepetitions": 3,
+  "bestCombination": [
+    "Flu Medicine",
+    "Energy Drink",
+    "Paracetamol",
+    "Gasoline",
+    "Cuke",
+    "Battery",
+    "Mega Bean",
+    "Chili"
+  ],
+  "maxNetProfit": 677
+}

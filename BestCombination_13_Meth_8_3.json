@@ -1,0 +1,17 @@
+{
+  "ranknum": 13,
+  "baseProduct": "Meth",
+  "permutationLength": 8,
+  "maxRepetitions": 3,
+  "bestCombination": [
+    "Banana",
+    "Cuke",
+    "Paracetamol",
+    "Gasoline",
+    "Cuke",
+    "Battery",
+    "Horse Semen",
+    "Mega Bean"
+  ],
+  "maxNetProfit": 302
+}

@@ -1,0 +1,626 @@
+[
+  {
+    "ranknum": 1,
+    "baseProduct": "OG Kush",
+    "bestCombination": [
+      "Paracetamol"
+    ],
+    "maxNetProfit": 52
+  },
+  {
+    "ranknum": 1,
+    "baseProduct": "Sour Diesel",
+    "bestCombination": [
+      "Donut"
+    ],
+    "maxNetProfit": 47
+  },
+  {
+    "ranknum": 1,
+    "baseProduct": "Green Crack",
+    "bestCombination": [
+      "Banana"
+    ],
+    "maxNetProfit": 55
+  },
+  {
+    "ranknum": 1,
+    "baseProduct": "Grandaddy Purple",
+    "bestCombination": [
+      "Donut"
+    ],
+    "maxNetProfit": 51
+  },
+  {
+    "ranknum": 1,
+    "baseProduct": "Meth",
+    "bestCombination": [
+      "Donut"
+    ],
+    "maxNetProfit": 87
+  },
+  {
+    "ranknum": 1,
+    "baseProduct": "Cocaine",
+    "bestCombination": [
+      "Donut"
+    ],
+    "maxNetProfit": 189
+  },
+  {
+    "ranknum": 2,
+    "baseProduct": "OG Kush",
+    "bestCombination": [
+      "Paracetamol"
+    ],
+    "maxNetProfit": 52
+  },
+  {
+    "ranknum": 2,
+    "baseProduct": "Sour Diesel",
+    "bestCombination": [
+      "Viagra"
+    ],
+    "maxNetProfit": 52
+  },
+  {
+    "ranknum": 2,
+    "baseProduct": "Green Crack",
+    "bestCombination": [
+      "Banana"
+    ],
+    "maxNetProfit": 55
+  },
+  {
+    "ranknum": 2,
+    "baseProduct": "Grandaddy Purple",
+    "bestCombination": [
+      "Viagra"
+    ],
+    "maxNetProfit": 56
+  },
+  {
+    "ranknum": 2,
+    "baseProduct": "Meth",
+    "bestCombination": [
+      "Viagra"
+    ],
+    "maxNetProfit": 98
+  },
+  {
+    "ranknum": 2,
+    "baseProduct": "Cocaine",
+    "bestCombination": [
+      "Viagra"
+    ],
+    "maxNetProfit": 215
+  },
+  {
+    "ranknum": 3,
+    "baseProduct": "OG Kush",
+    "bestCombination": [
+      "Mouth Wash"
+    ],
+    "maxNetProfit": 60
+  },
+  {
+    "ranknum": 3,
+    "baseProduct": "Sour Diesel",
+    "bestCombination": [
+      "Viagra"
+    ],
+    "maxNetProfit": 52
+  },
+  {
+    "ranknum": 3,
+    "baseProduct": "Green Crack",
+    "bestCombination": [
+      "Banana"
+    ],
+    "maxNetProfit": 55
+  },
+  {
+    "ranknum": 3,
+    "baseProduct": "Grandaddy Purple",
+    "bestCombination": [
+      "Viagra"
+    ],
+    "maxNetProfit": 56
+  },
+  {
+    "ranknum": 3,
+    "baseProduct": "Meth",
+    "bestCombination": [
+      "Viagra"
+    ],
+    "maxNetProfit": 98
+  },
+  {
+    "ranknum": 3,
+    "baseProduct": "Cocaine",
+    "bestCombination": [
+      "Viagra"
+    ],
+    "maxNetProfit": 215
+  },
+  {
+    "ranknum": 4,
+    "baseProduct": "OG Kush",
+    "bestCombination": [
+      "Mouth Wash"
+    ],
+    "maxNetProfit": 60
+  },
+  {
+    "ranknum": 4,
+    "baseProduct": "Sour Diesel",
+    "bestCombination": [
+      "Viagra"
+    ],
+    "maxNetProfit": 52
+  },
+  {
+    "ranknum": 4,
+    "baseProduct": "Green Crack",
+    "bestCombination": [
+      "Banana"
+    ],
+    "maxNetProfit": 55
+  },
+  {
+    "ranknum": 4,
+    "baseProduct": "Grandaddy Purple",
+    "bestCombination": [
+      "Viagra"
+    ],
+    "maxNetProfit": 56
+  },
+  {
+    "ranknum": 4,
+    "baseProduct": "Meth",
+    "bestCombination": [
+      "Viagra"
+    ],
+    "maxNetProfit": 98
+  },
+  {
+    "ranknum": 4,
+    "baseProduct": "Cocaine",
+    "bestCombination": [
+      "Viagra"
+    ],
+    "maxNetProfit": 215
+  },
+  {
+    "ranknum": 5,
+    "baseProduct": "OG Kush",
+    "bestCombination": [
+      "Mouth Wash"
+    ],
+    "maxNetProfit": 60
+  },
+  {
+    "ranknum": 5,
+    "baseProduct": "Sour Diesel",
+    "bestCombination": [
+      "Viagra"
+    ],
+    "maxNetProfit": 52
+  },
+  {
+    "ranknum": 5,
+    "baseProduct": "Green Crack",
+    "bestCombination": [
+      "Banana"
+    ],
+    "maxNetProfit": 55
+  },
+  {
+    "ranknum": 5,
+    "baseProduct": "Grandaddy Purple",
+    "bestCombination": [
+      "Viagra"
+    ],
+    "maxNetProfit": 56
+  },
+  {
+    "ranknum": 5,
+    "baseProduct": "Meth",
+    "bestCombination": [
+      "Viagra"
+    ],
+    "maxNetProfit": 98
+  },
+  {
+    "ranknum": 5,
+    "baseProduct": "Cocaine",
+    "bestCombination": [
+      "Viagra"
+    ],
+    "maxNetProfit": 215
+  },
+  {
+    "ranknum": 6,
+    "baseProduct": "OG Kush",
+    "bestCombination": [
+      "Mouth Wash"
+    ],
+    "maxNetProfit": 60
+  },
+  {
+    "ranknum": 6,
+    "baseProduct": "Sour Diesel",
+    "bestCombination": [
+      "Viagra"
+    ],
+    "maxNetProfit": 52
+  },
+  {
+    "ranknum": 6,
+    "baseProduct": "Green Crack",
+    "bestCombination": [
+      "Banana"
+    ],
+    "maxNetProfit": 55
+  },
+  {
+    "ranknum": 6,
+    "baseProduct": "Grandaddy Purple",
+    "bestCombination": [
+      "Viagra"
+    ],
+    "maxNetProfit": 56
+  },
+  {
+    "ranknum": 6,
+    "baseProduct": "Meth",
+    "bestCombination": [
+      "Viagra"
+    ],
+    "maxNetProfit": 98
+  },
+  {
+    "ranknum": 6,
+    "baseProduct": "Cocaine",
+    "bestCombination": [
+      "Viagra"
+    ],
+    "maxNetProfit": 215
+  },
+  {
+    "ranknum": 7,
+    "baseProduct": "OG Kush",
+    "bestCombination": [
+      "Mouth Wash"
+    ],
+    "maxNetProfit": 60
+  },
+  {
+    "ranknum": 7,
+    "baseProduct": "Sour Diesel",
+    "bestCombination": [
+      "Viagra"
+    ],
+    "maxNetProfit": 52
+  },
+  {
+    "ranknum": 7,
+    "baseProduct": "Green Crack",
+    "bestCombination": [
+      "Banana"
+    ],
+    "maxNetProfit": 55
+  },
+  {
+    "ranknum": 7,
+    "baseProduct": "Grandaddy Purple",
+    "bestCombination": [
+      "Viagra"
+    ],
+    "maxNetProfit": 56
+  },
+  {
+    "ranknum": 7,
+    "baseProduct": "Meth",
+    "bestCombination": [
+      "Viagra"
+    ],
+    "maxNetProfit": 98
+  },
+  {
+    "ranknum": 7,
+    "baseProduct": "Cocaine",
+    "bestCombination": [
+      "Viagra"
+    ],
+    "maxNetProfit": 215
+  },
+  {
+    "ranknum": 8,
+    "baseProduct": "OG Kush",
+    "bestCombination": [
+      "Mouth Wash"
+    ],
+    "maxNetProfit": 60
+  },
+  {
+    "ranknum": 8,
+    "baseProduct": "Sour Diesel",
+    "bestCombination": [
+      "Viagra"
+    ],
+    "maxNetProfit": 52
+  },
+  {
+    "ranknum": 8,
+    "baseProduct": "Green Crack",
+    "bestCombination": [
+      "Mega Bean"
+    ],
+    "maxNetProfit": 60
+  },
+  {
+    "ranknum": 8,
+    "baseProduct": "Grandaddy Purple",
+    "bestCombination": [
+      "Viagra"
+    ],
+    "maxNetProfit": 56
+  },
+  {
+    "ranknum": 8,
+    "baseProduct": "Meth",
+    "bestCombination": [
+      "Viagra"
+    ],
+    "maxNetProfit": 98
+  },
+  {
+    "ranknum": 8,
+    "baseProduct": "Cocaine",
+    "bestCombination": [
+      "Viagra"
+    ],
+    "maxNetProfit": 215
+  },
+  {
+    "ranknum": 9,
+    "baseProduct": "OG Kush",
+    "bestCombination": [
+      "Mouth Wash"
+    ],
+    "maxNetProfit": 60
+  },
+  {
+    "ranknum": 9,
+    "baseProduct": "Sour Diesel",
+    "bestCombination": [
+      "Viagra"
+    ],
+    "maxNetProfit": 52
+  },
+  {
+    "ranknum": 9,
+    "baseProduct": "Green Crack",
+    "bestCombination": [
+      "Mega Bean"
+    ],
+    "maxNetProfit": 60
+  },
+  {
+    "ranknum": 9,
+    "baseProduct": "Grandaddy Purple",
+    "bestCombination": [
+      "Viagra"
+    ],
+    "maxNetProfit": 56
+  },
+  {
+    "ranknum": 9,
+    "baseProduct": "Meth",
+    "bestCombination": [
+      "Viagra"
+    ],
+    "maxNetProfit": 98
+  },
+  {
+    "ranknum": 9,
+    "baseProduct": "Cocaine",
+    "bestCombination": [
+      "Viagra"
+    ],
+    "maxNetProfit": 215
+  },
+  {
+    "ranknum": 10,
+    "baseProduct": "OG Kush",
+    "bestCombination": [
+      "Mouth Wash"
+    ],
+    "maxNetProfit": 60
+  },
+  {
+    "ranknum": 10,
+    "baseProduct": "Sour Diesel",
+    "bestCombination": [
+      "Viagra"
+    ],
+    "maxNetProfit": 52
+  },
+  {
+    "ranknum": 10,
+    "baseProduct": "Green Crack",
+    "bestCombination": [
+      "Mega Bean"
+    ],
+    "maxNetProfit": 60
+  },
+  {
+    "ranknum": 10,
+    "baseProduct": "Grandaddy Purple",
+    "bestCombination": [
+      "Viagra"
+    ],
+    "maxNetProfit": 56
+  },
+  {
+    "ranknum": 10,
+    "baseProduct": "Meth",
+    "bestCombination": [
+      "Viagra"
+    ],
+    "maxNetProfit": 98
+  },
+  {
+    "ranknum": 10,
+    "baseProduct": "Cocaine",
+    "bestCombination": [
+      "Viagra"
+    ],
+    "maxNetProfit": 215
+  },
+  {
+    "ranknum": 11,
+    "baseProduct": "OG Kush",
+    "bestCombination": [
+      "Mouth Wash"
+    ],
+    "maxNetProfit": 60
+  },
+  {
+    "ranknum": 11,
+    "baseProduct": "Sour Diesel",
+    "bestCombination": [
+      "Iodine"
+    ],
+    "maxNetProfit": 57
+  },
+  {
+    "ranknum": 11,
+    "baseProduct": "Green Crack",
+    "bestCombination": [
+      "Mega Bean"
+    ],
+    "maxNetProfit": 60
+  },
+  {
+    "ranknum": 11,
+    "baseProduct": "Grandaddy Purple",
+    "bestCombination": [
+      "Viagra"
+    ],
+    "maxNetProfit": 56
+  },
+  {
+    "ranknum": 11,
+    "baseProduct": "Meth",
+    "bestCombination": [
+      "Viagra"
+    ],
+    "maxNetProfit": 98
+  },
+  {
+    "ranknum": 11,
+    "baseProduct": "Cocaine",
+    "bestCombination": [
+      "Viagra"
+    ],
+    "maxNetProfit": 215
+  },
+  {
+    "ranknum": 12,
+    "baseProduct": "OG Kush",
+    "bestCombination": [
+      "Mouth Wash"
+    ],
+    "maxNetProfit": 60
+  },
+  {
+    "ranknum": 12,
+    "baseProduct": "Sour Diesel",
+    "bestCombination": [
+      "Iodine"
+    ],
+    "maxNetProfit": 57
+  },
+  {
+    "ranknum": 12,
+    "baseProduct": "Green Crack",
+    "bestCombination": [
+      "Mega Bean"
+    ],
+    "maxNetProfit": 60
+  },
+  {
+    "ranknum": 12,
+    "baseProduct": "Grandaddy Purple",
+    "bestCombination": [
+      "Viagra"
+    ],
+    "maxNetProfit": 56
+  },
+  {
+    "ranknum": 12,
+    "baseProduct": "Meth",
+    "bestCombination": [
+      "Viagra"
+    ],
+    "maxNetProfit": 98
+  },
+  {
+    "ranknum": 12,
+    "baseProduct": "Cocaine",
+    "bestCombination": [
+      "Viagra"
+    ],
+    "maxNetProfit": 215
+  },
+  {
+    "ranknum": 13,
+    "baseProduct": "OG Kush",
+    "bestCombination": [
+      "Mouth Wash"
+    ],
+    "maxNetProfit": 60
+  },
+  {
+    "ranknum": 13,
+    "baseProduct": "Sour Diesel",
+    "bestCombination": [
+      "Iodine"
+    ],
+    "maxNetProfit": 57
+  },
+  {
+    "ranknum": 13,
+    "baseProduct": "Green Crack",
+    "bestCombination": [
+      "Mega Bean"
+    ],
+    "maxNetProfit": 60
+  },
+  {
+    "ranknum": 13,
+    "baseProduct": "Grandaddy Purple",
+    "bestCombination": [
+      "Viagra"
+    ],
+    "maxNetProfit": 56
+  },
+  {
+    "ranknum": 13,
+    "baseProduct": "Meth",
+    "bestCombination": [
+      "Viagra"
+    ],
+    "maxNetProfit": 98
+  },
+  {
+    "ranknum": 13,
+    "baseProduct": "Cocaine",
+    "bestCombination": [
+      "Horse Semen"
+    ],
+    "maxNetProfit": 219
+  }
+]

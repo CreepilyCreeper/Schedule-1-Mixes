@@ -1,0 +1,17 @@
+{
+  "ranknum": 10,
+  "baseProduct": "Grandaddy Purple",
+  "permutationLength": 8,
+  "maxRepetitions": 3,
+  "bestCombination": [
+    "Paracetamol",
+    "Banana",
+    "Gasoline",
+    "Cuke",
+    "Mega Bean",
+    "Battery",
+    "Banana",
+    "Cuke"
+  ],
+  "maxNetProfit": 134
+}

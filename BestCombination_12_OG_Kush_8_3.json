@@ -1,0 +1,17 @@
+{
+  "ranknum": 12,
+  "baseProduct": "OG Kush",
+  "permutationLength": 8,
+  "maxRepetitions": 3,
+  "bestCombination": [
+    "Banana",
+    "Gasoline",
+    "Paracetamol",
+    "Cuke",
+    "Mega Bean",
+    "Battery",
+    "Banana",
+    "Cuke"
+  ],
+  "maxNetProfit": 140
+}

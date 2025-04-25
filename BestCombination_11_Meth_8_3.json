@@ -1,0 +1,17 @@
+{
+  "ranknum": 11,
+  "baseProduct": "Meth",
+  "permutationLength": 8,
+  "maxRepetitions": 3,
+  "bestCombination": [
+    "Paracetamol",
+    "Banana",
+    "Gasoline",
+    "Cuke",
+    "Mega Bean",
+    "Battery",
+    "Banana",
+    "Cuke"
+  ],
+  "maxNetProfit": 297
+}

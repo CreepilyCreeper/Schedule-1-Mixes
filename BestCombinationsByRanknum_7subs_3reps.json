@@ -1,0 +1,1094 @@
+[
+  {
+    "ranknum": 1,
+    "baseProduct": "OG Kush",
+    "bestCombination": [
+      "Paracetamol",
+      "Banana",
+      "Donut",
+      "Cuke",
+      "Paracetamol",
+      "Cuke",
+      "Banana"
+    ],
+    "maxNetProfit": 110
+  },
+  {
+    "ranknum": 1,
+    "baseProduct": "Sour Diesel",
+    "bestCombination": [
+      "Paracetamol",
+      "Banana",
+      "Cuke",
+      "Paracetamol",
+      "Cuke",
+      "Banana",
+      "Donut"
+    ],
+    "maxNetProfit": 96
+  },
+  {
+    "ranknum": 1,
+    "baseProduct": "Green Crack",
+    "bestCombination": [
+      "Paracetamol",
+      "Banana",
+      "Cuke",
+      "Paracetamol",
+      "Banana",
+      "Donut",
+      "Cuke"
+    ],
+    "maxNetProfit": 92
+  },
+  {
+    "ranknum": 1,
+    "baseProduct": "Grandaddy Purple",
+    "bestCombination": [
+      "Paracetamol",
+      "Banana",
+      "Cuke",
+      "Paracetamol",
+      "Cuke",
+      "Banana",
+      "Donut"
+    ],
+    "maxNetProfit": 101
+  },
+  {
+    "ranknum": 1,
+    "baseProduct": "Meth",
+    "bestCombination": [
+      "Paracetamol",
+      "Banana",
+      "Cuke",
+      "Paracetamol",
+      "Cuke",
+      "Banana",
+      "Donut"
+    ],
+    "maxNetProfit": 200
+  },
+  {
+    "ranknum": 1,
+    "baseProduct": "Cocaine",
+    "bestCombination": [
+      "Paracetamol",
+      "Banana",
+      "Cuke",
+      "Paracetamol",
+      "Cuke",
+      "Banana",
+      "Donut"
+    ],
+    "maxNetProfit": 448
+  },
+  {
+    "ranknum": 2,
+    "baseProduct": "OG Kush",
+    "bestCombination": [
+      "Viagra",
+      "Paracetamol",
+      "Donut",
+      "Cuke",
+      "Paracetamol",
+      "Cuke",
+      "Banana"
+    ],
+    "maxNetProfit": 117
+  },
+  {
+    "ranknum": 2,
+    "baseProduct": "Sour Diesel",
+    "bestCombination": [
+      "Viagra",
+      "Paracetamol",
+      "Cuke",
+      "Paracetamol",
+      "Cuke",
+      "Banana",
+      "Donut"
+    ],
+    "maxNetProfit": 103
+  },
+  {
+    "ranknum": 2,
+    "baseProduct": "Green Crack",
+    "bestCombination": [
+      "Viagra",
+      "Paracetamol",
+      "Banana",
+      "Donut",
+      "Cuke",
+      "Paracetamol",
+      "Cuke"
+    ],
+    "maxNetProfit": 99
+  },
+  {
+    "ranknum": 2,
+    "baseProduct": "Grandaddy Purple",
+    "bestCombination": [
+      "Viagra",
+      "Paracetamol",
+      "Cuke",
+      "Paracetamol",
+      "Cuke",
+      "Banana",
+      "Donut"
+    ],
+    "maxNetProfit": 107
+  },
+  {
+    "ranknum": 2,
+    "baseProduct": "Meth",
+    "bestCombination": [
+      "Viagra",
+      "Paracetamol",
+      "Cuke",
+      "Paracetamol",
+      "Cuke",
+      "Banana",
+      "Donut"
+    ],
+    "maxNetProfit": 215
+  },
+  {
+    "ranknum": 2,
+    "baseProduct": "Cocaine",
+    "bestCombination": [
+      "Viagra",
+      "Paracetamol",
+      "Cuke",
+      "Paracetamol",
+      "Cuke",
+      "Banana",
+      "Donut"
+    ],
+    "maxNetProfit": 482
+  },
+  {
+    "ranknum": 3,
+    "baseProduct": "OG Kush",
+    "bestCombination": [
+      "Viagra",
+      "Paracetamol",
+      "Donut",
+      "Cuke",
+      "Paracetamol",
+      "Cuke",
+      "Banana"
+    ],
+    "maxNetProfit": 117
+  },
+  {
+    "ranknum": 3,
+    "baseProduct": "Sour Diesel",
+    "bestCombination": [
+      "Viagra",
+      "Paracetamol",
+      "Cuke",
+      "Paracetamol",
+      "Cuke",
+      "Banana",
+      "Donut"
+    ],
+    "maxNetProfit": 103
+  },
+  {
+    "ranknum": 3,
+    "baseProduct": "Green Crack",
+    "bestCombination": [
+      "Viagra",
+      "Paracetamol",
+      "Cuke",
+      "Banana",
+      "Donut",
+      "Donut",
+      "Mouth Wash"
+    ],
+    "maxNetProfit": 105
+  },
+  {
+    "ranknum": 3,
+    "baseProduct": "Grandaddy Purple",
+    "bestCombination": [
+      "Viagra",
+      "Paracetamol",
+      "Cuke",
+      "Paracetamol",
+      "Cuke",
+      "Banana",
+      "Donut"
+    ],
+    "maxNetProfit": 107
+  },
+  {
+    "ranknum": 3,
+    "baseProduct": "Meth",
+    "bestCombination": [
+      "Viagra",
+      "Paracetamol",
+      "Cuke",
+      "Paracetamol",
+      "Cuke",
+      "Banana",
+      "Donut"
+    ],
+    "maxNetProfit": 215
+  },
+  {
+    "ranknum": 3,
+    "baseProduct": "Cocaine",
+    "bestCombination": [
+      "Viagra",
+      "Donut",
+      "Donut",
+      "Mouth Wash",
+      "Donut",
+      "Cuke",
+      "Banana"
+    ],
+    "maxNetProfit": 483
+  },
+  {
+    "ranknum": 4,
+    "baseProduct": "OG Kush",
+    "bestCombination": [
+      "Viagra",
+      "Paracetamol",
+      "Donut",
+      "Cuke",
+      "Paracetamol",
+      "Cuke",
+      "Banana"
+    ],
+    "maxNetProfit": 117
+  },
+  {
+    "ranknum": 4,
+    "baseProduct": "Sour Diesel",
+    "bestCombination": [
+      "Viagra",
+      "Paracetamol",
+      "Cuke",
+      "Paracetamol",
+      "Cuke",
+      "Banana",
+      "Donut"
+    ],
+    "maxNetProfit": 103
+  },
+  {
+    "ranknum": 4,
+    "baseProduct": "Green Crack",
+    "bestCombination": [
+      "Viagra",
+      "Paracetamol",
+      "Cuke",
+      "Banana",
+      "Donut",
+      "Donut",
+      "Mouth Wash"
+    ],
+    "maxNetProfit": 105
+  },
+  {
+    "ranknum": 4,
+    "baseProduct": "Grandaddy Purple",
+    "bestCombination": [
+      "Viagra",
+      "Paracetamol",
+      "Cuke",
+      "Paracetamol",
+      "Cuke",
+      "Banana",
+      "Donut"
+    ],
+    "maxNetProfit": 107
+  },
+  {
+    "ranknum": 4,
+    "baseProduct": "Meth",
+    "bestCombination": [
+      "Viagra",
+      "Paracetamol",
+      "Cuke",
+      "Paracetamol",
+      "Cuke",
+      "Banana",
+      "Donut"
+    ],
+    "maxNetProfit": 215
+  },
+  {
+    "ranknum": 4,
+    "baseProduct": "Cocaine",
+    "bestCombination": [
+      "Viagra",
+      "Donut",
+      "Donut",
+      "Mouth Wash",
+      "Donut",
+      "Cuke",
+      "Banana"
+    ],
+    "maxNetProfit": 483
+  },
+  {
+    "ranknum": 5,
+    "baseProduct": "OG Kush",
+    "bestCombination": [
+      "Gasoline",
+      "Cuke",
+      "Gasoline",
+      "Viagra",
+      "Banana",
+      "Cuke",
+      "Banana"
+    ],
+    "maxNetProfit": 120
+  },
+  {
+    "ranknum": 5,
+    "baseProduct": "Sour Diesel",
+    "bestCombination": [
+      "Cuke",
+      "Gasoline",
+      "Cuke",
+      "Gasoline",
+      "Cuke",
+      "Viagra",
+      "Mouth Wash"
+    ],
+    "maxNetProfit": 116
+  },
+  {
+    "ranknum": 5,
+    "baseProduct": "Green Crack",
+    "bestCombination": [
+      "Gasoline",
+      "Cuke",
+      "Paracetamol",
+      "Gasoline",
+      "Banana",
+      "Cuke",
+      "Banana"
+    ],
+    "maxNetProfit": 127
+  },
+  {
+    "ranknum": 5,
+    "baseProduct": "Grandaddy Purple",
+    "bestCombination": [
+      "Cuke",
+      "Gasoline",
+      "Cuke",
+      "Gasoline",
+      "Cuke",
+      "Viagra",
+      "Mouth Wash"
+    ],
+    "maxNetProfit": 120
+  },
+  {
+    "ranknum": 5,
+    "baseProduct": "Meth",
+    "bestCombination": [
+      "Cuke",
+      "Gasoline",
+      "Cuke",
+      "Gasoline",
+      "Cuke",
+      "Viagra",
+      "Mouth Wash"
+    ],
+    "maxNetProfit": 246
+  },
+  {
+    "ranknum": 5,
+    "baseProduct": "Cocaine",
+    "bestCombination": [
+      "Cuke",
+      "Gasoline",
+      "Cuke",
+      "Gasoline",
+      "Cuke",
+      "Viagra",
+      "Mouth Wash"
+    ],
+    "maxNetProfit": 555
+  },
+  {
+    "ranknum": 6,
+    "baseProduct": "OG Kush",
+    "bestCombination": [
+      "Gasoline",
+      "Cuke",
+      "Gasoline",
+      "Viagra",
+      "Banana",
+      "Cuke",
+      "Banana"
+    ],
+    "maxNetProfit": 120
+  },
+  {
+    "ranknum": 6,
+    "baseProduct": "Sour Diesel",
+    "bestCombination": [
+      "Cuke",
+      "Gasoline",
+      "Cuke",
+      "Gasoline",
+      "Cuke",
+      "Viagra",
+      "Mouth Wash"
+    ],
+    "maxNetProfit": 116
+  },
+  {
+    "ranknum": 6,
+    "baseProduct": "Green Crack",
+    "bestCombination": [
+      "Gasoline",
+      "Cuke",
+      "Paracetamol",
+      "Gasoline",
+      "Banana",
+      "Cuke",
+      "Banana"
+    ],
+    "maxNetProfit": 127
+  },
+  {
+    "ranknum": 6,
+    "baseProduct": "Grandaddy Purple",
+    "bestCombination": [
+      "Cuke",
+      "Gasoline",
+      "Cuke",
+      "Gasoline",
+      "Cuke",
+      "Viagra",
+      "Mouth Wash"
+    ],
+    "maxNetProfit": 120
+  },
+  {
+    "ranknum": 6,
+    "baseProduct": "Meth",
+    "bestCombination": [
+      "Cuke",
+      "Gasoline",
+      "Cuke",
+      "Gasoline",
+      "Cuke",
+      "Viagra",
+      "Mouth Wash"
+    ],
+    "maxNetProfit": 246
+  },
+  {
+    "ranknum": 6,
+    "baseProduct": "Cocaine",
+    "bestCombination": [
+      "Cuke",
+      "Gasoline",
+      "Cuke",
+      "Gasoline",
+      "Cuke",
+      "Viagra",
+      "Mouth Wash"
+    ],
+    "maxNetProfit": 555
+  },
+  {
+    "ranknum": 7,
+    "baseProduct": "OG Kush",
+    "bestCombination": [
+      "Gasoline",
+      "Cuke",
+      "Gasoline",
+      "Viagra",
+      "Banana",
+      "Cuke",
+      "Banana"
+    ],
+    "maxNetProfit": 120
+  },
+  {
+    "ranknum": 7,
+    "baseProduct": "Sour Diesel",
+    "bestCombination": [
+      "Cuke",
+      "Gasoline",
+      "Cuke",
+      "Gasoline",
+      "Cuke",
+      "Viagra",
+      "Mouth Wash"
+    ],
+    "maxNetProfit": 116
+  },
+  {
+    "ranknum": 7,
+    "baseProduct": "Green Crack",
+    "bestCombination": [
+      "Gasoline",
+      "Cuke",
+      "Paracetamol",
+      "Gasoline",
+      "Banana",
+      "Cuke",
+      "Banana"
+    ],
+    "maxNetProfit": 127
+  },
+  {
+    "ranknum": 7,
+    "baseProduct": "Grandaddy Purple",
+    "bestCombination": [
+      "Cuke",
+      "Gasoline",
+      "Cuke",
+      "Gasoline",
+      "Cuke",
+      "Viagra",
+      "Mouth Wash"
+    ],
+    "maxNetProfit": 120
+  },
+  {
+    "ranknum": 7,
+    "baseProduct": "Meth",
+    "bestCombination": [
+      "Cuke",
+      "Gasoline",
+      "Cuke",
+      "Gasoline",
+      "Cuke",
+      "Viagra",
+      "Mouth Wash"
+    ],
+    "maxNetProfit": 246
+  },
+  {
+    "ranknum": 7,
+    "baseProduct": "Cocaine",
+    "bestCombination": [
+      "Cuke",
+      "Gasoline",
+      "Cuke",
+      "Gasoline",
+      "Cuke",
+      "Viagra",
+      "Mouth Wash"
+    ],
+    "maxNetProfit": 555
+  },
+  {
+    "ranknum": 8,
+    "baseProduct": "OG Kush",
+    "bestCombination": [
+      "Mega Bean",
+      "Banana",
+      "Cuke",
+      "Gasoline",
+      "Cuke",
+      "Viagra",
+      "Mouth Wash"
+    ],
+    "maxNetProfit": 128
+  },
+  {
+    "ranknum": 8,
+    "baseProduct": "Sour Diesel",
+    "bestCombination": [
+      "Paracetamol",
+      "Cuke",
+      "Gasoline",
+      "Cuke",
+      "Mega Bean",
+      "Viagra",
+      "Mouth Wash"
+    ],
+    "maxNetProfit": 121
+  },
+  {
+    "ranknum": 8,
+    "baseProduct": "Green Crack",
+    "bestCombination": [
+      "Gasoline",
+      "Cuke",
+      "Paracetamol",
+      "Gasoline",
+      "Banana",
+      "Cuke",
+      "Banana"
+    ],
+    "maxNetProfit": 127
+  },
+  {
+    "ranknum": 8,
+    "baseProduct": "Grandaddy Purple",
+    "bestCombination": [
+      "Paracetamol",
+      "Cuke",
+      "Gasoline",
+      "Cuke",
+      "Mega Bean",
+      "Viagra",
+      "Mouth Wash"
+    ],
+    "maxNetProfit": 126
+  },
+  {
+    "ranknum": 8,
+    "baseProduct": "Meth",
+    "bestCombination": [
+      "Paracetamol",
+      "Cuke",
+      "Gasoline",
+      "Cuke",
+      "Mega Bean",
+      "Viagra",
+      "Mouth Wash"
+    ],
+    "maxNetProfit": 260
+  },
+  {
+    "ranknum": 8,
+    "baseProduct": "Cocaine",
+    "bestCombination": [
+      "Paracetamol",
+      "Cuke",
+      "Gasoline",
+      "Cuke",
+      "Mega Bean",
+      "Viagra",
+      "Mouth Wash"
+    ],
+    "maxNetProfit": 588
+  },
+  {
+    "ranknum": 9,
+    "baseProduct": "OG Kush",
+    "bestCombination": [
+      "Mega Bean",
+      "Banana",
+      "Cuke",
+      "Gasoline",
+      "Cuke",
+      "Viagra",
+      "Mouth Wash"
+    ],
+    "maxNetProfit": 128
+  },
+  {
+    "ranknum": 9,
+    "baseProduct": "Sour Diesel",
+    "bestCombination": [
+      "Paracetamol",
+      "Cuke",
+      "Gasoline",
+      "Cuke",
+      "Mega Bean",
+      "Viagra",
+      "Mouth Wash"
+    ],
+    "maxNetProfit": 121
+  },
+  {
+    "ranknum": 9,
+    "baseProduct": "Green Crack",
+    "bestCombination": [
+      "Viagra",
+      "Motor Oil",
+      "Cuke",
+      "Mega Bean",
+      "Paracetamol",
+      "Chili",
+      "Mega Bean"
+    ],
+    "maxNetProfit": 128
+  },
+  {
+    "ranknum": 9,
+    "baseProduct": "Grandaddy Purple",
+    "bestCombination": [
+      "Energy Drink",
+      "Mega Bean",
+      "Paracetamol",
+      "Viagra",
+      "Chili",
+      "Cuke",
+      "Mega Bean"
+    ],
+    "maxNetProfit": 128
+  },
+  {
+    "ranknum": 9,
+    "baseProduct": "Meth",
+    "bestCombination": [
+      "Gasoline",
+      "Cuke",
+      "Mega Bean",
+      "Cuke",
+      "Motor Oil",
+      "Paracetamol",
+      "Chili"
+    ],
+    "maxNetProfit": 262
+  },
+  {
+    "ranknum": 9,
+    "baseProduct": "Cocaine",
+    "bestCombination": [
+      "Gasoline",
+      "Cuke",
+      "Mega Bean",
+      "Cuke",
+      "Motor Oil",
+      "Paracetamol",
+      "Chili"
+    ],
+    "maxNetProfit": 598
+  },
+  {
+    "ranknum": 10,
+    "baseProduct": "OG Kush",
+    "bestCombination": [
+      "Banana",
+      "Gasoline",
+      "Cuke",
+      "Mega Bean",
+      "Battery",
+      "Banana",
+      "Cuke"
+    ],
+    "maxNetProfit": 136
+  },
+  {
+    "ranknum": 10,
+    "baseProduct": "Sour Diesel",
+    "bestCombination": [
+      "Banana",
+      "Gasoline",
+      "Cuke",
+      "Mega Bean",
+      "Battery",
+      "Banana",
+      "Cuke"
+    ],
+    "maxNetProfit": 125
+  },
+  {
+    "ranknum": 10,
+    "baseProduct": "Green Crack",
+    "bestCombination": [
+      "Paracetamol",
+      "Cuke",
+      "Gasoline",
+      "Cuke",
+      "Chili",
+      "Battery",
+      "Mega Bean"
+    ],
+    "maxNetProfit": 132
+  },
+  {
+    "ranknum": 10,
+    "baseProduct": "Grandaddy Purple",
+    "bestCombination": [
+      "Energy Drink",
+      "Paracetamol",
+      "Gasoline",
+      "Cuke",
+      "Battery",
+      "Mega Bean",
+      "Chili"
+    ],
+    "maxNetProfit": 130
+  },
+  {
+    "ranknum": 10,
+    "baseProduct": "Meth",
+    "bestCombination": [
+      "Motor Oil",
+      "Cuke",
+      "Paracetamol",
+      "Gasoline",
+      "Cuke",
+      "Battery",
+      "Mega Bean"
+    ],
+    "maxNetProfit": 274
+  },
+  {
+    "ranknum": 10,
+    "baseProduct": "Cocaine",
+    "bestCombination": [
+      "Motor Oil",
+      "Cuke",
+      "Paracetamol",
+      "Gasoline",
+      "Cuke",
+      "Battery",
+      "Mega Bean"
+    ],
+    "maxNetProfit": 624
+  },
+  {
+    "ranknum": 11,
+    "baseProduct": "OG Kush",
+    "bestCombination": [
+      "Banana",
+      "Gasoline",
+      "Cuke",
+      "Mega Bean",
+      "Battery",
+      "Banana",
+      "Cuke"
+    ],
+    "maxNetProfit": 136
+  },
+  {
+    "ranknum": 11,
+    "baseProduct": "Sour Diesel",
+    "bestCombination": [
+      "Cuke",
+      "Gasoline",
+      "Cuke",
+      "Viagra",
+      "Mega Bean",
+      "Iodine",
+      "Motor Oil"
+    ],
+    "maxNetProfit": 128
+  },
+  {
+    "ranknum": 11,
+    "baseProduct": "Green Crack",
+    "bestCombination": [
+      "Paracetamol",
+      "Cuke",
+      "Gasoline",
+      "Cuke",
+      "Chili",
+      "Battery",
+      "Mega Bean"
+    ],
+    "maxNetProfit": 132
+  },
+  {
+    "ranknum": 11,
+    "baseProduct": "Grandaddy Purple",
+    "bestCombination": [
+      "Energy Drink",
+      "Paracetamol",
+      "Gasoline",
+      "Cuke",
+      "Battery",
+      "Mega Bean",
+      "Chili"
+    ],
+    "maxNetProfit": 130
+  },
+  {
+    "ranknum": 11,
+    "baseProduct": "Meth",
+    "bestCombination": [
+      "Motor Oil",
+      "Cuke",
+      "Paracetamol",
+      "Gasoline",
+      "Cuke",
+      "Battery",
+      "Mega Bean"
+    ],
+    "maxNetProfit": 274
+  },
+  {
+    "ranknum": 11,
+    "baseProduct": "Cocaine",
+    "bestCombination": [
+      "Motor Oil",
+      "Cuke",
+      "Paracetamol",
+      "Gasoline",
+      "Cuke",
+      "Battery",
+      "Mega Bean"
+    ],
+    "maxNetProfit": 624
+  },
+  {
+    "ranknum": 12,
+    "baseProduct": "OG Kush",
+    "bestCombination": [
+      "Banana",
+      "Gasoline",
+      "Cuke",
+      "Mega Bean",
+      "Battery",
+      "Banana",
+      "Cuke"
+    ],
+    "maxNetProfit": 136
+  },
+  {
+    "ranknum": 12,
+    "baseProduct": "Sour Diesel",
+    "bestCombination": [
+      "Cuke",
+      "Gasoline",
+      "Cuke",
+      "Viagra",
+      "Mega Bean",
+      "Iodine",
+      "Motor Oil"
+    ],
+    "maxNetProfit": 128
+  },
+  {
+    "ranknum": 12,
+    "baseProduct": "Green Crack",
+    "bestCombination": [
+      "Paracetamol",
+      "Cuke",
+      "Gasoline",
+      "Cuke",
+      "Chili",
+      "Battery",
+      "Mega Bean"
+    ],
+    "maxNetProfit": 132
+  },
+  {
+    "ranknum": 12,
+    "baseProduct": "Grandaddy Purple",
+    "bestCombination": [
+      "Energy Drink",
+      "Paracetamol",
+      "Gasoline",
+      "Cuke",
+      "Battery",
+      "Mega Bean",
+      "Chili"
+    ],
+    "maxNetProfit": 130
+  },
+  {
+    "ranknum": 12,
+    "baseProduct": "Meth",
+    "bestCombination": [
+      "Motor Oil",
+      "Cuke",
+      "Paracetamol",
+      "Gasoline",
+      "Cuke",
+      "Battery",
+      "Mega Bean"
+    ],
+    "maxNetProfit": 274
+  },
+  {
+    "ranknum": 12,
+    "baseProduct": "Cocaine",
+    "bestCombination": [
+      "Motor Oil",
+      "Cuke",
+      "Paracetamol",
+      "Gasoline",
+      "Cuke",
+      "Battery",
+      "Mega Bean"
+    ],
+    "maxNetProfit": 624
+  },
+  {
+    "ranknum": 13,
+    "baseProduct": "OG Kush",
+    "bestCombination": [
+      "Banana",
+      "Gasoline",
+      "Cuke",
+      "Mega Bean",
+      "Battery",
+      "Banana",
+      "Cuke"
+    ],
+    "maxNetProfit": 136
+  },
+  {
+    "ranknum": 13,
+    "baseProduct": "Sour Diesel",
+    "bestCombination": [
+      "Banana",
+      "Cuke",
+      "Horse Semen",
+      "Mega Bean",
+      "Viagra",
+      "Iodine",
+      "Motor Oil"
+    ],
+    "maxNetProfit": 129
+  },
+  {
+    "ranknum": 13,
+    "baseProduct": "Green Crack",
+    "bestCombination": [
+      "Paracetamol",
+      "Cuke",
+      "Gasoline",
+      "Cuke",
+      "Chili",
+      "Battery",
+      "Mega Bean"
+    ],
+    "maxNetProfit": 132
+  },
+  {
+    "ranknum": 13,
+    "baseProduct": "Grandaddy Purple",
+    "bestCombination": [
+      "Energy Drink",
+      "Paracetamol",
+      "Gasoline",
+      "Cuke",
+      "Battery",
+      "Mega Bean",
+      "Chili"
+    ],
+    "maxNetProfit": 130
+  },
+  {
+    "ranknum": 13,
+    "baseProduct": "Meth",
+    "bestCombination": [
+      "Motor Oil",
+      "Cuke",
+      "Paracetamol",
+      "Gasoline",
+      "Cuke",
+      "Battery",
+      "Mega Bean"
+    ],
+    "maxNetProfit": 274
+  },
+  {
+    "ranknum": 13,
+    "baseProduct": "Cocaine",
+    "bestCombination": [
+      "Motor Oil",
+      "Cuke",
+      "Paracetamol",
+      "Gasoline",
+      "Cuke",
+      "Battery",
+      "Mega Bean"
+    ],
+    "maxNetProfit": 624
+  }
+]

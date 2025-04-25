@@ -1,0 +1,17 @@
+{
+  "ranknum": 13,
+  "baseProduct": "Cocaine",
+  "permutationLength": 8,
+  "maxRepetitions": 3,
+  "bestCombination": [
+    "Motor Oil",
+    "Cuke",
+    "Paracetamol",
+    "Gasoline",
+    "Cuke",
+    "Battery",
+    "Horse Semen",
+    "Mega Bean"
+  ],
+  "maxNetProfit": 693
+}
