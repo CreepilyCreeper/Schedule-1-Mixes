@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Schedule JSON Data</title>
+  <link rel="stylesheet" href="https://cdn.datatables.net/1.13.4/css/jquery.dataTables.min.css">
+  <script src="https://code.jquery.com/jquery-3.6.4.min.js"></script>
+  <script src="https://cdn.datatables.net/1.13.4/js/jquery.dataTables.min.js"></script>
+</head>
+<body>
+  <h1>Schedule JSON Data</h1>
+  <table id="jsonTable" class="display">
+    <thead>
+      <tr>
+        <th>Rank</th>
+        <th>Base Product</th>
+        <th>Best Combination</th>
+        <th>Max Net Profit</th>
+      </tr>
+    </thead>
+    <tbody>
+    </tbody>
+  </table>
+  <script>
+    $(document).ready(function(){
+      $.getJSON('data.json', function(data){
+        let rows = '';
+        $.each(data, function(i, item){
+          rows += '<tr>' +
+                    '<td>' + item.ranknum + '</td>' +
+                    '<td>' + item.baseProduct + '</td>' +
+                    '<td>' + item.bestCombination.join(', ') + '</td>' +
+                    '<td>' + item.maxNetProfit + '</td>' +
+                  '</tr>';
+        });
+        $('#jsonTable tbody').html(rows);
+        $('#jsonTable').DataTable();
+      });
+    });
+  </script>
+</body>
+</html>
