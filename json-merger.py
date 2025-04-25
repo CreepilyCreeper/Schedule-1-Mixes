@@ -15,5 +15,5 @@ for json_file in output_list:
 all_items = output_list
 
 textfile_merged = open('data.json', 'w')
-json.dump({ "items": all_items }, textfile_merged)
+json.dump(all_items, textfile_merged, default = lambda x: x.__dict__)
 textfile_merged.close()
