@@ -51,6 +51,7 @@
         <th>Substances</th>
         <th>Best Combination</th>
         <th>Profit</th>
+        <th>Hash (Links to https://schedule1.tools/)</th>
       </tr>
     </thead>
     <tbody></tbody>
@@ -58,7 +59,7 @@
 
   <script>
     $(document).ready(function() {
-      // Initialize DataTable with new column order.
+      // Initialize DataTable with updated column order.
       var table = $('#jsonTable').DataTable({
         ajax: {
           url: 'data.json',
@@ -67,37 +68,47 @@
         columns: [
           { data: 'baseProduct' },
           { data: 'ranknum' },
-          { data: 'permutationLength' }, // Now appears between Rank and Best Combination.
+          { data: 'permutationLength' }, // Substances column.
           { 
             data: 'bestCombination',
             render: function(data) {
               return Array.isArray(data) ? data.join(', ') : data;
             }
           },
-          { data: 'maxNetProfit' }
+          { data: 'maxNetProfit' },
+          { 
+            data: 'hash',
+            render: function(data, type, row) {
+              // Only modify display and filter types.
+              if ( type === 'display' || type === 'filter' ) {
+                var url = "https://schedule1.tools/mixer?mix=" + encodeURIComponent(data);
+                return '<a href="' + url + '" target="_blank">' + data + '</a>';
+              }
+              return data;
+            }
+          }
         ],
         initComplete: function() {
           var api = this.api();
   
-          // Mapping for rank numbers to custom strings.
+          // Mapping for rank numbers to custom labels.
           var rankLabels = {
             "1": "≤ Hoodlum I",
-            "2": "= Hoodlum II",
-            "3": "= Hoodlum III",
-            "4": "= Hoodlum IV",
-            "5": "= Hoodlum V",
-            "6": "= Peddler I",
-            "7": "= Peddler II",
-            "8": "= Peddler III",
-            "9": "= Peddler IV",
-            "10": "= Peddler V",
-            "11": "= Hustler I",
-            "12": "= Hustler II",
+            "2": "Hoodlum II",
+            "3": "Hoodlum III",
+            "4": "Hoodlum IV",
+            "5": "Hoodlum V",
+            "6": "Peddler I",
+            "7": "Peddler II",
+            "8": "Peddler III",
+            "9": "Peddler IV",
+            "10": "Peddler V",
+            "11": "Hustler I",
+            "12": "Hustler II",
             "13": "≥ Hustler III"
-            // Add more mappings as needed.
           };
   
-          // Function to collect distinct values from a given column index.
+          // Function to collect distinct values from a given column.
           function populateSelect(columnIndex, selectId) {
             var uniqueData = api.column(columnIndex).data().unique();
             // Custom sort for the base product dropdown.
@@ -112,8 +123,7 @@
               uniqueData = uniqueData.sort(function(a, b) {
                 return Number(a) - Number(b);
               });
-            }
-            else {
+            } else {
               uniqueData = uniqueData.sort();
             }
             uniqueData.each(function(d) {
@@ -122,7 +132,6 @@
               }
               var optionText = d;
               if (selectId === "#filter-ranknum") {
-                // Use mapped label if available.
                 if(rankLabels.hasOwnProperty(d)) {
                   optionText = rankLabels[d];
                 }
@@ -137,7 +146,7 @@
         }
       });
   
-      // Custom filter function using the drop-downs.
+      // Custom filter function using the drop-down filters.
       $.fn.dataTable.ext.search.push(function(settings, data) {
         var baseProduct = $('#filter-baseProduct').val();
         var rank = $('#filter-ranknum').val();
@@ -152,7 +161,7 @@
                 (permLength === "" || permLength === dPerm));
       });
   
-      // Trigger table draw when filter changes.
+      // Redraw the table when a filter changes.
       $('.filter-container select').on('change', function() {
         table.draw();
       });
