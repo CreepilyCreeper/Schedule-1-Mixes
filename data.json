@@ -1,0 +1,7802 @@
+[
+    {
+        "ranknum": 1,
+        "baseProduct": "OG Kush",
+        "bestCombination": [
+            "Paracetamol"
+        ],
+        "maxNetProfit": 52,
+        "permutationLength": 1
+    },
+    {
+        "ranknum": 1,
+        "baseProduct": "Sour Diesel",
+        "bestCombination": [
+            "Donut"
+        ],
+        "maxNetProfit": 47,
+        "permutationLength": 1
+    },
+    {
+        "ranknum": 1,
+        "baseProduct": "Green Crack",
+        "bestCombination": [
+            "Banana"
+        ],
+        "maxNetProfit": 55,
+        "permutationLength": 1
+    },
+    {
+        "ranknum": 1,
+        "baseProduct": "Grandaddy Purple",
+        "bestCombination": [
+            "Donut"
+        ],
+        "maxNetProfit": 51,
+        "permutationLength": 1
+    },
+    {
+        "ranknum": 1,
+        "baseProduct": "Meth",
+        "bestCombination": [
+            "Donut"
+        ],
+        "maxNetProfit": 87,
+        "permutationLength": 1
+    },
+    {
+        "ranknum": 1,
+        "baseProduct": "Cocaine",
+        "bestCombination": [
+            "Donut"
+        ],
+        "maxNetProfit": 189,
+        "permutationLength": 1
+    },
+    {
+        "ranknum": 2,
+        "baseProduct": "OG Kush",
+        "bestCombination": [
+            "Paracetamol"
+        ],
+        "maxNetProfit": 52,
+        "permutationLength": 1
+    },
+    {
+        "ranknum": 2,
+        "baseProduct": "Sour Diesel",
+        "bestCombination": [
+            "Viagra"
+        ],
+        "maxNetProfit": 52,
+        "permutationLength": 1
+    },
+    {
+        "ranknum": 2,
+        "baseProduct": "Green Crack",
+        "bestCombination": [
+            "Banana"
+        ],
+        "maxNetProfit": 55,
+        "permutationLength": 1
+    },
+    {
+        "ranknum": 2,
+        "baseProduct": "Grandaddy Purple",
+        "bestCombination": [
+            "Viagra"
+        ],
+        "maxNetProfit": 56,
+        "permutationLength": 1
+    },
+    {
+        "ranknum": 2,
+        "baseProduct": "Meth",
+        "bestCombination": [
+            "Viagra"
+        ],
+        "maxNetProfit": 98,
+        "permutationLength": 1
+    },
+    {
+        "ranknum": 2,
+        "baseProduct": "Cocaine",
+        "bestCombination": [
+            "Viagra"
+        ],
+        "maxNetProfit": 215,
+        "permutationLength": 1
+    },
+    {
+        "ranknum": 3,
+        "baseProduct": "OG Kush",
+        "bestCombination": [
+            "Mouth Wash"
+        ],
+        "maxNetProfit": 60,
+        "permutationLength": 1
+    },
+    {
+        "ranknum": 3,
+        "baseProduct": "Sour Diesel",
+        "bestCombination": [
+            "Viagra"
+        ],
+        "maxNetProfit": 52,
+        "permutationLength": 1
+    },
+    {
+        "ranknum": 3,
+        "baseProduct": "Green Crack",
+        "bestCombination": [
+            "Banana"
+        ],
+        "maxNetProfit": 55,
+        "permutationLength": 1
+    },
+    {
+        "ranknum": 3,
+        "baseProduct": "Grandaddy Purple",
+        "bestCombination": [
+            "Viagra"
+        ],
+        "maxNetProfit": 56,
+        "permutationLength": 1
+    },
+    {
+        "ranknum": 3,
+        "baseProduct": "Meth",
+        "bestCombination": [
+            "Viagra"
+        ],
+        "maxNetProfit": 98,
+        "permutationLength": 1
+    },
+    {
+        "ranknum": 3,
+        "baseProduct": "Cocaine",
+        "bestCombination": [
+            "Viagra"
+        ],
+        "maxNetProfit": 215,
+        "permutationLength": 1
+    },
+    {
+        "ranknum": 4,
+        "baseProduct": "OG Kush",
+        "bestCombination": [
+            "Mouth Wash"
+        ],
+        "maxNetProfit": 60,
+        "permutationLength": 1
+    },
+    {
+        "ranknum": 4,
+        "baseProduct": "Sour Diesel",
+        "bestCombination": [
+            "Viagra"
+        ],
+        "maxNetProfit": 52,
+        "permutationLength": 1
+    },
+    {
+        "ranknum": 4,
+        "baseProduct": "Green Crack",
+        "bestCombination": [
+            "Banana"
+        ],
+        "maxNetProfit": 55,
+        "permutationLength": 1
+    },
+    {
+        "ranknum": 4,
+        "baseProduct": "Grandaddy Purple",
+        "bestCombination": [
+            "Viagra"
+        ],
+        "maxNetProfit": 56,
+        "permutationLength": 1
+    },
+    {
+        "ranknum": 4,
+        "baseProduct": "Meth",
+        "bestCombination": [
+            "Viagra"
+        ],
+        "maxNetProfit": 98,
+        "permutationLength": 1
+    },
+    {
+        "ranknum": 4,
+        "baseProduct": "Cocaine",
+        "bestCombination": [
+            "Viagra"
+        ],
+        "maxNetProfit": 215,
+        "permutationLength": 1
+    },
+    {
+        "ranknum": 5,
+        "baseProduct": "OG Kush",
+        "bestCombination": [
+            "Mouth Wash"
+        ],
+        "maxNetProfit": 60,
+        "permutationLength": 1
+    },
+    {
+        "ranknum": 5,
+        "baseProduct": "Sour Diesel",
+        "bestCombination": [
+            "Viagra"
+        ],
+        "maxNetProfit": 52,
+        "permutationLength": 1
+    },
+    {
+        "ranknum": 5,
+        "baseProduct": "Green Crack",
+        "bestCombination": [
+            "Banana"
+        ],
+        "maxNetProfit": 55,
+        "permutationLength": 1
+    },
+    {
+        "ranknum": 5,
+        "baseProduct": "Grandaddy Purple",
+        "bestCombination": [
+            "Viagra"
+        ],
+        "maxNetProfit": 56,
+        "permutationLength": 1
+    },
+    {
+        "ranknum": 5,
+        "baseProduct": "Meth",
+        "bestCombination": [
+            "Viagra"
+        ],
+        "maxNetProfit": 98,
+        "permutationLength": 1
+    },
+    {
+        "ranknum": 5,
+        "baseProduct": "Cocaine",
+        "bestCombination": [
+            "Viagra"
+        ],
+        "maxNetProfit": 215,
+        "permutationLength": 1
+    },
+    {
+        "ranknum": 6,
+        "baseProduct": "OG Kush",
+        "bestCombination": [
+            "Mouth Wash"
+        ],
+        "maxNetProfit": 60,
+        "permutationLength": 1
+    },
+    {
+        "ranknum": 6,
+        "baseProduct": "Sour Diesel",
+        "bestCombination": [
+            "Viagra"
+        ],
+        "maxNetProfit": 52,
+        "permutationLength": 1
+    },
+    {
+        "ranknum": 6,
+        "baseProduct": "Green Crack",
+        "bestCombination": [
+            "Banana"
+        ],
+        "maxNetProfit": 55,
+        "permutationLength": 1
+    },
+    {
+        "ranknum": 6,
+        "baseProduct": "Grandaddy Purple",
+        "bestCombination": [
+            "Viagra"
+        ],
+        "maxNetProfit": 56,
+        "permutationLength": 1
+    },
+    {
+        "ranknum": 6,
+        "baseProduct": "Meth",
+        "bestCombination": [
+            "Viagra"
+        ],
+        "maxNetProfit": 98,
+        "permutationLength": 1
+    },
+    {
+        "ranknum": 6,
+        "baseProduct": "Cocaine",
+        "bestCombination": [
+            "Viagra"
+        ],
+        "maxNetProfit": 215,
+        "permutationLength": 1
+    },
+    {
+        "ranknum": 7,
+        "baseProduct": "OG Kush",
+        "bestCombination": [
+            "Mouth Wash"
+        ],
+        "maxNetProfit": 60,
+        "permutationLength": 1
+    },
+    {
+        "ranknum": 7,
+        "baseProduct": "Sour Diesel",
+        "bestCombination": [
+            "Viagra"
+        ],
+        "maxNetProfit": 52,
+        "permutationLength": 1
+    },
+    {
+        "ranknum": 7,
+        "baseProduct": "Green Crack",
+        "bestCombination": [
+            "Banana"
+        ],
+        "maxNetProfit": 55,
+        "permutationLength": 1
+    },
+    {
+        "ranknum": 7,
+        "baseProduct": "Grandaddy Purple",
+        "bestCombination": [
+            "Viagra"
+        ],
+        "maxNetProfit": 56,
+        "permutationLength": 1
+    },
+    {
+        "ranknum": 7,
+        "baseProduct": "Meth",
+        "bestCombination": [
+            "Viagra"
+        ],
+        "maxNetProfit": 98,
+        "permutationLength": 1
+    },
+    {
+        "ranknum": 7,
+        "baseProduct": "Cocaine",
+        "bestCombination": [
+            "Viagra"
+        ],
+        "maxNetProfit": 215,
+        "permutationLength": 1
+    },
+    {
+        "ranknum": 8,
+        "baseProduct": "OG Kush",
+        "bestCombination": [
+            "Mouth Wash"
+        ],
+        "maxNetProfit": 60,
+        "permutationLength": 1
+    },
+    {
+        "ranknum": 8,
+        "baseProduct": "Sour Diesel",
+        "bestCombination": [
+            "Viagra"
+        ],
+        "maxNetProfit": 52,
+        "permutationLength": 1
+    },
+    {
+        "ranknum": 8,
+        "baseProduct": "Green Crack",
+        "bestCombination": [
+            "Mega Bean"
+        ],
+        "maxNetProfit": 60,
+        "permutationLength": 1
+    },
+    {
+        "ranknum": 8,
+        "baseProduct": "Grandaddy Purple",
+        "bestCombination": [
+            "Viagra"
+        ],
+        "maxNetProfit": 56,
+        "permutationLength": 1
+    },
+    {
+        "ranknum": 8,
+        "baseProduct": "Meth",
+        "bestCombination": [
+            "Viagra"
+        ],
+        "maxNetProfit": 98,
+        "permutationLength": 1
+    },
+    {
+        "ranknum": 8,
+        "baseProduct": "Cocaine",
+        "bestCombination": [
+            "Viagra"
+        ],
+        "maxNetProfit": 215,
+        "permutationLength": 1
+    },
+    {
+        "ranknum": 9,
+        "baseProduct": "OG Kush",
+        "bestCombination": [
+            "Mouth Wash"
+        ],
+        "maxNetProfit": 60,
+        "permutationLength": 1
+    },
+    {
+        "ranknum": 9,
+        "baseProduct": "Sour Diesel",
+        "bestCombination": [
+            "Viagra"
+        ],
+        "maxNetProfit": 52,
+        "permutationLength": 1
+    },
+    {
+        "ranknum": 9,
+        "baseProduct": "Green Crack",
+        "bestCombination": [
+            "Mega Bean"
+        ],
+        "maxNetProfit": 60,
+        "permutationLength": 1
+    },
+    {
+        "ranknum": 9,
+        "baseProduct": "Grandaddy Purple",
+        "bestCombination": [
+            "Viagra"
+        ],
+        "maxNetProfit": 56,
+        "permutationLength": 1
+    },
+    {
+        "ranknum": 9,
+        "baseProduct": "Meth",
+        "bestCombination": [
+            "Viagra"
+        ],
+        "maxNetProfit": 98,
+        "permutationLength": 1
+    },
+    {
+        "ranknum": 9,
+        "baseProduct": "Cocaine",
+        "bestCombination": [
+            "Viagra"
+        ],
+        "maxNetProfit": 215,
+        "permutationLength": 1
+    },
+    {
+        "ranknum": 10,
+        "baseProduct": "OG Kush",
+        "bestCombination": [
+            "Mouth Wash"
+        ],
+        "maxNetProfit": 60,
+        "permutationLength": 1
+    },
+    {
+        "ranknum": 10,
+        "baseProduct": "Sour Diesel",
+        "bestCombination": [
+            "Viagra"
+        ],
+        "maxNetProfit": 52,
+        "permutationLength": 1
+    },
+    {
+        "ranknum": 10,
+        "baseProduct": "Green Crack",
+        "bestCombination": [
+            "Mega Bean"
+        ],
+        "maxNetProfit": 60,
+        "permutationLength": 1
+    },
+    {
+        "ranknum": 10,
+        "baseProduct": "Grandaddy Purple",
+        "bestCombination": [
+            "Viagra"
+        ],
+        "maxNetProfit": 56,
+        "permutationLength": 1
+    },
+    {
+        "ranknum": 10,
+        "baseProduct": "Meth",
+        "bestCombination": [
+            "Viagra"
+        ],
+        "maxNetProfit": 98,
+        "permutationLength": 1
+    },
+    {
+        "ranknum": 10,
+        "baseProduct": "Cocaine",
+        "bestCombination": [
+            "Viagra"
+        ],
+        "maxNetProfit": 215,
+        "permutationLength": 1
+    },
+    {
+        "ranknum": 11,
+        "baseProduct": "OG Kush",
+        "bestCombination": [
+            "Mouth Wash"
+        ],
+        "maxNetProfit": 60,
+        "permutationLength": 1
+    },
+    {
+        "ranknum": 11,
+        "baseProduct": "Sour Diesel",
+        "bestCombination": [
+            "Iodine"
+        ],
+        "maxNetProfit": 57,
+        "permutationLength": 1
+    },
+    {
+        "ranknum": 11,
+        "baseProduct": "Green Crack",
+        "bestCombination": [
+            "Mega Bean"
+        ],
+        "maxNetProfit": 60,
+        "permutationLength": 1
+    },
+    {
+        "ranknum": 11,
+        "baseProduct": "Grandaddy Purple",
+        "bestCombination": [
+            "Viagra"
+        ],
+        "maxNetProfit": 56,
+        "permutationLength": 1
+    },
+    {
+        "ranknum": 11,
+        "baseProduct": "Meth",
+        "bestCombination": [
+            "Viagra"
+        ],
+        "maxNetProfit": 98,
+        "permutationLength": 1
+    },
+    {
+        "ranknum": 11,
+        "baseProduct": "Cocaine",
+        "bestCombination": [
+            "Viagra"
+        ],
+        "maxNetProfit": 215,
+        "permutationLength": 1
+    },
+    {
+        "ranknum": 12,
+        "baseProduct": "OG Kush",
+        "bestCombination": [
+            "Mouth Wash"
+        ],
+        "maxNetProfit": 60,
+        "permutationLength": 1
+    },
+    {
+        "ranknum": 12,
+        "baseProduct": "Sour Diesel",
+        "bestCombination": [
+            "Iodine"
+        ],
+        "maxNetProfit": 57,
+        "permutationLength": 1
+    },
+    {
+        "ranknum": 12,
+        "baseProduct": "Green Crack",
+        "bestCombination": [
+            "Mega Bean"
+        ],
+        "maxNetProfit": 60,
+        "permutationLength": 1
+    },
+    {
+        "ranknum": 12,
+        "baseProduct": "Grandaddy Purple",
+        "bestCombination": [
+            "Viagra"
+        ],
+        "maxNetProfit": 56,
+        "permutationLength": 1
+    },
+    {
+        "ranknum": 12,
+        "baseProduct": "Meth",
+        "bestCombination": [
+            "Viagra"
+        ],
+        "maxNetProfit": 98,
+        "permutationLength": 1
+    },
+    {
+        "ranknum": 12,
+        "baseProduct": "Cocaine",
+        "bestCombination": [
+            "Viagra"
+        ],
+        "maxNetProfit": 215,
+        "permutationLength": 1
+    },
+    {
+        "ranknum": 13,
+        "baseProduct": "OG Kush",
+        "bestCombination": [
+            "Mouth Wash"
+        ],
+        "maxNetProfit": 60,
+        "permutationLength": 1
+    },
+    {
+        "ranknum": 13,
+        "baseProduct": "Sour Diesel",
+        "bestCombination": [
+            "Iodine"
+        ],
+        "maxNetProfit": 57,
+        "permutationLength": 1
+    },
+    {
+        "ranknum": 13,
+        "baseProduct": "Green Crack",
+        "bestCombination": [
+            "Mega Bean"
+        ],
+        "maxNetProfit": 60,
+        "permutationLength": 1
+    },
+    {
+        "ranknum": 13,
+        "baseProduct": "Grandaddy Purple",
+        "bestCombination": [
+            "Viagra"
+        ],
+        "maxNetProfit": 56,
+        "permutationLength": 1
+    },
+    {
+        "ranknum": 13,
+        "baseProduct": "Meth",
+        "bestCombination": [
+            "Viagra"
+        ],
+        "maxNetProfit": 98,
+        "permutationLength": 1
+    },
+    {
+        "ranknum": 13,
+        "baseProduct": "Cocaine",
+        "bestCombination": [
+            "Horse Semen"
+        ],
+        "maxNetProfit": 219,
+        "permutationLength": 1
+    },
+    {
+        "ranknum": 1,
+        "baseProduct": "OG Kush",
+        "bestCombination": [
+            "Cuke",
+            "Banana"
+        ],
+        "maxNetProfit": 62,
+        "permutationLength": 2
+    },
+    {
+        "ranknum": 1,
+        "baseProduct": "Sour Diesel",
+        "bestCombination": [
+            "Banana",
+            "Cuke"
+        ],
+        "maxNetProfit": 59,
+        "permutationLength": 2
+    },
+    {
+        "ranknum": 1,
+        "baseProduct": "Green Crack",
+        "bestCombination": [
+            "Banana",
+            "Donut"
+        ],
+        "maxNetProfit": 62,
+        "permutationLength": 2
+    },
+    {
+        "ranknum": 1,
+        "baseProduct": "Grandaddy Purple",
+        "bestCombination": [
+            "Banana",
+            "Cuke"
+        ],
+        "maxNetProfit": 63,
+        "permutationLength": 2
+    },
+    {
+        "ranknum": 1,
+        "baseProduct": "Meth",
+        "bestCombination": [
+            "Banana",
+            "Cuke"
+        ],
+        "maxNetProfit": 112,
+        "permutationLength": 2
+    },
+    {
+        "ranknum": 1,
+        "baseProduct": "Cocaine",
+        "bestCombination": [
+            "Banana",
+            "Cuke"
+        ],
+        "maxNetProfit": 245,
+        "permutationLength": 2
+    },
+    {
+        "ranknum": 2,
+        "baseProduct": "OG Kush",
+        "bestCombination": [
+            "Viagra",
+            "Paracetamol"
+        ],
+        "maxNetProfit": 64,
+        "permutationLength": 2
+    },
+    {
+        "ranknum": 2,
+        "baseProduct": "Sour Diesel",
+        "bestCombination": [
+            "Banana",
+            "Cuke"
+        ],
+        "maxNetProfit": 59,
+        "permutationLength": 2
+    },
+    {
+        "ranknum": 2,
+        "baseProduct": "Green Crack",
+        "bestCombination": [
+            "Viagra",
+            "Banana"
+        ],
+        "maxNetProfit": 68,
+        "permutationLength": 2
+    },
+    {
+        "ranknum": 2,
+        "baseProduct": "Grandaddy Purple",
+        "bestCombination": [
+            "Banana",
+            "Cuke"
+        ],
+        "maxNetProfit": 63,
+        "permutationLength": 2
+    },
+    {
+        "ranknum": 2,
+        "baseProduct": "Meth",
+        "bestCombination": [
+            "Viagra",
+            "Donut"
+        ],
+        "maxNetProfit": 115,
+        "permutationLength": 2
+    },
+    {
+        "ranknum": 2,
+        "baseProduct": "Cocaine",
+        "bestCombination": [
+            "Viagra",
+            "Donut"
+        ],
+        "maxNetProfit": 254,
+        "permutationLength": 2
+    },
+    {
+        "ranknum": 3,
+        "baseProduct": "OG Kush",
+        "bestCombination": [
+            "Viagra",
+            "Mouth Wash"
+        ],
+        "maxNetProfit": 73,
+        "permutationLength": 2
+    },
+    {
+        "ranknum": 3,
+        "baseProduct": "Sour Diesel",
+        "bestCombination": [
+            "Banana",
+            "Cuke"
+        ],
+        "maxNetProfit": 59,
+        "permutationLength": 2
+    },
+    {
+        "ranknum": 3,
+        "baseProduct": "Green Crack",
+        "bestCombination": [
+            "Viagra",
+            "Banana"
+        ],
+        "maxNetProfit": 68,
+        "permutationLength": 2
+    },
+    {
+        "ranknum": 3,
+        "baseProduct": "Grandaddy Purple",
+        "bestCombination": [
+            "Banana",
+            "Cuke"
+        ],
+        "maxNetProfit": 63,
+        "permutationLength": 2
+    },
+    {
+        "ranknum": 3,
+        "baseProduct": "Meth",
+        "bestCombination": [
+            "Viagra",
+            "Donut"
+        ],
+        "maxNetProfit": 115,
+        "permutationLength": 2
+    },
+    {
+        "ranknum": 3,
+        "baseProduct": "Cocaine",
+        "bestCombination": [
+            "Viagra",
+            "Mouth Wash"
+        ],
+        "maxNetProfit": 256,
+        "permutationLength": 2
+    },
+    {
+        "ranknum": 4,
+        "baseProduct": "OG Kush",
+        "bestCombination": [
+            "Viagra",
+            "Mouth Wash"
+        ],
+        "maxNetProfit": 73,
+        "permutationLength": 2
+    },
+    {
+        "ranknum": 4,
+        "baseProduct": "Sour Diesel",
+        "bestCombination": [
+            "Banana",
+            "Cuke"
+        ],
+        "maxNetProfit": 59,
+        "permutationLength": 2
+    },
+    {
+        "ranknum": 4,
+        "baseProduct": "Green Crack",
+        "bestCombination": [
+            "Viagra",
+            "Banana"
+        ],
+        "maxNetProfit": 68,
+        "permutationLength": 2
+    },
+    {
+        "ranknum": 4,
+        "baseProduct": "Grandaddy Purple",
+        "bestCombination": [
+            "Banana",
+            "Cuke"
+        ],
+        "maxNetProfit": 63,
+        "permutationLength": 2
+    },
+    {
+        "ranknum": 4,
+        "baseProduct": "Meth",
+        "bestCombination": [
+            "Viagra",
+            "Donut"
+        ],
+        "maxNetProfit": 115,
+        "permutationLength": 2
+    },
+    {
+        "ranknum": 4,
+        "baseProduct": "Cocaine",
+        "bestCombination": [
+            "Viagra",
+            "Mouth Wash"
+        ],
+        "maxNetProfit": 256,
+        "permutationLength": 2
+    },
+    {
+        "ranknum": 5,
+        "baseProduct": "OG Kush",
+        "bestCombination": [
+            "Viagra",
+            "Mouth Wash"
+        ],
+        "maxNetProfit": 73,
+        "permutationLength": 2
+    },
+    {
+        "ranknum": 5,
+        "baseProduct": "Sour Diesel",
+        "bestCombination": [
+            "Banana",
+            "Cuke"
+        ],
+        "maxNetProfit": 59,
+        "permutationLength": 2
+    },
+    {
+        "ranknum": 5,
+        "baseProduct": "Green Crack",
+        "bestCombination": [
+            "Viagra",
+            "Banana"
+        ],
+        "maxNetProfit": 68,
+        "permutationLength": 2
+    },
+    {
+        "ranknum": 5,
+        "baseProduct": "Grandaddy Purple",
+        "bestCombination": [
+            "Banana",
+            "Cuke"
+        ],
+        "maxNetProfit": 63,
+        "permutationLength": 2
+    },
+    {
+        "ranknum": 5,
+        "baseProduct": "Meth",
+        "bestCombination": [
+            "Viagra",
+            "Donut"
+        ],
+        "maxNetProfit": 115,
+        "permutationLength": 2
+    },
+    {
+        "ranknum": 5,
+        "baseProduct": "Cocaine",
+        "bestCombination": [
+            "Viagra",
+            "Mouth Wash"
+        ],
+        "maxNetProfit": 256,
+        "permutationLength": 2
+    },
+    {
+        "ranknum": 6,
+        "baseProduct": "OG Kush",
+        "bestCombination": [
+            "Viagra",
+            "Mouth Wash"
+        ],
+        "maxNetProfit": 73,
+        "permutationLength": 2
+    },
+    {
+        "ranknum": 6,
+        "baseProduct": "Sour Diesel",
+        "bestCombination": [
+            "Banana",
+            "Cuke"
+        ],
+        "maxNetProfit": 59,
+        "permutationLength": 2
+    },
+    {
+        "ranknum": 6,
+        "baseProduct": "Green Crack",
+        "bestCombination": [
+            "Viagra",
+            "Banana"
+        ],
+        "maxNetProfit": 68,
+        "permutationLength": 2
+    },
+    {
+        "ranknum": 6,
+        "baseProduct": "Grandaddy Purple",
+        "bestCombination": [
+            "Energy Drink",
+            "Paracetamol"
+        ],
+        "maxNetProfit": 65,
+        "permutationLength": 2
+    },
+    {
+        "ranknum": 6,
+        "baseProduct": "Meth",
+        "bestCombination": [
+            "Viagra",
+            "Donut"
+        ],
+        "maxNetProfit": 115,
+        "permutationLength": 2
+    },
+    {
+        "ranknum": 6,
+        "baseProduct": "Cocaine",
+        "bestCombination": [
+            "Viagra",
+            "Mouth Wash"
+        ],
+        "maxNetProfit": 256,
+        "permutationLength": 2
+    },
+    {
+        "ranknum": 7,
+        "baseProduct": "OG Kush",
+        "bestCombination": [
+            "Viagra",
+            "Mouth Wash"
+        ],
+        "maxNetProfit": 73,
+        "permutationLength": 2
+    },
+    {
+        "ranknum": 7,
+        "baseProduct": "Sour Diesel",
+        "bestCombination": [
+            "Banana",
+            "Cuke"
+        ],
+        "maxNetProfit": 59,
+        "permutationLength": 2
+    },
+    {
+        "ranknum": 7,
+        "baseProduct": "Green Crack",
+        "bestCombination": [
+            "Viagra",
+            "Banana"
+        ],
+        "maxNetProfit": 68,
+        "permutationLength": 2
+    },
+    {
+        "ranknum": 7,
+        "baseProduct": "Grandaddy Purple",
+        "bestCombination": [
+            "Energy Drink",
+            "Paracetamol"
+        ],
+        "maxNetProfit": 65,
+        "permutationLength": 2
+    },
+    {
+        "ranknum": 7,
+        "baseProduct": "Meth",
+        "bestCombination": [
+            "Viagra",
+            "Motor Oil"
+        ],
+        "maxNetProfit": 116,
+        "permutationLength": 2
+    },
+    {
+        "ranknum": 7,
+        "baseProduct": "Cocaine",
+        "bestCombination": [
+            "Viagra",
+            "Motor Oil"
+        ],
+        "maxNetProfit": 260,
+        "permutationLength": 2
+    },
+    {
+        "ranknum": 8,
+        "baseProduct": "OG Kush",
+        "bestCombination": [
+            "Cuke",
+            "Mega Bean"
+        ],
+        "maxNetProfit": 75,
+        "permutationLength": 2
+    },
+    {
+        "ranknum": 8,
+        "baseProduct": "Sour Diesel",
+        "bestCombination": [
+            "Cuke",
+            "Mega Bean"
+        ],
+        "maxNetProfit": 63,
+        "permutationLength": 2
+    },
+    {
+        "ranknum": 8,
+        "baseProduct": "Green Crack",
+        "bestCombination": [
+            "Mega Bean",
+            "Viagra"
+        ],
+        "maxNetProfit": 72,
+        "permutationLength": 2
+    },
+    {
+        "ranknum": 8,
+        "baseProduct": "Grandaddy Purple",
+        "bestCombination": [
+            "Cuke",
+            "Mega Bean"
+        ],
+        "maxNetProfit": 67,
+        "permutationLength": 2
+    },
+    {
+        "ranknum": 8,
+        "baseProduct": "Meth",
+        "bestCombination": [
+            "Cuke",
+            "Mega Bean"
+        ],
+        "maxNetProfit": 125,
+        "permutationLength": 2
+    },
+    {
+        "ranknum": 8,
+        "baseProduct": "Cocaine",
+        "bestCombination": [
+            "Cuke",
+            "Mega Bean"
+        ],
+        "maxNetProfit": 279,
+        "permutationLength": 2
+    },
+    {
+        "ranknum": 9,
+        "baseProduct": "OG Kush",
+        "bestCombination": [
+            "Cuke",
+            "Mega Bean"
+        ],
+        "maxNetProfit": 75,
+        "permutationLength": 2
+    },
+    {
+        "ranknum": 9,
+        "baseProduct": "Sour Diesel",
+        "bestCombination": [
+            "Cuke",
+            "Mega Bean"
+        ],
+        "maxNetProfit": 63,
+        "permutationLength": 2
+    },
+    {
+        "ranknum": 9,
+        "baseProduct": "Green Crack",
+        "bestCombination": [
+            "Mega Bean",
+            "Viagra"
+        ],
+        "maxNetProfit": 72,
+        "permutationLength": 2
+    },
+    {
+        "ranknum": 9,
+        "baseProduct": "Grandaddy Purple",
+        "bestCombination": [
+            "Cuke",
+            "Mega Bean"
+        ],
+        "maxNetProfit": 67,
+        "permutationLength": 2
+    },
+    {
+        "ranknum": 9,
+        "baseProduct": "Meth",
+        "bestCombination": [
+            "Cuke",
+            "Mega Bean"
+        ],
+        "maxNetProfit": 125,
+        "permutationLength": 2
+    },
+    {
+        "ranknum": 9,
+        "baseProduct": "Cocaine",
+        "bestCombination": [
+            "Cuke",
+            "Mega Bean"
+        ],
+        "maxNetProfit": 279,
+        "permutationLength": 2
+    },
+    {
+        "ranknum": 10,
+        "baseProduct": "OG Kush",
+        "bestCombination": [
+            "Cuke",
+            "Mega Bean"
+        ],
+        "maxNetProfit": 75,
+        "permutationLength": 2
+    },
+    {
+        "ranknum": 10,
+        "baseProduct": "Sour Diesel",
+        "bestCombination": [
+            "Cuke",
+            "Mega Bean"
+        ],
+        "maxNetProfit": 63,
+        "permutationLength": 2
+    },
+    {
+        "ranknum": 10,
+        "baseProduct": "Green Crack",
+        "bestCombination": [
+            "Mega Bean",
+            "Viagra"
+        ],
+        "maxNetProfit": 72,
+        "permutationLength": 2
+    },
+    {
+        "ranknum": 10,
+        "baseProduct": "Grandaddy Purple",
+        "bestCombination": [
+            "Cuke",
+            "Mega Bean"
+        ],
+        "maxNetProfit": 67,
+        "permutationLength": 2
+    },
+    {
+        "ranknum": 10,
+        "baseProduct": "Meth",
+        "bestCombination": [
+            "Cuke",
+            "Mega Bean"
+        ],
+        "maxNetProfit": 125,
+        "permutationLength": 2
+    },
+    {
+        "ranknum": 10,
+        "baseProduct": "Cocaine",
+        "bestCombination": [
+            "Cuke",
+            "Mega Bean"
+        ],
+        "maxNetProfit": 279,
+        "permutationLength": 2
+    },
+    {
+        "ranknum": 11,
+        "baseProduct": "OG Kush",
+        "bestCombination": [
+            "Cuke",
+            "Mega Bean"
+        ],
+        "maxNetProfit": 75,
+        "permutationLength": 2
+    },
+    {
+        "ranknum": 11,
+        "baseProduct": "Sour Diesel",
+        "bestCombination": [
+            "Viagra",
+            "Iodine"
+        ],
+        "maxNetProfit": 69,
+        "permutationLength": 2
+    },
+    {
+        "ranknum": 11,
+        "baseProduct": "Green Crack",
+        "bestCombination": [
+            "Mega Bean",
+            "Viagra"
+        ],
+        "maxNetProfit": 72,
+        "permutationLength": 2
+    },
+    {
+        "ranknum": 11,
+        "baseProduct": "Grandaddy Purple",
+        "bestCombination": [
+            "Cuke",
+            "Mega Bean"
+        ],
+        "maxNetProfit": 67,
+        "permutationLength": 2
+    },
+    {
+        "ranknum": 11,
+        "baseProduct": "Meth",
+        "bestCombination": [
+            "Cuke",
+            "Mega Bean"
+        ],
+        "maxNetProfit": 125,
+        "permutationLength": 2
+    },
+    {
+        "ranknum": 11,
+        "baseProduct": "Cocaine",
+        "bestCombination": [
+            "Cuke",
+            "Mega Bean"
+        ],
+        "maxNetProfit": 279,
+        "permutationLength": 2
+    },
+    {
+        "ranknum": 12,
+        "baseProduct": "OG Kush",
+        "bestCombination": [
+            "Cuke",
+            "Mega Bean"
+        ],
+        "maxNetProfit": 75,
+        "permutationLength": 2
+    },
+    {
+        "ranknum": 12,
+        "baseProduct": "Sour Diesel",
+        "bestCombination": [
+            "Viagra",
+            "Iodine"
+        ],
+        "maxNetProfit": 69,
+        "permutationLength": 2
+    },
+    {
+        "ranknum": 12,
+        "baseProduct": "Green Crack",
+        "bestCombination": [
+            "Mega Bean",
+            "Viagra"
+        ],
+        "maxNetProfit": 72,
+        "permutationLength": 2
+    },
+    {
+        "ranknum": 12,
+        "baseProduct": "Grandaddy Purple",
+        "bestCombination": [
+            "Cuke",
+            "Mega Bean"
+        ],
+        "maxNetProfit": 67,
+        "permutationLength": 2
+    },
+    {
+        "ranknum": 12,
+        "baseProduct": "Meth",
+        "bestCombination": [
+            "Cuke",
+            "Mega Bean"
+        ],
+        "maxNetProfit": 125,
+        "permutationLength": 2
+    },
+    {
+        "ranknum": 12,
+        "baseProduct": "Cocaine",
+        "bestCombination": [
+            "Cuke",
+            "Mega Bean"
+        ],
+        "maxNetProfit": 279,
+        "permutationLength": 2
+    },
+    {
+        "ranknum": 13,
+        "baseProduct": "OG Kush",
+        "bestCombination": [
+            "Cuke",
+            "Mega Bean"
+        ],
+        "maxNetProfit": 75,
+        "permutationLength": 2
+    },
+    {
+        "ranknum": 13,
+        "baseProduct": "Sour Diesel",
+        "bestCombination": [
+            "Viagra",
+            "Iodine"
+        ],
+        "maxNetProfit": 69,
+        "permutationLength": 2
+    },
+    {
+        "ranknum": 13,
+        "baseProduct": "Green Crack",
+        "bestCombination": [
+            "Mega Bean",
+            "Viagra"
+        ],
+        "maxNetProfit": 72,
+        "permutationLength": 2
+    },
+    {
+        "ranknum": 13,
+        "baseProduct": "Grandaddy Purple",
+        "bestCombination": [
+            "Cuke",
+            "Mega Bean"
+        ],
+        "maxNetProfit": 67,
+        "permutationLength": 2
+    },
+    {
+        "ranknum": 13,
+        "baseProduct": "Meth",
+        "bestCombination": [
+            "Horse Semen",
+            "Viagra"
+        ],
+        "maxNetProfit": 126,
+        "permutationLength": 2
+    },
+    {
+        "ranknum": 13,
+        "baseProduct": "Cocaine",
+        "bestCombination": [
+            "Addy",
+            "Horse Semen"
+        ],
+        "maxNetProfit": 285,
+        "permutationLength": 2
+    },
+    {
+        "ranknum": 1,
+        "baseProduct": "OG Kush",
+        "bestCombination": [
+            "Banana",
+            "Cuke",
+            "Banana"
+        ],
+        "maxNetProfit": 74,
+        "permutationLength": 3
+    },
+    {
+        "ranknum": 1,
+        "baseProduct": "Sour Diesel",
+        "bestCombination": [
+            "Paracetamol",
+            "Cuke",
+            "Banana"
+        ],
+        "maxNetProfit": 70,
+        "permutationLength": 3
+    },
+    {
+        "ranknum": 1,
+        "baseProduct": "Green Crack",
+        "bestCombination": [
+            "Paracetamol",
+            "Cuke",
+            "Banana"
+        ],
+        "maxNetProfit": 74,
+        "permutationLength": 3
+    },
+    {
+        "ranknum": 1,
+        "baseProduct": "Grandaddy Purple",
+        "bestCombination": [
+            "Paracetamol",
+            "Cuke",
+            "Banana"
+        ],
+        "maxNetProfit": 74,
+        "permutationLength": 3
+    },
+    {
+        "ranknum": 1,
+        "baseProduct": "Meth",
+        "bestCombination": [
+            "Paracetamol",
+            "Cuke",
+            "Banana"
+        ],
+        "maxNetProfit": 137,
+        "permutationLength": 3
+    },
+    {
+        "ranknum": 1,
+        "baseProduct": "Cocaine",
+        "bestCombination": [
+            "Paracetamol",
+            "Cuke",
+            "Banana"
+        ],
+        "maxNetProfit": 302,
+        "permutationLength": 3
+    },
+    {
+        "ranknum": 2,
+        "baseProduct": "OG Kush",
+        "bestCombination": [
+            "Banana",
+            "Cuke",
+            "Banana"
+        ],
+        "maxNetProfit": 74,
+        "permutationLength": 3
+    },
+    {
+        "ranknum": 2,
+        "baseProduct": "Sour Diesel",
+        "bestCombination": [
+            "Viagra",
+            "Banana",
+            "Cuke"
+        ],
+        "maxNetProfit": 71,
+        "permutationLength": 3
+    },
+    {
+        "ranknum": 2,
+        "baseProduct": "Green Crack",
+        "bestCombination": [
+            "Viagra",
+            "Banana",
+            "Donut"
+        ],
+        "maxNetProfit": 74,
+        "permutationLength": 3
+    },
+    {
+        "ranknum": 2,
+        "baseProduct": "Grandaddy Purple",
+        "bestCombination": [
+            "Viagra",
+            "Banana",
+            "Cuke"
+        ],
+        "maxNetProfit": 75,
+        "permutationLength": 3
+    },
+    {
+        "ranknum": 2,
+        "baseProduct": "Meth",
+        "bestCombination": [
+            "Viagra",
+            "Banana",
+            "Cuke"
+        ],
+        "maxNetProfit": 140,
+        "permutationLength": 3
+    },
+    {
+        "ranknum": 2,
+        "baseProduct": "Cocaine",
+        "bestCombination": [
+            "Viagra",
+            "Banana",
+            "Cuke"
+        ],
+        "maxNetProfit": 310,
+        "permutationLength": 3
+    },
+    {
+        "ranknum": 3,
+        "baseProduct": "OG Kush",
+        "bestCombination": [
+            "Mouth Wash",
+            "Banana",
+            "Cuke"
+        ],
+        "maxNetProfit": 80,
+        "permutationLength": 3
+    },
+    {
+        "ranknum": 3,
+        "baseProduct": "Sour Diesel",
+        "bestCombination": [
+            "Viagra",
+            "Banana",
+            "Cuke"
+        ],
+        "maxNetProfit": 71,
+        "permutationLength": 3
+    },
+    {
+        "ranknum": 3,
+        "baseProduct": "Green Crack",
+        "bestCombination": [
+            "Viagra",
+            "Banana",
+            "Donut"
+        ],
+        "maxNetProfit": 74,
+        "permutationLength": 3
+    },
+    {
+        "ranknum": 3,
+        "baseProduct": "Grandaddy Purple",
+        "bestCombination": [
+            "Viagra",
+            "Banana",
+            "Cuke"
+        ],
+        "maxNetProfit": 75,
+        "permutationLength": 3
+    },
+    {
+        "ranknum": 3,
+        "baseProduct": "Meth",
+        "bestCombination": [
+            "Viagra",
+            "Banana",
+            "Cuke"
+        ],
+        "maxNetProfit": 140,
+        "permutationLength": 3
+    },
+    {
+        "ranknum": 3,
+        "baseProduct": "Cocaine",
+        "bestCombination": [
+            "Viagra",
+            "Banana",
+            "Cuke"
+        ],
+        "maxNetProfit": 310,
+        "permutationLength": 3
+    },
+    {
+        "ranknum": 4,
+        "baseProduct": "OG Kush",
+        "bestCombination": [
+            "Mouth Wash",
+            "Banana",
+            "Cuke"
+        ],
+        "maxNetProfit": 80,
+        "permutationLength": 3
+    },
+    {
+        "ranknum": 4,
+        "baseProduct": "Sour Diesel",
+        "bestCombination": [
+            "Viagra",
+            "Banana",
+            "Cuke"
+        ],
+        "maxNetProfit": 71,
+        "permutationLength": 3
+    },
+    {
+        "ranknum": 4,
+        "baseProduct": "Green Crack",
+        "bestCombination": [
+            "Viagra",
+            "Banana",
+            "Donut"
+        ],
+        "maxNetProfit": 74,
+        "permutationLength": 3
+    },
+    {
+        "ranknum": 4,
+        "baseProduct": "Grandaddy Purple",
+        "bestCombination": [
+            "Viagra",
+            "Banana",
+            "Cuke"
+        ],
+        "maxNetProfit": 75,
+        "permutationLength": 3
+    },
+    {
+        "ranknum": 4,
+        "baseProduct": "Meth",
+        "bestCombination": [
+            "Viagra",
+            "Banana",
+            "Cuke"
+        ],
+        "maxNetProfit": 140,
+        "permutationLength": 3
+    },
+    {
+        "ranknum": 4,
+        "baseProduct": "Cocaine",
+        "bestCombination": [
+            "Viagra",
+            "Banana",
+            "Cuke"
+        ],
+        "maxNetProfit": 310,
+        "permutationLength": 3
+    },
+    {
+        "ranknum": 5,
+        "baseProduct": "OG Kush",
+        "bestCombination": [
+            "Mouth Wash",
+            "Banana",
+            "Cuke"
+        ],
+        "maxNetProfit": 80,
+        "permutationLength": 3
+    },
+    {
+        "ranknum": 5,
+        "baseProduct": "Sour Diesel",
+        "bestCombination": [
+            "Viagra",
+            "Banana",
+            "Cuke"
+        ],
+        "maxNetProfit": 71,
+        "permutationLength": 3
+    },
+    {
+        "ranknum": 5,
+        "baseProduct": "Green Crack",
+        "bestCombination": [
+            "Viagra",
+            "Banana",
+            "Donut"
+        ],
+        "maxNetProfit": 74,
+        "permutationLength": 3
+    },
+    {
+        "ranknum": 5,
+        "baseProduct": "Grandaddy Purple",
+        "bestCombination": [
+            "Viagra",
+            "Banana",
+            "Cuke"
+        ],
+        "maxNetProfit": 75,
+        "permutationLength": 3
+    },
+    {
+        "ranknum": 5,
+        "baseProduct": "Meth",
+        "bestCombination": [
+            "Viagra",
+            "Banana",
+            "Cuke"
+        ],
+        "maxNetProfit": 140,
+        "permutationLength": 3
+    },
+    {
+        "ranknum": 5,
+        "baseProduct": "Cocaine",
+        "bestCombination": [
+            "Viagra",
+            "Banana",
+            "Cuke"
+        ],
+        "maxNetProfit": 310,
+        "permutationLength": 3
+    },
+    {
+        "ranknum": 6,
+        "baseProduct": "OG Kush",
+        "bestCombination": [
+            "Mouth Wash",
+            "Banana",
+            "Cuke"
+        ],
+        "maxNetProfit": 80,
+        "permutationLength": 3
+    },
+    {
+        "ranknum": 6,
+        "baseProduct": "Sour Diesel",
+        "bestCombination": [
+            "Viagra",
+            "Banana",
+            "Cuke"
+        ],
+        "maxNetProfit": 71,
+        "permutationLength": 3
+    },
+    {
+        "ranknum": 6,
+        "baseProduct": "Green Crack",
+        "bestCombination": [
+            "Viagra",
+            "Banana",
+            "Donut"
+        ],
+        "maxNetProfit": 74,
+        "permutationLength": 3
+    },
+    {
+        "ranknum": 6,
+        "baseProduct": "Grandaddy Purple",
+        "bestCombination": [
+            "Energy Drink",
+            "Paracetamol",
+            "Viagra"
+        ],
+        "maxNetProfit": 77,
+        "permutationLength": 3
+    },
+    {
+        "ranknum": 6,
+        "baseProduct": "Meth",
+        "bestCombination": [
+            "Viagra",
+            "Banana",
+            "Cuke"
+        ],
+        "maxNetProfit": 140,
+        "permutationLength": 3
+    },
+    {
+        "ranknum": 6,
+        "baseProduct": "Cocaine",
+        "bestCombination": [
+            "Viagra",
+            "Banana",
+            "Cuke"
+        ],
+        "maxNetProfit": 310,
+        "permutationLength": 3
+    },
+    {
+        "ranknum": 7,
+        "baseProduct": "OG Kush",
+        "bestCombination": [
+            "Mouth Wash",
+            "Banana",
+            "Cuke"
+        ],
+        "maxNetProfit": 80,
+        "permutationLength": 3
+    },
+    {
+        "ranknum": 7,
+        "baseProduct": "Sour Diesel",
+        "bestCombination": [
+            "Viagra",
+            "Banana",
+            "Cuke"
+        ],
+        "maxNetProfit": 71,
+        "permutationLength": 3
+    },
+    {
+        "ranknum": 7,
+        "baseProduct": "Green Crack",
+        "bestCombination": [
+            "Viagra",
+            "Paracetamol",
+            "Motor Oil"
+        ],
+        "maxNetProfit": 77,
+        "permutationLength": 3
+    },
+    {
+        "ranknum": 7,
+        "baseProduct": "Grandaddy Purple",
+        "bestCombination": [
+            "Energy Drink",
+            "Paracetamol",
+            "Viagra"
+        ],
+        "maxNetProfit": 77,
+        "permutationLength": 3
+    },
+    {
+        "ranknum": 7,
+        "baseProduct": "Meth",
+        "bestCombination": [
+            "Viagra",
+            "Banana",
+            "Cuke"
+        ],
+        "maxNetProfit": 140,
+        "permutationLength": 3
+    },
+    {
+        "ranknum": 7,
+        "baseProduct": "Cocaine",
+        "bestCombination": [
+            "Viagra",
+            "Banana",
+            "Cuke"
+        ],
+        "maxNetProfit": 310,
+        "permutationLength": 3
+    },
+    {
+        "ranknum": 8,
+        "baseProduct": "OG Kush",
+        "bestCombination": [
+            "Cuke",
+            "Mega Bean",
+            "Viagra"
+        ],
+        "maxNetProfit": 87,
+        "permutationLength": 3
+    },
+    {
+        "ranknum": 8,
+        "baseProduct": "Sour Diesel",
+        "bestCombination": [
+            "Cuke",
+            "Mega Bean",
+            "Viagra"
+        ],
+        "maxNetProfit": 75,
+        "permutationLength": 3
+    },
+    {
+        "ranknum": 8,
+        "baseProduct": "Green Crack",
+        "bestCombination": [
+            "Mega Bean",
+            "Viagra",
+            "Donut"
+        ],
+        "maxNetProfit": 79,
+        "permutationLength": 3
+    },
+    {
+        "ranknum": 8,
+        "baseProduct": "Grandaddy Purple",
+        "bestCombination": [
+            "Cuke",
+            "Mega Bean",
+            "Viagra"
+        ],
+        "maxNetProfit": 79,
+        "permutationLength": 3
+    },
+    {
+        "ranknum": 8,
+        "baseProduct": "Meth",
+        "bestCombination": [
+            "Cuke",
+            "Mega Bean",
+            "Viagra"
+        ],
+        "maxNetProfit": 154,
+        "permutationLength": 3
+    },
+    {
+        "ranknum": 8,
+        "baseProduct": "Cocaine",
+        "bestCombination": [
+            "Cuke",
+            "Mega Bean",
+            "Viagra"
+        ],
+        "maxNetProfit": 344,
+        "permutationLength": 3
+    },
+    {
+        "ranknum": 9,
+        "baseProduct": "OG Kush",
+        "bestCombination": [
+            "Cuke",
+            "Mega Bean",
+            "Viagra"
+        ],
+        "maxNetProfit": 87,
+        "permutationLength": 3
+    },
+    {
+        "ranknum": 9,
+        "baseProduct": "Sour Diesel",
+        "bestCombination": [
+            "Cuke",
+            "Mega Bean",
+            "Viagra"
+        ],
+        "maxNetProfit": 75,
+        "permutationLength": 3
+    },
+    {
+        "ranknum": 9,
+        "baseProduct": "Green Crack",
+        "bestCombination": [
+            "Mega Bean",
+            "Viagra",
+            "Donut"
+        ],
+        "maxNetProfit": 79,
+        "permutationLength": 3
+    },
+    {
+        "ranknum": 9,
+        "baseProduct": "Grandaddy Purple",
+        "bestCombination": [
+            "Cuke",
+            "Mega Bean",
+            "Viagra"
+        ],
+        "maxNetProfit": 79,
+        "permutationLength": 3
+    },
+    {
+        "ranknum": 9,
+        "baseProduct": "Meth",
+        "bestCombination": [
+            "Cuke",
+            "Mega Bean",
+            "Viagra"
+        ],
+        "maxNetProfit": 154,
+        "permutationLength": 3
+    },
+    {
+        "ranknum": 9,
+        "baseProduct": "Cocaine",
+        "bestCombination": [
+            "Cuke",
+            "Mega Bean",
+            "Viagra"
+        ],
+        "maxNetProfit": 344,
+        "permutationLength": 3
+    },
+    {
+        "ranknum": 10,
+        "baseProduct": "OG Kush",
+        "bestCombination": [
+            "Cuke",
+            "Mega Bean",
+            "Viagra"
+        ],
+        "maxNetProfit": 87,
+        "permutationLength": 3
+    },
+    {
+        "ranknum": 10,
+        "baseProduct": "Sour Diesel",
+        "bestCombination": [
+            "Cuke",
+            "Mega Bean",
+            "Viagra"
+        ],
+        "maxNetProfit": 75,
+        "permutationLength": 3
+    },
+    {
+        "ranknum": 10,
+        "baseProduct": "Green Crack",
+        "bestCombination": [
+            "Mega Bean",
+            "Viagra",
+            "Donut"
+        ],
+        "maxNetProfit": 79,
+        "permutationLength": 3
+    },
+    {
+        "ranknum": 10,
+        "baseProduct": "Grandaddy Purple",
+        "bestCombination": [
+            "Cuke",
+            "Mega Bean",
+            "Viagra"
+        ],
+        "maxNetProfit": 79,
+        "permutationLength": 3
+    },
+    {
+        "ranknum": 10,
+        "baseProduct": "Meth",
+        "bestCombination": [
+            "Cuke",
+            "Mega Bean",
+            "Viagra"
+        ],
+        "maxNetProfit": 154,
+        "permutationLength": 3
+    },
+    {
+        "ranknum": 10,
+        "baseProduct": "Cocaine",
+        "bestCombination": [
+            "Cuke",
+            "Mega Bean",
+            "Viagra"
+        ],
+        "maxNetProfit": 344,
+        "permutationLength": 3
+    },
+    {
+        "ranknum": 11,
+        "baseProduct": "OG Kush",
+        "bestCombination": [
+            "Cuke",
+            "Mega Bean",
+            "Viagra"
+        ],
+        "maxNetProfit": 87,
+        "permutationLength": 3
+    },
+    {
+        "ranknum": 11,
+        "baseProduct": "Sour Diesel",
+        "bestCombination": [
+            "Viagra",
+            "Iodine",
+            "Mouth Wash"
+        ],
+        "maxNetProfit": 76,
+        "permutationLength": 3
+    },
+    {
+        "ranknum": 11,
+        "baseProduct": "Green Crack",
+        "bestCombination": [
+            "Mega Bean",
+            "Viagra",
+            "Donut"
+        ],
+        "maxNetProfit": 79,
+        "permutationLength": 3
+    },
+    {
+        "ranknum": 11,
+        "baseProduct": "Grandaddy Purple",
+        "bestCombination": [
+            "Cuke",
+            "Mega Bean",
+            "Viagra"
+        ],
+        "maxNetProfit": 79,
+        "permutationLength": 3
+    },
+    {
+        "ranknum": 11,
+        "baseProduct": "Meth",
+        "bestCombination": [
+            "Cuke",
+            "Mega Bean",
+            "Viagra"
+        ],
+        "maxNetProfit": 154,
+        "permutationLength": 3
+    },
+    {
+        "ranknum": 11,
+        "baseProduct": "Cocaine",
+        "bestCombination": [
+            "Cuke",
+            "Mega Bean",
+            "Viagra"
+        ],
+        "maxNetProfit": 344,
+        "permutationLength": 3
+    },
+    {
+        "ranknum": 12,
+        "baseProduct": "OG Kush",
+        "bestCombination": [
+            "Cuke",
+            "Mega Bean",
+            "Viagra"
+        ],
+        "maxNetProfit": 87,
+        "permutationLength": 3
+    },
+    {
+        "ranknum": 12,
+        "baseProduct": "Sour Diesel",
+        "bestCombination": [
+            "Viagra",
+            "Iodine",
+            "Mouth Wash"
+        ],
+        "maxNetProfit": 76,
+        "permutationLength": 3
+    },
+    {
+        "ranknum": 12,
+        "baseProduct": "Green Crack",
+        "bestCombination": [
+            "Mega Bean",
+            "Viagra",
+            "Donut"
+        ],
+        "maxNetProfit": 79,
+        "permutationLength": 3
+    },
+    {
+        "ranknum": 12,
+        "baseProduct": "Grandaddy Purple",
+        "bestCombination": [
+            "Cuke",
+            "Mega Bean",
+            "Viagra"
+        ],
+        "maxNetProfit": 79,
+        "permutationLength": 3
+    },
+    {
+        "ranknum": 12,
+        "baseProduct": "Meth",
+        "bestCombination": [
+            "Cuke",
+            "Mega Bean",
+            "Viagra"
+        ],
+        "maxNetProfit": 154,
+        "permutationLength": 3
+    },
+    {
+        "ranknum": 12,
+        "baseProduct": "Cocaine",
+        "bestCombination": [
+            "Cuke",
+            "Mega Bean",
+            "Viagra"
+        ],
+        "maxNetProfit": 344,
+        "permutationLength": 3
+    },
+    {
+        "ranknum": 13,
+        "baseProduct": "OG Kush",
+        "bestCombination": [
+            "Cuke",
+            "Mega Bean",
+            "Viagra"
+        ],
+        "maxNetProfit": 87,
+        "permutationLength": 3
+    },
+    {
+        "ranknum": 13,
+        "baseProduct": "Sour Diesel",
+        "bestCombination": [
+            "Iodine",
+            "Horse Semen",
+            "Viagra"
+        ],
+        "maxNetProfit": 81,
+        "permutationLength": 3
+    },
+    {
+        "ranknum": 13,
+        "baseProduct": "Green Crack",
+        "bestCombination": [
+            "Banana",
+            "Horse Semen",
+            "Iodine"
+        ],
+        "maxNetProfit": 82,
+        "permutationLength": 3
+    },
+    {
+        "ranknum": 13,
+        "baseProduct": "Grandaddy Purple",
+        "bestCombination": [
+            "Cuke",
+            "Mega Bean",
+            "Viagra"
+        ],
+        "maxNetProfit": 79,
+        "permutationLength": 3
+    },
+    {
+        "ranknum": 13,
+        "baseProduct": "Meth",
+        "bestCombination": [
+            "Cuke",
+            "Mega Bean",
+            "Viagra"
+        ],
+        "maxNetProfit": 154,
+        "permutationLength": 3
+    },
+    {
+        "ranknum": 13,
+        "baseProduct": "Cocaine",
+        "bestCombination": [
+            "Addy",
+            "Horse Semen",
+            "Viagra"
+        ],
+        "maxNetProfit": 350,
+        "permutationLength": 3
+    },
+    {
+        "ranknum": 1,
+        "baseProduct": "OG Kush",
+        "bestCombination": [
+            "Paracetamol",
+            "Cuke",
+            "Banana",
+            "Paracetamol"
+        ],
+        "maxNetProfit": 89,
+        "permutationLength": 4
+    },
+    {
+        "ranknum": 1,
+        "baseProduct": "Sour Diesel",
+        "bestCombination": [
+            "Paracetamol",
+            "Cuke",
+            "Banana",
+            "Donut"
+        ],
+        "maxNetProfit": 77,
+        "permutationLength": 4
+    },
+    {
+        "ranknum": 1,
+        "baseProduct": "Green Crack",
+        "bestCombination": [
+            "Paracetamol",
+            "Cuke",
+            "Banana",
+            "Donut"
+        ],
+        "maxNetProfit": 80,
+        "permutationLength": 4
+    },
+    {
+        "ranknum": 1,
+        "baseProduct": "Grandaddy Purple",
+        "bestCombination": [
+            "Paracetamol",
+            "Cuke",
+            "Banana",
+            "Donut"
+        ],
+        "maxNetProfit": 81,
+        "permutationLength": 4
+    },
+    {
+        "ranknum": 1,
+        "baseProduct": "Meth",
+        "bestCombination": [
+            "Paracetamol",
+            "Cuke",
+            "Banana",
+            "Donut"
+        ],
+        "maxNetProfit": 154,
+        "permutationLength": 4
+    },
+    {
+        "ranknum": 1,
+        "baseProduct": "Cocaine",
+        "bestCombination": [
+            "Paracetamol",
+            "Cuke",
+            "Banana",
+            "Donut"
+        ],
+        "maxNetProfit": 341,
+        "permutationLength": 4
+    },
+    {
+        "ranknum": 2,
+        "baseProduct": "OG Kush",
+        "bestCombination": [
+            "Paracetamol",
+            "Cuke",
+            "Banana",
+            "Paracetamol"
+        ],
+        "maxNetProfit": 89,
+        "permutationLength": 4
+    },
+    {
+        "ranknum": 2,
+        "baseProduct": "Sour Diesel",
+        "bestCombination": [
+            "Viagra",
+            "Paracetamol",
+            "Cuke",
+            "Banana"
+        ],
+        "maxNetProfit": 82,
+        "permutationLength": 4
+    },
+    {
+        "ranknum": 2,
+        "baseProduct": "Green Crack",
+        "bestCombination": [
+            "Viagra",
+            "Paracetamol",
+            "Cuke",
+            "Banana"
+        ],
+        "maxNetProfit": 86,
+        "permutationLength": 4
+    },
+    {
+        "ranknum": 2,
+        "baseProduct": "Grandaddy Purple",
+        "bestCombination": [
+            "Viagra",
+            "Paracetamol",
+            "Cuke",
+            "Banana"
+        ],
+        "maxNetProfit": 86,
+        "permutationLength": 4
+    },
+    {
+        "ranknum": 2,
+        "baseProduct": "Meth",
+        "bestCombination": [
+            "Viagra",
+            "Paracetamol",
+            "Cuke",
+            "Banana"
+        ],
+        "maxNetProfit": 165,
+        "permutationLength": 4
+    },
+    {
+        "ranknum": 2,
+        "baseProduct": "Cocaine",
+        "bestCombination": [
+            "Viagra",
+            "Paracetamol",
+            "Cuke",
+            "Banana"
+        ],
+        "maxNetProfit": 367,
+        "permutationLength": 4
+    },
+    {
+        "ranknum": 3,
+        "baseProduct": "OG Kush",
+        "bestCombination": [
+            "Viagra",
+            "Mouth Wash",
+            "Banana",
+            "Cuke"
+        ],
+        "maxNetProfit": 92,
+        "permutationLength": 4
+    },
+    {
+        "ranknum": 3,
+        "baseProduct": "Sour Diesel",
+        "bestCombination": [
+            "Viagra",
+            "Paracetamol",
+            "Cuke",
+            "Banana"
+        ],
+        "maxNetProfit": 82,
+        "permutationLength": 4
+    },
+    {
+        "ranknum": 3,
+        "baseProduct": "Green Crack",
+        "bestCombination": [
+            "Viagra",
+            "Paracetamol",
+            "Cuke",
+            "Banana"
+        ],
+        "maxNetProfit": 86,
+        "permutationLength": 4
+    },
+    {
+        "ranknum": 3,
+        "baseProduct": "Grandaddy Purple",
+        "bestCombination": [
+            "Viagra",
+            "Paracetamol",
+            "Cuke",
+            "Banana"
+        ],
+        "maxNetProfit": 86,
+        "permutationLength": 4
+    },
+    {
+        "ranknum": 3,
+        "baseProduct": "Meth",
+        "bestCombination": [
+            "Viagra",
+            "Paracetamol",
+            "Cuke",
+            "Banana"
+        ],
+        "maxNetProfit": 165,
+        "permutationLength": 4
+    },
+    {
+        "ranknum": 3,
+        "baseProduct": "Cocaine",
+        "bestCombination": [
+            "Viagra",
+            "Paracetamol",
+            "Cuke",
+            "Banana"
+        ],
+        "maxNetProfit": 367,
+        "permutationLength": 4
+    },
+    {
+        "ranknum": 4,
+        "baseProduct": "OG Kush",
+        "bestCombination": [
+            "Viagra",
+            "Mouth Wash",
+            "Banana",
+            "Cuke"
+        ],
+        "maxNetProfit": 92,
+        "permutationLength": 4
+    },
+    {
+        "ranknum": 4,
+        "baseProduct": "Sour Diesel",
+        "bestCombination": [
+            "Viagra",
+            "Paracetamol",
+            "Cuke",
+            "Banana"
+        ],
+        "maxNetProfit": 82,
+        "permutationLength": 4
+    },
+    {
+        "ranknum": 4,
+        "baseProduct": "Green Crack",
+        "bestCombination": [
+            "Viagra",
+            "Paracetamol",
+            "Cuke",
+            "Banana"
+        ],
+        "maxNetProfit": 86,
+        "permutationLength": 4
+    },
+    {
+        "ranknum": 4,
+        "baseProduct": "Grandaddy Purple",
+        "bestCombination": [
+            "Viagra",
+            "Paracetamol",
+            "Cuke",
+            "Banana"
+        ],
+        "maxNetProfit": 86,
+        "permutationLength": 4
+    },
+    {
+        "ranknum": 4,
+        "baseProduct": "Meth",
+        "bestCombination": [
+            "Viagra",
+            "Paracetamol",
+            "Cuke",
+            "Banana"
+        ],
+        "maxNetProfit": 165,
+        "permutationLength": 4
+    },
+    {
+        "ranknum": 4,
+        "baseProduct": "Cocaine",
+        "bestCombination": [
+            "Viagra",
+            "Paracetamol",
+            "Cuke",
+            "Banana"
+        ],
+        "maxNetProfit": 367,
+        "permutationLength": 4
+    },
+    {
+        "ranknum": 5,
+        "baseProduct": "OG Kush",
+        "bestCombination": [
+            "Viagra",
+            "Mouth Wash",
+            "Banana",
+            "Cuke"
+        ],
+        "maxNetProfit": 92,
+        "permutationLength": 4
+    },
+    {
+        "ranknum": 5,
+        "baseProduct": "Sour Diesel",
+        "bestCombination": [
+            "Viagra",
+            "Paracetamol",
+            "Cuke",
+            "Banana"
+        ],
+        "maxNetProfit": 82,
+        "permutationLength": 4
+    },
+    {
+        "ranknum": 5,
+        "baseProduct": "Green Crack",
+        "bestCombination": [
+            "Banana",
+            "Gasoline",
+            "Paracetamol",
+            "Banana"
+        ],
+        "maxNetProfit": 89,
+        "permutationLength": 4
+    },
+    {
+        "ranknum": 5,
+        "baseProduct": "Grandaddy Purple",
+        "bestCombination": [
+            "Viagra",
+            "Paracetamol",
+            "Cuke",
+            "Banana"
+        ],
+        "maxNetProfit": 86,
+        "permutationLength": 4
+    },
+    {
+        "ranknum": 5,
+        "baseProduct": "Meth",
+        "bestCombination": [
+            "Viagra",
+            "Paracetamol",
+            "Cuke",
+            "Banana"
+        ],
+        "maxNetProfit": 165,
+        "permutationLength": 4
+    },
+    {
+        "ranknum": 5,
+        "baseProduct": "Cocaine",
+        "bestCombination": [
+            "Viagra",
+            "Paracetamol",
+            "Cuke",
+            "Banana"
+        ],
+        "maxNetProfit": 367,
+        "permutationLength": 4
+    },
+    {
+        "ranknum": 6,
+        "baseProduct": "OG Kush",
+        "bestCombination": [
+            "Viagra",
+            "Mouth Wash",
+            "Banana",
+            "Cuke"
+        ],
+        "maxNetProfit": 92,
+        "permutationLength": 4
+    },
+    {
+        "ranknum": 6,
+        "baseProduct": "Sour Diesel",
+        "bestCombination": [
+            "Viagra",
+            "Paracetamol",
+            "Cuke",
+            "Banana"
+        ],
+        "maxNetProfit": 82,
+        "permutationLength": 4
+    },
+    {
+        "ranknum": 6,
+        "baseProduct": "Green Crack",
+        "bestCombination": [
+            "Banana",
+            "Gasoline",
+            "Paracetamol",
+            "Banana"
+        ],
+        "maxNetProfit": 89,
+        "permutationLength": 4
+    },
+    {
+        "ranknum": 6,
+        "baseProduct": "Grandaddy Purple",
+        "bestCombination": [
+            "Energy Drink",
+            "Paracetamol",
+            "Cuke",
+            "Banana"
+        ],
+        "maxNetProfit": 89,
+        "permutationLength": 4
+    },
+    {
+        "ranknum": 6,
+        "baseProduct": "Meth",
+        "bestCombination": [
+            "Viagra",
+            "Paracetamol",
+            "Cuke",
+            "Banana"
+        ],
+        "maxNetProfit": 165,
+        "permutationLength": 4
+    },
+    {
+        "ranknum": 6,
+        "baseProduct": "Cocaine",
+        "bestCombination": [
+            "Viagra",
+            "Paracetamol",
+            "Cuke",
+            "Banana"
+        ],
+        "maxNetProfit": 367,
+        "permutationLength": 4
+    },
+    {
+        "ranknum": 7,
+        "baseProduct": "OG Kush",
+        "bestCombination": [
+            "Viagra",
+            "Mouth Wash",
+            "Banana",
+            "Cuke"
+        ],
+        "maxNetProfit": 92,
+        "permutationLength": 4
+    },
+    {
+        "ranknum": 7,
+        "baseProduct": "Sour Diesel",
+        "bestCombination": [
+            "Banana",
+            "Cuke",
+            "Paracetamol",
+            "Motor Oil"
+        ],
+        "maxNetProfit": 82,
+        "permutationLength": 4
+    },
+    {
+        "ranknum": 7,
+        "baseProduct": "Green Crack",
+        "bestCombination": [
+            "Banana",
+            "Gasoline",
+            "Paracetamol",
+            "Banana"
+        ],
+        "maxNetProfit": 89,
+        "permutationLength": 4
+    },
+    {
+        "ranknum": 7,
+        "baseProduct": "Grandaddy Purple",
+        "bestCombination": [
+            "Energy Drink",
+            "Paracetamol",
+            "Cuke",
+            "Banana"
+        ],
+        "maxNetProfit": 89,
+        "permutationLength": 4
+    },
+    {
+        "ranknum": 7,
+        "baseProduct": "Meth",
+        "bestCombination": [
+            "Banana",
+            "Cuke",
+            "Paracetamol",
+            "Motor Oil"
+        ],
+        "maxNetProfit": 166,
+        "permutationLength": 4
+    },
+    {
+        "ranknum": 7,
+        "baseProduct": "Cocaine",
+        "bestCombination": [
+            "Viagra",
+            "Cuke",
+            "Paracetamol",
+            "Motor Oil"
+        ],
+        "maxNetProfit": 372,
+        "permutationLength": 4
+    },
+    {
+        "ranknum": 8,
+        "baseProduct": "OG Kush",
+        "bestCombination": [
+            "Mega Bean",
+            "Viagra",
+            "Banana",
+            "Cuke"
+        ],
+        "maxNetProfit": 96,
+        "permutationLength": 4
+    },
+    {
+        "ranknum": 8,
+        "baseProduct": "Sour Diesel",
+        "bestCombination": [
+            "Mega Bean",
+            "Viagra",
+            "Banana",
+            "Cuke"
+        ],
+        "maxNetProfit": 84,
+        "permutationLength": 4
+    },
+    {
+        "ranknum": 8,
+        "baseProduct": "Green Crack",
+        "bestCombination": [
+            "Gasoline",
+            "Cuke",
+            "Viagra",
+            "Mega Bean"
+        ],
+        "maxNetProfit": 96,
+        "permutationLength": 4
+    },
+    {
+        "ranknum": 8,
+        "baseProduct": "Grandaddy Purple",
+        "bestCombination": [
+            "Energy Drink",
+            "Paracetamol",
+            "Cuke",
+            "Banana"
+        ],
+        "maxNetProfit": 89,
+        "permutationLength": 4
+    },
+    {
+        "ranknum": 8,
+        "baseProduct": "Meth",
+        "bestCombination": [
+            "Gasoline",
+            "Cuke",
+            "Mega Bean",
+            "Viagra"
+        ],
+        "maxNetProfit": 177,
+        "permutationLength": 4
+    },
+    {
+        "ranknum": 8,
+        "baseProduct": "Cocaine",
+        "bestCombination": [
+            "Gasoline",
+            "Cuke",
+            "Mega Bean",
+            "Viagra"
+        ],
+        "maxNetProfit": 399,
+        "permutationLength": 4
+    },
+    {
+        "ranknum": 9,
+        "baseProduct": "OG Kush",
+        "bestCombination": [
+            "Mega Bean",
+            "Viagra",
+            "Banana",
+            "Cuke"
+        ],
+        "maxNetProfit": 96,
+        "permutationLength": 4
+    },
+    {
+        "ranknum": 9,
+        "baseProduct": "Sour Diesel",
+        "bestCombination": [
+            "Mega Bean",
+            "Viagra",
+            "Banana",
+            "Cuke"
+        ],
+        "maxNetProfit": 84,
+        "permutationLength": 4
+    },
+    {
+        "ranknum": 9,
+        "baseProduct": "Green Crack",
+        "bestCombination": [
+            "Gasoline",
+            "Cuke",
+            "Viagra",
+            "Mega Bean"
+        ],
+        "maxNetProfit": 96,
+        "permutationLength": 4
+    },
+    {
+        "ranknum": 9,
+        "baseProduct": "Grandaddy Purple",
+        "bestCombination": [
+            "Energy Drink",
+            "Paracetamol",
+            "Cuke",
+            "Banana"
+        ],
+        "maxNetProfit": 89,
+        "permutationLength": 4
+    },
+    {
+        "ranknum": 9,
+        "baseProduct": "Meth",
+        "bestCombination": [
+            "Gasoline",
+            "Cuke",
+            "Mega Bean",
+            "Viagra"
+        ],
+        "maxNetProfit": 177,
+        "permutationLength": 4
+    },
+    {
+        "ranknum": 9,
+        "baseProduct": "Cocaine",
+        "bestCombination": [
+            "Energy Drink",
+            "Cuke",
+            "Mega Bean",
+            "Chili"
+        ],
+        "maxNetProfit": 401,
+        "permutationLength": 4
+    },
+    {
+        "ranknum": 10,
+        "baseProduct": "OG Kush",
+        "bestCombination": [
+            "Mega Bean",
+            "Viagra",
+            "Banana",
+            "Cuke"
+        ],
+        "maxNetProfit": 96,
+        "permutationLength": 4
+    },
+    {
+        "ranknum": 10,
+        "baseProduct": "Sour Diesel",
+        "bestCombination": [
+            "Mega Bean",
+            "Viagra",
+            "Banana",
+            "Cuke"
+        ],
+        "maxNetProfit": 84,
+        "permutationLength": 4
+    },
+    {
+        "ranknum": 10,
+        "baseProduct": "Green Crack",
+        "bestCombination": [
+            "Gasoline",
+            "Cuke",
+            "Viagra",
+            "Mega Bean"
+        ],
+        "maxNetProfit": 96,
+        "permutationLength": 4
+    },
+    {
+        "ranknum": 10,
+        "baseProduct": "Grandaddy Purple",
+        "bestCombination": [
+            "Energy Drink",
+            "Paracetamol",
+            "Cuke",
+            "Banana"
+        ],
+        "maxNetProfit": 89,
+        "permutationLength": 4
+    },
+    {
+        "ranknum": 10,
+        "baseProduct": "Meth",
+        "bestCombination": [
+            "Gasoline",
+            "Cuke",
+            "Battery",
+            "Mega Bean"
+        ],
+        "maxNetProfit": 181,
+        "permutationLength": 4
+    },
+    {
+        "ranknum": 10,
+        "baseProduct": "Cocaine",
+        "bestCombination": [
+            "Gasoline",
+            "Cuke",
+            "Battery",
+            "Mega Bean"
+        ],
+        "maxNetProfit": 413,
+        "permutationLength": 4
+    },
+    {
+        "ranknum": 11,
+        "baseProduct": "OG Kush",
+        "bestCombination": [
+            "Mega Bean",
+            "Viagra",
+            "Banana",
+            "Cuke"
+        ],
+        "maxNetProfit": 96,
+        "permutationLength": 4
+    },
+    {
+        "ranknum": 11,
+        "baseProduct": "Sour Diesel",
+        "bestCombination": [
+            "Cuke",
+            "Mega Bean",
+            "Iodine",
+            "Motor Oil"
+        ],
+        "maxNetProfit": 93,
+        "permutationLength": 4
+    },
+    {
+        "ranknum": 11,
+        "baseProduct": "Green Crack",
+        "bestCombination": [
+            "Gasoline",
+            "Cuke",
+            "Viagra",
+            "Mega Bean"
+        ],
+        "maxNetProfit": 96,
+        "permutationLength": 4
+    },
+    {
+        "ranknum": 11,
+        "baseProduct": "Grandaddy Purple",
+        "bestCombination": [
+            "Energy Drink",
+            "Paracetamol",
+            "Cuke",
+            "Banana"
+        ],
+        "maxNetProfit": 89,
+        "permutationLength": 4
+    },
+    {
+        "ranknum": 11,
+        "baseProduct": "Meth",
+        "bestCombination": [
+            "Gasoline",
+            "Cuke",
+            "Battery",
+            "Mega Bean"
+        ],
+        "maxNetProfit": 181,
+        "permutationLength": 4
+    },
+    {
+        "ranknum": 11,
+        "baseProduct": "Cocaine",
+        "bestCombination": [
+            "Gasoline",
+            "Cuke",
+            "Battery",
+            "Mega Bean"
+        ],
+        "maxNetProfit": 413,
+        "permutationLength": 4
+    },
+    {
+        "ranknum": 12,
+        "baseProduct": "OG Kush",
+        "bestCombination": [
+            "Mega Bean",
+            "Viagra",
+            "Banana",
+            "Cuke"
+        ],
+        "maxNetProfit": 96,
+        "permutationLength": 4
+    },
+    {
+        "ranknum": 12,
+        "baseProduct": "Sour Diesel",
+        "bestCombination": [
+            "Cuke",
+            "Mega Bean",
+            "Iodine",
+            "Motor Oil"
+        ],
+        "maxNetProfit": 93,
+        "permutationLength": 4
+    },
+    {
+        "ranknum": 12,
+        "baseProduct": "Green Crack",
+        "bestCombination": [
+            "Gasoline",
+            "Cuke",
+            "Viagra",
+            "Mega Bean"
+        ],
+        "maxNetProfit": 96,
+        "permutationLength": 4
+    },
+    {
+        "ranknum": 12,
+        "baseProduct": "Grandaddy Purple",
+        "bestCombination": [
+            "Energy Drink",
+            "Paracetamol",
+            "Cuke",
+            "Banana"
+        ],
+        "maxNetProfit": 89,
+        "permutationLength": 4
+    },
+    {
+        "ranknum": 12,
+        "baseProduct": "Meth",
+        "bestCombination": [
+            "Gasoline",
+            "Cuke",
+            "Battery",
+            "Mega Bean"
+        ],
+        "maxNetProfit": 181,
+        "permutationLength": 4
+    },
+    {
+        "ranknum": 12,
+        "baseProduct": "Cocaine",
+        "bestCombination": [
+            "Gasoline",
+            "Cuke",
+            "Battery",
+            "Mega Bean"
+        ],
+        "maxNetProfit": 413,
+        "permutationLength": 4
+    },
+    {
+        "ranknum": 13,
+        "baseProduct": "OG Kush",
+        "bestCombination": [
+            "Mega Bean",
+            "Viagra",
+            "Banana",
+            "Cuke"
+        ],
+        "maxNetProfit": 96,
+        "permutationLength": 4
+    },
+    {
+        "ranknum": 13,
+        "baseProduct": "Sour Diesel",
+        "bestCombination": [
+            "Cuke",
+            "Mega Bean",
+            "Iodine",
+            "Motor Oil"
+        ],
+        "maxNetProfit": 93,
+        "permutationLength": 4
+    },
+    {
+        "ranknum": 13,
+        "baseProduct": "Green Crack",
+        "bestCombination": [
+            "Gasoline",
+            "Cuke",
+            "Viagra",
+            "Mega Bean"
+        ],
+        "maxNetProfit": 96,
+        "permutationLength": 4
+    },
+    {
+        "ranknum": 13,
+        "baseProduct": "Grandaddy Purple",
+        "bestCombination": [
+            "Banana",
+            "Cuke",
+            "Horse Semen",
+            "Mega Bean"
+        ],
+        "maxNetProfit": 92,
+        "permutationLength": 4
+    },
+    {
+        "ranknum": 13,
+        "baseProduct": "Meth",
+        "bestCombination": [
+            "Banana",
+            "Cuke",
+            "Horse Semen",
+            "Mega Bean"
+        ],
+        "maxNetProfit": 186,
+        "permutationLength": 4
+    },
+    {
+        "ranknum": 13,
+        "baseProduct": "Cocaine",
+        "bestCombination": [
+            "Banana",
+            "Cuke",
+            "Horse Semen",
+            "Mega Bean"
+        ],
+        "maxNetProfit": 421,
+        "permutationLength": 4
+    },
+    {
+        "ranknum": 1,
+        "baseProduct": "OG Kush",
+        "bestCombination": [
+            "Paracetamol",
+            "Cuke",
+            "Paracetamol",
+            "Cuke",
+            "Banana"
+        ],
+        "maxNetProfit": 98,
+        "permutationLength": 5
+    },
+    {
+        "ranknum": 1,
+        "baseProduct": "Sour Diesel",
+        "bestCombination": [
+            "Paracetamol",
+            "Cuke",
+            "Paracetamol",
+            "Cuke",
+            "Banana"
+        ],
+        "maxNetProfit": 84,
+        "permutationLength": 5
+    },
+    {
+        "ranknum": 1,
+        "baseProduct": "Green Crack",
+        "bestCombination": [
+            "Paracetamol",
+            "Banana",
+            "Donut",
+            "Cuke",
+            "Paracetamol"
+        ],
+        "maxNetProfit": 81,
+        "permutationLength": 5
+    },
+    {
+        "ranknum": 1,
+        "baseProduct": "Grandaddy Purple",
+        "bestCombination": [
+            "Paracetamol",
+            "Cuke",
+            "Paracetamol",
+            "Cuke",
+            "Banana"
+        ],
+        "maxNetProfit": 88,
+        "permutationLength": 5
+    },
+    {
+        "ranknum": 1,
+        "baseProduct": "Meth",
+        "bestCombination": [
+            "Paracetamol",
+            "Cuke",
+            "Paracetamol",
+            "Cuke",
+            "Banana"
+        ],
+        "maxNetProfit": 170,
+        "permutationLength": 5
+    },
+    {
+        "ranknum": 1,
+        "baseProduct": "Cocaine",
+        "bestCombination": [
+            "Paracetamol",
+            "Cuke",
+            "Paracetamol",
+            "Cuke",
+            "Banana"
+        ],
+        "maxNetProfit": 378,
+        "permutationLength": 5
+    },
+    {
+        "ranknum": 2,
+        "baseProduct": "OG Kush",
+        "bestCombination": [
+            "Viagra",
+            "Paracetamol",
+            "Cuke",
+            "Banana",
+            "Paracetamol"
+        ],
+        "maxNetProfit": 102,
+        "permutationLength": 5
+    },
+    {
+        "ranknum": 2,
+        "baseProduct": "Sour Diesel",
+        "bestCombination": [
+            "Viagra",
+            "Paracetamol",
+            "Cuke",
+            "Banana",
+            "Donut"
+        ],
+        "maxNetProfit": 89,
+        "permutationLength": 5
+    },
+    {
+        "ranknum": 2,
+        "baseProduct": "Green Crack",
+        "bestCombination": [
+            "Viagra",
+            "Paracetamol",
+            "Cuke",
+            "Banana",
+            "Donut"
+        ],
+        "maxNetProfit": 92,
+        "permutationLength": 5
+    },
+    {
+        "ranknum": 2,
+        "baseProduct": "Grandaddy Purple",
+        "bestCombination": [
+            "Viagra",
+            "Paracetamol",
+            "Cuke",
+            "Banana",
+            "Donut"
+        ],
+        "maxNetProfit": 93,
+        "permutationLength": 5
+    },
+    {
+        "ranknum": 2,
+        "baseProduct": "Meth",
+        "bestCombination": [
+            "Viagra",
+            "Paracetamol",
+            "Cuke",
+            "Banana",
+            "Donut"
+        ],
+        "maxNetProfit": 182,
+        "permutationLength": 5
+    },
+    {
+        "ranknum": 2,
+        "baseProduct": "Cocaine",
+        "bestCombination": [
+            "Viagra",
+            "Paracetamol",
+            "Cuke",
+            "Banana",
+            "Donut"
+        ],
+        "maxNetProfit": 406,
+        "permutationLength": 5
+    },
+    {
+        "ranknum": 3,
+        "baseProduct": "OG Kush",
+        "bestCombination": [
+            "Viagra",
+            "Donut",
+            "Mouth Wash",
+            "Cuke",
+            "Banana"
+        ],
+        "maxNetProfit": 103,
+        "permutationLength": 5
+    },
+    {
+        "ranknum": 3,
+        "baseProduct": "Sour Diesel",
+        "bestCombination": [
+            "Viagra",
+            "Paracetamol",
+            "Cuke",
+            "Banana",
+            "Donut"
+        ],
+        "maxNetProfit": 89,
+        "permutationLength": 5
+    },
+    {
+        "ranknum": 3,
+        "baseProduct": "Green Crack",
+        "bestCombination": [
+            "Viagra",
+            "Paracetamol",
+            "Cuke",
+            "Banana",
+            "Donut"
+        ],
+        "maxNetProfit": 92,
+        "permutationLength": 5
+    },
+    {
+        "ranknum": 3,
+        "baseProduct": "Grandaddy Purple",
+        "bestCombination": [
+            "Viagra",
+            "Paracetamol",
+            "Cuke",
+            "Banana",
+            "Donut"
+        ],
+        "maxNetProfit": 93,
+        "permutationLength": 5
+    },
+    {
+        "ranknum": 3,
+        "baseProduct": "Meth",
+        "bestCombination": [
+            "Viagra",
+            "Paracetamol",
+            "Cuke",
+            "Banana",
+            "Donut"
+        ],
+        "maxNetProfit": 182,
+        "permutationLength": 5
+    },
+    {
+        "ranknum": 3,
+        "baseProduct": "Cocaine",
+        "bestCombination": [
+            "Viagra",
+            "Paracetamol",
+            "Cuke",
+            "Banana",
+            "Mouth Wash"
+        ],
+        "maxNetProfit": 408,
+        "permutationLength": 5
+    },
+    {
+        "ranknum": 4,
+        "baseProduct": "OG Kush",
+        "bestCombination": [
+            "Viagra",
+            "Donut",
+            "Mouth Wash",
+            "Cuke",
+            "Banana"
+        ],
+        "maxNetProfit": 103,
+        "permutationLength": 5
+    },
+    {
+        "ranknum": 4,
+        "baseProduct": "Sour Diesel",
+        "bestCombination": [
+            "Viagra",
+            "Paracetamol",
+            "Cuke",
+            "Banana",
+            "Donut"
+        ],
+        "maxNetProfit": 89,
+        "permutationLength": 5
+    },
+    {
+        "ranknum": 4,
+        "baseProduct": "Green Crack",
+        "bestCombination": [
+            "Viagra",
+            "Paracetamol",
+            "Cuke",
+            "Banana",
+            "Donut"
+        ],
+        "maxNetProfit": 92,
+        "permutationLength": 5
+    },
+    {
+        "ranknum": 4,
+        "baseProduct": "Grandaddy Purple",
+        "bestCombination": [
+            "Viagra",
+            "Paracetamol",
+            "Cuke",
+            "Banana",
+            "Donut"
+        ],
+        "maxNetProfit": 93,
+        "permutationLength": 5
+    },
+    {
+        "ranknum": 4,
+        "baseProduct": "Meth",
+        "bestCombination": [
+            "Viagra",
+            "Paracetamol",
+            "Cuke",
+            "Banana",
+            "Donut"
+        ],
+        "maxNetProfit": 182,
+        "permutationLength": 5
+    },
+    {
+        "ranknum": 4,
+        "baseProduct": "Cocaine",
+        "bestCombination": [
+            "Viagra",
+            "Paracetamol",
+            "Cuke",
+            "Banana",
+            "Mouth Wash"
+        ],
+        "maxNetProfit": 408,
+        "permutationLength": 5
+    },
+    {
+        "ranknum": 5,
+        "baseProduct": "OG Kush",
+        "bestCombination": [
+            "Viagra",
+            "Donut",
+            "Mouth Wash",
+            "Cuke",
+            "Banana"
+        ],
+        "maxNetProfit": 103,
+        "permutationLength": 5
+    },
+    {
+        "ranknum": 5,
+        "baseProduct": "Sour Diesel",
+        "bestCombination": [
+            "Banana",
+            "Gasoline",
+            "Paracetamol",
+            "Cuke",
+            "Banana"
+        ],
+        "maxNetProfit": 98,
+        "permutationLength": 5
+    },
+    {
+        "ranknum": 5,
+        "baseProduct": "Green Crack",
+        "bestCombination": [
+            "Paracetamol",
+            "Gasoline",
+            "Banana",
+            "Cuke",
+            "Banana"
+        ],
+        "maxNetProfit": 101,
+        "permutationLength": 5
+    },
+    {
+        "ranknum": 5,
+        "baseProduct": "Grandaddy Purple",
+        "bestCombination": [
+            "Banana",
+            "Gasoline",
+            "Paracetamol",
+            "Cuke",
+            "Banana"
+        ],
+        "maxNetProfit": 102,
+        "permutationLength": 5
+    },
+    {
+        "ranknum": 5,
+        "baseProduct": "Meth",
+        "bestCombination": [
+            "Banana",
+            "Gasoline",
+            "Paracetamol",
+            "Cuke",
+            "Banana"
+        ],
+        "maxNetProfit": 200,
+        "permutationLength": 5
+    },
+    {
+        "ranknum": 5,
+        "baseProduct": "Cocaine",
+        "bestCombination": [
+            "Banana",
+            "Gasoline",
+            "Paracetamol",
+            "Cuke",
+            "Banana"
+        ],
+        "maxNetProfit": 445,
+        "permutationLength": 5
+    },
+    {
+        "ranknum": 6,
+        "baseProduct": "OG Kush",
+        "bestCombination": [
+            "Viagra",
+            "Donut",
+            "Mouth Wash",
+            "Cuke",
+            "Banana"
+        ],
+        "maxNetProfit": 103,
+        "permutationLength": 5
+    },
+    {
+        "ranknum": 6,
+        "baseProduct": "Sour Diesel",
+        "bestCombination": [
+            "Banana",
+            "Gasoline",
+            "Paracetamol",
+            "Cuke",
+            "Banana"
+        ],
+        "maxNetProfit": 98,
+        "permutationLength": 5
+    },
+    {
+        "ranknum": 6,
+        "baseProduct": "Green Crack",
+        "bestCombination": [
+            "Paracetamol",
+            "Gasoline",
+            "Banana",
+            "Cuke",
+            "Banana"
+        ],
+        "maxNetProfit": 101,
+        "permutationLength": 5
+    },
+    {
+        "ranknum": 6,
+        "baseProduct": "Grandaddy Purple",
+        "bestCombination": [
+            "Banana",
+            "Gasoline",
+            "Paracetamol",
+            "Cuke",
+            "Banana"
+        ],
+        "maxNetProfit": 102,
+        "permutationLength": 5
+    },
+    {
+        "ranknum": 6,
+        "baseProduct": "Meth",
+        "bestCombination": [
+            "Banana",
+            "Gasoline",
+            "Paracetamol",
+            "Cuke",
+            "Banana"
+        ],
+        "maxNetProfit": 200,
+        "permutationLength": 5
+    },
+    {
+        "ranknum": 6,
+        "baseProduct": "Cocaine",
+        "bestCombination": [
+            "Banana",
+            "Gasoline",
+            "Paracetamol",
+            "Cuke",
+            "Banana"
+        ],
+        "maxNetProfit": 445,
+        "permutationLength": 5
+    },
+    {
+        "ranknum": 7,
+        "baseProduct": "OG Kush",
+        "bestCombination": [
+            "Viagra",
+            "Donut",
+            "Mouth Wash",
+            "Cuke",
+            "Banana"
+        ],
+        "maxNetProfit": 103,
+        "permutationLength": 5
+    },
+    {
+        "ranknum": 7,
+        "baseProduct": "Sour Diesel",
+        "bestCombination": [
+            "Banana",
+            "Gasoline",
+            "Paracetamol",
+            "Cuke",
+            "Banana"
+        ],
+        "maxNetProfit": 98,
+        "permutationLength": 5
+    },
+    {
+        "ranknum": 7,
+        "baseProduct": "Green Crack",
+        "bestCombination": [
+            "Paracetamol",
+            "Gasoline",
+            "Banana",
+            "Cuke",
+            "Banana"
+        ],
+        "maxNetProfit": 101,
+        "permutationLength": 5
+    },
+    {
+        "ranknum": 7,
+        "baseProduct": "Grandaddy Purple",
+        "bestCombination": [
+            "Banana",
+            "Gasoline",
+            "Paracetamol",
+            "Cuke",
+            "Banana"
+        ],
+        "maxNetProfit": 102,
+        "permutationLength": 5
+    },
+    {
+        "ranknum": 7,
+        "baseProduct": "Meth",
+        "bestCombination": [
+            "Banana",
+            "Gasoline",
+            "Paracetamol",
+            "Cuke",
+            "Banana"
+        ],
+        "maxNetProfit": 200,
+        "permutationLength": 5
+    },
+    {
+        "ranknum": 7,
+        "baseProduct": "Cocaine",
+        "bestCombination": [
+            "Banana",
+            "Gasoline",
+            "Paracetamol",
+            "Cuke",
+            "Banana"
+        ],
+        "maxNetProfit": 445,
+        "permutationLength": 5
+    },
+    {
+        "ranknum": 8,
+        "baseProduct": "OG Kush",
+        "bestCombination": [
+            "Energy Drink",
+            "Cuke",
+            "Mega Bean",
+            "Viagra",
+            "Mouth Wash"
+        ],
+        "maxNetProfit": 107,
+        "permutationLength": 5
+    },
+    {
+        "ranknum": 8,
+        "baseProduct": "Sour Diesel",
+        "bestCombination": [
+            "Cuke",
+            "Gasoline",
+            "Cuke",
+            "Viagra",
+            "Mega Bean"
+        ],
+        "maxNetProfit": 99,
+        "permutationLength": 5
+    },
+    {
+        "ranknum": 8,
+        "baseProduct": "Green Crack",
+        "bestCombination": [
+            "Gasoline",
+            "Cuke",
+            "Mega Bean",
+            "Viagra",
+            "Mouth Wash"
+        ],
+        "maxNetProfit": 105,
+        "permutationLength": 5
+    },
+    {
+        "ranknum": 8,
+        "baseProduct": "Grandaddy Purple",
+        "bestCombination": [
+            "Cuke",
+            "Gasoline",
+            "Cuke",
+            "Viagra",
+            "Mega Bean"
+        ],
+        "maxNetProfit": 103,
+        "permutationLength": 5
+    },
+    {
+        "ranknum": 8,
+        "baseProduct": "Meth",
+        "bestCombination": [
+            "Cuke",
+            "Gasoline",
+            "Cuke",
+            "Viagra",
+            "Mega Bean"
+        ],
+        "maxNetProfit": 208,
+        "permutationLength": 5
+    },
+    {
+        "ranknum": 8,
+        "baseProduct": "Cocaine",
+        "bestCombination": [
+            "Cuke",
+            "Gasoline",
+            "Cuke",
+            "Viagra",
+            "Mega Bean"
+        ],
+        "maxNetProfit": 469,
+        "permutationLength": 5
+    },
+    {
+        "ranknum": 9,
+        "baseProduct": "OG Kush",
+        "bestCombination": [
+            "Energy Drink",
+            "Cuke",
+            "Mega Bean",
+            "Viagra",
+            "Mouth Wash"
+        ],
+        "maxNetProfit": 107,
+        "permutationLength": 5
+    },
+    {
+        "ranknum": 9,
+        "baseProduct": "Sour Diesel",
+        "bestCombination": [
+            "Cuke",
+            "Gasoline",
+            "Cuke",
+            "Viagra",
+            "Mega Bean"
+        ],
+        "maxNetProfit": 99,
+        "permutationLength": 5
+    },
+    {
+        "ranknum": 9,
+        "baseProduct": "Green Crack",
+        "bestCombination": [
+            "Gasoline",
+            "Cuke",
+            "Mega Bean",
+            "Viagra",
+            "Mouth Wash"
+        ],
+        "maxNetProfit": 105,
+        "permutationLength": 5
+    },
+    {
+        "ranknum": 9,
+        "baseProduct": "Grandaddy Purple",
+        "bestCombination": [
+            "Cuke",
+            "Gasoline",
+            "Cuke",
+            "Viagra",
+            "Mega Bean"
+        ],
+        "maxNetProfit": 103,
+        "permutationLength": 5
+    },
+    {
+        "ranknum": 9,
+        "baseProduct": "Meth",
+        "bestCombination": [
+            "Cuke",
+            "Gasoline",
+            "Cuke",
+            "Viagra",
+            "Mega Bean"
+        ],
+        "maxNetProfit": 208,
+        "permutationLength": 5
+    },
+    {
+        "ranknum": 9,
+        "baseProduct": "Cocaine",
+        "bestCombination": [
+            "Cuke",
+            "Mega Bean",
+            "Energy Drink",
+            "Chili",
+            "Viagra"
+        ],
+        "maxNetProfit": 472,
+        "permutationLength": 5
+    },
+    {
+        "ranknum": 10,
+        "baseProduct": "OG Kush",
+        "bestCombination": [
+            "Banana",
+            "Gasoline",
+            "Cuke",
+            "Battery",
+            "Banana"
+        ],
+        "maxNetProfit": 108,
+        "permutationLength": 5
+    },
+    {
+        "ranknum": 10,
+        "baseProduct": "Sour Diesel",
+        "bestCombination": [
+            "Cuke",
+            "Gasoline",
+            "Cuke",
+            "Viagra",
+            "Mega Bean"
+        ],
+        "maxNetProfit": 99,
+        "permutationLength": 5
+    },
+    {
+        "ranknum": 10,
+        "baseProduct": "Green Crack",
+        "bestCombination": [
+            "Paracetamol",
+            "Gasoline",
+            "Cuke",
+            "Battery",
+            "Mega Bean"
+        ],
+        "maxNetProfit": 109,
+        "permutationLength": 5
+    },
+    {
+        "ranknum": 10,
+        "baseProduct": "Grandaddy Purple",
+        "bestCombination": [
+            "Cuke",
+            "Gasoline",
+            "Cuke",
+            "Viagra",
+            "Mega Bean"
+        ],
+        "maxNetProfit": 103,
+        "permutationLength": 5
+    },
+    {
+        "ranknum": 10,
+        "baseProduct": "Meth",
+        "bestCombination": [
+            "Paracetamol",
+            "Gasoline",
+            "Cuke",
+            "Battery",
+            "Mega Bean"
+        ],
+        "maxNetProfit": 210,
+        "permutationLength": 5
+    },
+    {
+        "ranknum": 10,
+        "baseProduct": "Cocaine",
+        "bestCombination": [
+            "Paracetamol",
+            "Gasoline",
+            "Cuke",
+            "Battery",
+            "Mega Bean"
+        ],
+        "maxNetProfit": 479,
+        "permutationLength": 5
+    },
+    {
+        "ranknum": 11,
+        "baseProduct": "OG Kush",
+        "bestCombination": [
+            "Banana",
+            "Gasoline",
+            "Cuke",
+            "Battery",
+            "Banana"
+        ],
+        "maxNetProfit": 108,
+        "permutationLength": 5
+    },
+    {
+        "ranknum": 11,
+        "baseProduct": "Sour Diesel",
+        "bestCombination": [
+            "Cuke",
+            "Mega Bean",
+            "Viagra",
+            "Iodine",
+            "Motor Oil"
+        ],
+        "maxNetProfit": 105,
+        "permutationLength": 5
+    },
+    {
+        "ranknum": 11,
+        "baseProduct": "Green Crack",
+        "bestCombination": [
+            "Paracetamol",
+            "Gasoline",
+            "Cuke",
+            "Battery",
+            "Mega Bean"
+        ],
+        "maxNetProfit": 109,
+        "permutationLength": 5
+    },
+    {
+        "ranknum": 11,
+        "baseProduct": "Grandaddy Purple",
+        "bestCombination": [
+            "Cuke",
+            "Gasoline",
+            "Cuke",
+            "Viagra",
+            "Mega Bean"
+        ],
+        "maxNetProfit": 103,
+        "permutationLength": 5
+    },
+    {
+        "ranknum": 11,
+        "baseProduct": "Meth",
+        "bestCombination": [
+            "Paracetamol",
+            "Gasoline",
+            "Cuke",
+            "Battery",
+            "Mega Bean"
+        ],
+        "maxNetProfit": 210,
+        "permutationLength": 5
+    },
+    {
+        "ranknum": 11,
+        "baseProduct": "Cocaine",
+        "bestCombination": [
+            "Paracetamol",
+            "Gasoline",
+            "Cuke",
+            "Battery",
+            "Mega Bean"
+        ],
+        "maxNetProfit": 479,
+        "permutationLength": 5
+    },
+    {
+        "ranknum": 12,
+        "baseProduct": "OG Kush",
+        "bestCombination": [
+            "Banana",
+            "Gasoline",
+            "Cuke",
+            "Battery",
+            "Banana"
+        ],
+        "maxNetProfit": 108,
+        "permutationLength": 5
+    },
+    {
+        "ranknum": 12,
+        "baseProduct": "Sour Diesel",
+        "bestCombination": [
+            "Cuke",
+            "Mega Bean",
+            "Viagra",
+            "Iodine",
+            "Motor Oil"
+        ],
+        "maxNetProfit": 105,
+        "permutationLength": 5
+    },
+    {
+        "ranknum": 12,
+        "baseProduct": "Green Crack",
+        "bestCombination": [
+            "Paracetamol",
+            "Gasoline",
+            "Cuke",
+            "Battery",
+            "Mega Bean"
+        ],
+        "maxNetProfit": 109,
+        "permutationLength": 5
+    },
+    {
+        "ranknum": 12,
+        "baseProduct": "Grandaddy Purple",
+        "bestCombination": [
+            "Cuke",
+            "Gasoline",
+            "Cuke",
+            "Viagra",
+            "Mega Bean"
+        ],
+        "maxNetProfit": 103,
+        "permutationLength": 5
+    },
+    {
+        "ranknum": 12,
+        "baseProduct": "Meth",
+        "bestCombination": [
+            "Paracetamol",
+            "Gasoline",
+            "Cuke",
+            "Battery",
+            "Mega Bean"
+        ],
+        "maxNetProfit": 210,
+        "permutationLength": 5
+    },
+    {
+        "ranknum": 12,
+        "baseProduct": "Cocaine",
+        "bestCombination": [
+            "Paracetamol",
+            "Gasoline",
+            "Cuke",
+            "Battery",
+            "Mega Bean"
+        ],
+        "maxNetProfit": 479,
+        "permutationLength": 5
+    },
+    {
+        "ranknum": 13,
+        "baseProduct": "OG Kush",
+        "bestCombination": [
+            "Banana",
+            "Gasoline",
+            "Cuke",
+            "Battery",
+            "Banana"
+        ],
+        "maxNetProfit": 108,
+        "permutationLength": 5
+    },
+    {
+        "ranknum": 13,
+        "baseProduct": "Sour Diesel",
+        "bestCombination": [
+            "Cuke",
+            "Mega Bean",
+            "Viagra",
+            "Iodine",
+            "Motor Oil"
+        ],
+        "maxNetProfit": 105,
+        "permutationLength": 5
+    },
+    {
+        "ranknum": 13,
+        "baseProduct": "Green Crack",
+        "bestCombination": [
+            "Paracetamol",
+            "Gasoline",
+            "Cuke",
+            "Battery",
+            "Mega Bean"
+        ],
+        "maxNetProfit": 109,
+        "permutationLength": 5
+    },
+    {
+        "ranknum": 13,
+        "baseProduct": "Grandaddy Purple",
+        "bestCombination": [
+            "Banana",
+            "Cuke",
+            "Horse Semen",
+            "Mega Bean",
+            "Viagra"
+        ],
+        "maxNetProfit": 104,
+        "permutationLength": 5
+    },
+    {
+        "ranknum": 13,
+        "baseProduct": "Meth",
+        "bestCombination": [
+            "Banana",
+            "Cuke",
+            "Horse Semen",
+            "Mega Bean",
+            "Viagra"
+        ],
+        "maxNetProfit": 214,
+        "permutationLength": 5
+    },
+    {
+        "ranknum": 13,
+        "baseProduct": "Cocaine",
+        "bestCombination": [
+            "Banana",
+            "Cuke",
+            "Horse Semen",
+            "Mega Bean",
+            "Viagra"
+        ],
+        "maxNetProfit": 486,
+        "permutationLength": 5
+    },
+    {
+        "ranknum": 1,
+        "baseProduct": "OG Kush",
+        "bestCombination": [
+            "Paracetamol",
+            "Donut",
+            "Cuke",
+            "Paracetamol",
+            "Cuke",
+            "Banana"
+        ],
+        "maxNetProfit": 105,
+        "permutationLength": 6
+    },
+    {
+        "ranknum": 1,
+        "baseProduct": "Sour Diesel",
+        "bestCombination": [
+            "Paracetamol",
+            "Cuke",
+            "Paracetamol",
+            "Cuke",
+            "Banana",
+            "Donut"
+        ],
+        "maxNetProfit": 91,
+        "permutationLength": 6
+    },
+    {
+        "ranknum": 1,
+        "baseProduct": "Green Crack",
+        "bestCombination": [
+            "Paracetamol",
+            "Banana",
+            "Donut",
+            "Cuke",
+            "Paracetamol",
+            "Cuke"
+        ],
+        "maxNetProfit": 87,
+        "permutationLength": 6
+    },
+    {
+        "ranknum": 1,
+        "baseProduct": "Grandaddy Purple",
+        "bestCombination": [
+            "Paracetamol",
+            "Cuke",
+            "Paracetamol",
+            "Cuke",
+            "Banana",
+            "Donut"
+        ],
+        "maxNetProfit": 95,
+        "permutationLength": 6
+    },
+    {
+        "ranknum": 1,
+        "baseProduct": "Meth",
+        "bestCombination": [
+            "Paracetamol",
+            "Cuke",
+            "Paracetamol",
+            "Cuke",
+            "Banana",
+            "Donut"
+        ],
+        "maxNetProfit": 187,
+        "permutationLength": 6
+    },
+    {
+        "ranknum": 1,
+        "baseProduct": "Cocaine",
+        "bestCombination": [
+            "Paracetamol",
+            "Cuke",
+            "Paracetamol",
+            "Cuke",
+            "Banana",
+            "Donut"
+        ],
+        "maxNetProfit": 417,
+        "permutationLength": 6
+    },
+    {
+        "ranknum": 2,
+        "baseProduct": "OG Kush",
+        "bestCombination": [
+            "Viagra",
+            "Paracetamol",
+            "Cuke",
+            "Paracetamol",
+            "Cuke",
+            "Banana"
+        ],
+        "maxNetProfit": 110,
+        "permutationLength": 6
+    },
+    {
+        "ranknum": 2,
+        "baseProduct": "Sour Diesel",
+        "bestCombination": [
+            "Viagra",
+            "Paracetamol",
+            "Cuke",
+            "Paracetamol",
+            "Cuke",
+            "Banana"
+        ],
+        "maxNetProfit": 96,
+        "permutationLength": 6
+    },
+    {
+        "ranknum": 2,
+        "baseProduct": "Green Crack",
+        "bestCombination": [
+            "Viagra",
+            "Paracetamol",
+            "Banana",
+            "Donut",
+            "Cuke",
+            "Paracetamol"
+        ],
+        "maxNetProfit": 93,
+        "permutationLength": 6
+    },
+    {
+        "ranknum": 2,
+        "baseProduct": "Grandaddy Purple",
+        "bestCombination": [
+            "Viagra",
+            "Cuke",
+            "Paracetamol",
+            "Cuke",
+            "Banana",
+            "Donut"
+        ],
+        "maxNetProfit": 100,
+        "permutationLength": 6
+    },
+    {
+        "ranknum": 2,
+        "baseProduct": "Meth",
+        "bestCombination": [
+            "Viagra",
+            "Paracetamol",
+            "Cuke",
+            "Paracetamol",
+            "Cuke",
+            "Banana"
+        ],
+        "maxNetProfit": 198,
+        "permutationLength": 6
+    },
+    {
+        "ranknum": 2,
+        "baseProduct": "Cocaine",
+        "bestCombination": [
+            "Viagra",
+            "Paracetamol",
+            "Cuke",
+            "Paracetamol",
+            "Cuke",
+            "Banana"
+        ],
+        "maxNetProfit": 443,
+        "permutationLength": 6
+    },
+    {
+        "ranknum": 3,
+        "baseProduct": "OG Kush",
+        "bestCombination": [
+            "Viagra",
+            "Paracetamol",
+            "Cuke",
+            "Paracetamol",
+            "Cuke",
+            "Banana"
+        ],
+        "maxNetProfit": 110,
+        "permutationLength": 6
+    },
+    {
+        "ranknum": 3,
+        "baseProduct": "Sour Diesel",
+        "bestCombination": [
+            "Viagra",
+            "Paracetamol",
+            "Cuke",
+            "Paracetamol",
+            "Cuke",
+            "Banana"
+        ],
+        "maxNetProfit": 96,
+        "permutationLength": 6
+    },
+    {
+        "ranknum": 3,
+        "baseProduct": "Green Crack",
+        "bestCombination": [
+            "Viagra",
+            "Paracetamol",
+            "Cuke",
+            "Banana",
+            "Mouth Wash",
+            "Donut"
+        ],
+        "maxNetProfit": 99,
+        "permutationLength": 6
+    },
+    {
+        "ranknum": 3,
+        "baseProduct": "Grandaddy Purple",
+        "bestCombination": [
+            "Viagra",
+            "Cuke",
+            "Paracetamol",
+            "Cuke",
+            "Banana",
+            "Donut"
+        ],
+        "maxNetProfit": 100,
+        "permutationLength": 6
+    },
+    {
+        "ranknum": 3,
+        "baseProduct": "Meth",
+        "bestCombination": [
+            "Viagra",
+            "Donut",
+            "Mouth Wash",
+            "Donut",
+            "Cuke",
+            "Banana"
+        ],
+        "maxNetProfit": 199,
+        "permutationLength": 6
+    },
+    {
+        "ranknum": 3,
+        "baseProduct": "Cocaine",
+        "bestCombination": [
+            "Viagra",
+            "Donut",
+            "Mouth Wash",
+            "Donut",
+            "Cuke",
+            "Banana"
+        ],
+        "maxNetProfit": 447,
+        "permutationLength": 6
+    },
+    {
+        "ranknum": 4,
+        "baseProduct": "OG Kush",
+        "bestCombination": [
+            "Viagra",
+            "Paracetamol",
+            "Cuke",
+            "Paracetamol",
+            "Cuke",
+            "Banana"
+        ],
+        "maxNetProfit": 110,
+        "permutationLength": 6
+    },
+    {
+        "ranknum": 4,
+        "baseProduct": "Sour Diesel",
+        "bestCombination": [
+            "Viagra",
+            "Paracetamol",
+            "Cuke",
+            "Paracetamol",
+            "Cuke",
+            "Banana"
+        ],
+        "maxNetProfit": 96,
+        "permutationLength": 6
+    },
+    {
+        "ranknum": 4,
+        "baseProduct": "Green Crack",
+        "bestCombination": [
+            "Viagra",
+            "Paracetamol",
+            "Cuke",
+            "Banana",
+            "Mouth Wash",
+            "Donut"
+        ],
+        "maxNetProfit": 99,
+        "permutationLength": 6
+    },
+    {
+        "ranknum": 4,
+        "baseProduct": "Grandaddy Purple",
+        "bestCombination": [
+            "Viagra",
+            "Cuke",
+            "Paracetamol",
+            "Cuke",
+            "Banana",
+            "Donut"
+        ],
+        "maxNetProfit": 100,
+        "permutationLength": 6
+    },
+    {
+        "ranknum": 4,
+        "baseProduct": "Meth",
+        "bestCombination": [
+            "Viagra",
+            "Donut",
+            "Mouth Wash",
+            "Donut",
+            "Cuke",
+            "Banana"
+        ],
+        "maxNetProfit": 199,
+        "permutationLength": 6
+    },
+    {
+        "ranknum": 4,
+        "baseProduct": "Cocaine",
+        "bestCombination": [
+            "Viagra",
+            "Donut",
+            "Mouth Wash",
+            "Donut",
+            "Cuke",
+            "Banana"
+        ],
+        "maxNetProfit": 447,
+        "permutationLength": 6
+    },
+    {
+        "ranknum": 5,
+        "baseProduct": "OG Kush",
+        "bestCombination": [
+            "Cuke",
+            "Gasoline",
+            "Viagra",
+            "Banana",
+            "Cuke",
+            "Banana"
+        ],
+        "maxNetProfit": 112,
+        "permutationLength": 6
+    },
+    {
+        "ranknum": 5,
+        "baseProduct": "Sour Diesel",
+        "bestCombination": [
+            "Banana",
+            "Gasoline",
+            "Paracetamol",
+            "Cuke",
+            "Banana",
+            "Mouth Wash"
+        ],
+        "maxNetProfit": 105,
+        "permutationLength": 6
+    },
+    {
+        "ranknum": 5,
+        "baseProduct": "Green Crack",
+        "bestCombination": [
+            "Gasoline",
+            "Cuke",
+            "Gasoline",
+            "Cuke",
+            "Viagra",
+            "Mouth Wash"
+        ],
+        "maxNetProfit": 113,
+        "permutationLength": 6
+    },
+    {
+        "ranknum": 5,
+        "baseProduct": "Grandaddy Purple",
+        "bestCombination": [
+            "Banana",
+            "Gasoline",
+            "Paracetamol",
+            "Cuke",
+            "Banana",
+            "Mouth Wash"
+        ],
+        "maxNetProfit": 109,
+        "permutationLength": 6
+    },
+    {
+        "ranknum": 5,
+        "baseProduct": "Meth",
+        "bestCombination": [
+            "Banana",
+            "Gasoline",
+            "Paracetamol",
+            "Cuke",
+            "Banana",
+            "Mouth Wash"
+        ],
+        "maxNetProfit": 217,
+        "permutationLength": 6
+    },
+    {
+        "ranknum": 5,
+        "baseProduct": "Cocaine",
+        "bestCombination": [
+            "Banana",
+            "Gasoline",
+            "Paracetamol",
+            "Cuke",
+            "Banana",
+            "Mouth Wash"
+        ],
+        "maxNetProfit": 486,
+        "permutationLength": 6
+    },
+    {
+        "ranknum": 6,
+        "baseProduct": "OG Kush",
+        "bestCombination": [
+            "Cuke",
+            "Gasoline",
+            "Viagra",
+            "Banana",
+            "Cuke",
+            "Banana"
+        ],
+        "maxNetProfit": 112,
+        "permutationLength": 6
+    },
+    {
+        "ranknum": 6,
+        "baseProduct": "Sour Diesel",
+        "bestCombination": [
+            "Banana",
+            "Gasoline",
+            "Paracetamol",
+            "Cuke",
+            "Banana",
+            "Mouth Wash"
+        ],
+        "maxNetProfit": 105,
+        "permutationLength": 6
+    },
+    {
+        "ranknum": 6,
+        "baseProduct": "Green Crack",
+        "bestCombination": [
+            "Gasoline",
+            "Cuke",
+            "Gasoline",
+            "Cuke",
+            "Viagra",
+            "Mouth Wash"
+        ],
+        "maxNetProfit": 113,
+        "permutationLength": 6
+    },
+    {
+        "ranknum": 6,
+        "baseProduct": "Grandaddy Purple",
+        "bestCombination": [
+            "Banana",
+            "Gasoline",
+            "Paracetamol",
+            "Cuke",
+            "Banana",
+            "Mouth Wash"
+        ],
+        "maxNetProfit": 109,
+        "permutationLength": 6
+    },
+    {
+        "ranknum": 6,
+        "baseProduct": "Meth",
+        "bestCombination": [
+            "Banana",
+            "Gasoline",
+            "Paracetamol",
+            "Cuke",
+            "Banana",
+            "Mouth Wash"
+        ],
+        "maxNetProfit": 217,
+        "permutationLength": 6
+    },
+    {
+        "ranknum": 6,
+        "baseProduct": "Cocaine",
+        "bestCombination": [
+            "Banana",
+            "Gasoline",
+            "Paracetamol",
+            "Energy Drink",
+            "Cuke",
+            "Banana"
+        ],
+        "maxNetProfit": 487,
+        "permutationLength": 6
+    },
+    {
+        "ranknum": 7,
+        "baseProduct": "OG Kush",
+        "bestCombination": [
+            "Cuke",
+            "Gasoline",
+            "Viagra",
+            "Banana",
+            "Cuke",
+            "Banana"
+        ],
+        "maxNetProfit": 112,
+        "permutationLength": 6
+    },
+    {
+        "ranknum": 7,
+        "baseProduct": "Sour Diesel",
+        "bestCombination": [
+            "Banana",
+            "Gasoline",
+            "Paracetamol",
+            "Cuke",
+            "Banana",
+            "Mouth Wash"
+        ],
+        "maxNetProfit": 105,
+        "permutationLength": 6
+    },
+    {
+        "ranknum": 7,
+        "baseProduct": "Green Crack",
+        "bestCombination": [
+            "Gasoline",
+            "Cuke",
+            "Gasoline",
+            "Cuke",
+            "Viagra",
+            "Mouth Wash"
+        ],
+        "maxNetProfit": 113,
+        "permutationLength": 6
+    },
+    {
+        "ranknum": 7,
+        "baseProduct": "Grandaddy Purple",
+        "bestCombination": [
+            "Banana",
+            "Gasoline",
+            "Paracetamol",
+            "Cuke",
+            "Banana",
+            "Mouth Wash"
+        ],
+        "maxNetProfit": 109,
+        "permutationLength": 6
+    },
+    {
+        "ranknum": 7,
+        "baseProduct": "Meth",
+        "bestCombination": [
+            "Banana",
+            "Gasoline",
+            "Paracetamol",
+            "Cuke",
+            "Banana",
+            "Motor Oil"
+        ],
+        "maxNetProfit": 218,
+        "permutationLength": 6
+    },
+    {
+        "ranknum": 7,
+        "baseProduct": "Cocaine",
+        "bestCombination": [
+            "Banana",
+            "Gasoline",
+            "Paracetamol",
+            "Cuke",
+            "Banana",
+            "Motor Oil"
+        ],
+        "maxNetProfit": 490,
+        "permutationLength": 6
+    },
+    {
+        "ranknum": 8,
+        "baseProduct": "OG Kush",
+        "bestCombination": [
+            "Cuke",
+            "Gasoline",
+            "Cuke",
+            "Mega Bean",
+            "Viagra",
+            "Mouth Wash"
+        ],
+        "maxNetProfit": 120,
+        "permutationLength": 6
+    },
+    {
+        "ranknum": 8,
+        "baseProduct": "Sour Diesel",
+        "bestCombination": [
+            "Cuke",
+            "Gasoline",
+            "Cuke",
+            "Mega Bean",
+            "Viagra",
+            "Mouth Wash"
+        ],
+        "maxNetProfit": 108,
+        "permutationLength": 6
+    },
+    {
+        "ranknum": 8,
+        "baseProduct": "Green Crack",
+        "bestCombination": [
+            "Paracetamol",
+            "Mega Bean",
+            "Viagra",
+            "Mouth Wash",
+            "Banana",
+            "Cuke"
+        ],
+        "maxNetProfit": 116,
+        "permutationLength": 6
+    },
+    {
+        "ranknum": 8,
+        "baseProduct": "Grandaddy Purple",
+        "bestCombination": [
+            "Cuke",
+            "Gasoline",
+            "Cuke",
+            "Mega Bean",
+            "Viagra",
+            "Mouth Wash"
+        ],
+        "maxNetProfit": 112,
+        "permutationLength": 6
+    },
+    {
+        "ranknum": 8,
+        "baseProduct": "Meth",
+        "bestCombination": [
+            "Cuke",
+            "Mega Bean",
+            "Paracetamol",
+            "Mega Bean",
+            "Viagra",
+            "Mouth Wash"
+        ],
+        "maxNetProfit": 232,
+        "permutationLength": 6
+    },
+    {
+        "ranknum": 8,
+        "baseProduct": "Cocaine",
+        "bestCombination": [
+            "Cuke",
+            "Mega Bean",
+            "Paracetamol",
+            "Mega Bean",
+            "Viagra",
+            "Mouth Wash"
+        ],
+        "maxNetProfit": 528,
+        "permutationLength": 6
+    },
+    {
+        "ranknum": 9,
+        "baseProduct": "OG Kush",
+        "bestCombination": [
+            "Cuke",
+            "Gasoline",
+            "Cuke",
+            "Mega Bean",
+            "Viagra",
+            "Mouth Wash"
+        ],
+        "maxNetProfit": 120,
+        "permutationLength": 6
+    },
+    {
+        "ranknum": 9,
+        "baseProduct": "Sour Diesel",
+        "bestCombination": [
+            "Cuke",
+            "Gasoline",
+            "Cuke",
+            "Mega Bean",
+            "Viagra",
+            "Mouth Wash"
+        ],
+        "maxNetProfit": 108,
+        "permutationLength": 6
+    },
+    {
+        "ranknum": 9,
+        "baseProduct": "Green Crack",
+        "bestCombination": [
+            "Motor Oil",
+            "Cuke",
+            "Mega Bean",
+            "Paracetamol",
+            "Chili",
+            "Mouth Wash"
+        ],
+        "maxNetProfit": 117,
+        "permutationLength": 6
+    },
+    {
+        "ranknum": 9,
+        "baseProduct": "Grandaddy Purple",
+        "bestCombination": [
+            "Energy Drink",
+            "Cuke",
+            "Mega Bean",
+            "Paracetamol",
+            "Chili",
+            "Mouth Wash"
+        ],
+        "maxNetProfit": 117,
+        "permutationLength": 6
+    },
+    {
+        "ranknum": 9,
+        "baseProduct": "Meth",
+        "bestCombination": [
+            "Cuke",
+            "Mega Bean",
+            "Paracetamol",
+            "Mega Bean",
+            "Viagra",
+            "Mouth Wash"
+        ],
+        "maxNetProfit": 232,
+        "permutationLength": 6
+    },
+    {
+        "ranknum": 9,
+        "baseProduct": "Cocaine",
+        "bestCombination": [
+            "Mega Bean",
+            "Energy Drink",
+            "Chili",
+            "Cuke",
+            "Viagra",
+            "Mega Bean"
+        ],
+        "maxNetProfit": 531,
+        "permutationLength": 6
+    },
+    {
+        "ranknum": 10,
+        "baseProduct": "OG Kush",
+        "bestCombination": [
+            "Cuke",
+            "Gasoline",
+            "Cuke",
+            "Mega Bean",
+            "Viagra",
+            "Mouth Wash"
+        ],
+        "maxNetProfit": 120,
+        "permutationLength": 6
+    },
+    {
+        "ranknum": 10,
+        "baseProduct": "Sour Diesel",
+        "bestCombination": [
+            "Cuke",
+            "Paracetamol",
+            "Gasoline",
+            "Cuke",
+            "Battery",
+            "Mega Bean"
+        ],
+        "maxNetProfit": 112,
+        "permutationLength": 6
+    },
+    {
+        "ranknum": 10,
+        "baseProduct": "Green Crack",
+        "bestCombination": [
+            "Paracetamol",
+            "Mega Bean",
+            "Motor Oil",
+            "Cuke",
+            "Battery",
+            "Mega Bean"
+        ],
+        "maxNetProfit": 120,
+        "permutationLength": 6
+    },
+    {
+        "ranknum": 10,
+        "baseProduct": "Grandaddy Purple",
+        "bestCombination": [
+            "Energy Drink",
+            "Cuke",
+            "Mega Bean",
+            "Paracetamol",
+            "Chili",
+            "Mouth Wash"
+        ],
+        "maxNetProfit": 117,
+        "permutationLength": 6
+    },
+    {
+        "ranknum": 10,
+        "baseProduct": "Meth",
+        "bestCombination": [
+            "Cuke",
+            "Paracetamol",
+            "Gasoline",
+            "Cuke",
+            "Battery",
+            "Mega Bean"
+        ],
+        "maxNetProfit": 242,
+        "permutationLength": 6
+    },
+    {
+        "ranknum": 10,
+        "baseProduct": "Cocaine",
+        "bestCombination": [
+            "Cuke",
+            "Paracetamol",
+            "Gasoline",
+            "Cuke",
+            "Battery",
+            "Mega Bean"
+        ],
+        "maxNetProfit": 549,
+        "permutationLength": 6
+    },
+    {
+        "ranknum": 11,
+        "baseProduct": "OG Kush",
+        "bestCombination": [
+            "Cuke",
+            "Gasoline",
+            "Cuke",
+            "Mega Bean",
+            "Viagra",
+            "Mouth Wash"
+        ],
+        "maxNetProfit": 120,
+        "permutationLength": 6
+    },
+    {
+        "ranknum": 11,
+        "baseProduct": "Sour Diesel",
+        "bestCombination": [
+            "Gasoline",
+            "Cuke",
+            "Mega Bean",
+            "Viagra",
+            "Iodine",
+            "Motor Oil"
+        ],
+        "maxNetProfit": 114,
+        "permutationLength": 6
+    },
+    {
+        "ranknum": 11,
+        "baseProduct": "Green Crack",
+        "bestCombination": [
+            "Paracetamol",
+            "Mega Bean",
+            "Motor Oil",
+            "Cuke",
+            "Battery",
+            "Mega Bean"
+        ],
+        "maxNetProfit": 120,
+        "permutationLength": 6
+    },
+    {
+        "ranknum": 11,
+        "baseProduct": "Grandaddy Purple",
+        "bestCombination": [
+            "Energy Drink",
+            "Cuke",
+            "Mega Bean",
+            "Paracetamol",
+            "Chili",
+            "Mouth Wash"
+        ],
+        "maxNetProfit": 117,
+        "permutationLength": 6
+    },
+    {
+        "ranknum": 11,
+        "baseProduct": "Meth",
+        "bestCombination": [
+            "Cuke",
+            "Paracetamol",
+            "Gasoline",
+            "Cuke",
+            "Battery",
+            "Mega Bean"
+        ],
+        "maxNetProfit": 242,
+        "permutationLength": 6
+    },
+    {
+        "ranknum": 11,
+        "baseProduct": "Cocaine",
+        "bestCombination": [
+            "Cuke",
+            "Paracetamol",
+            "Gasoline",
+            "Cuke",
+            "Battery",
+            "Mega Bean"
+        ],
+        "maxNetProfit": 549,
+        "permutationLength": 6
+    },
+    {
+        "ranknum": 12,
+        "baseProduct": "OG Kush",
+        "bestCombination": [
+            "Cuke",
+            "Gasoline",
+            "Cuke",
+            "Mega Bean",
+            "Viagra",
+            "Mouth Wash"
+        ],
+        "maxNetProfit": 120,
+        "permutationLength": 6
+    },
+    {
+        "ranknum": 12,
+        "baseProduct": "Sour Diesel",
+        "bestCombination": [
+            "Gasoline",
+            "Cuke",
+            "Mega Bean",
+            "Viagra",
+            "Iodine",
+            "Motor Oil"
+        ],
+        "maxNetProfit": 114,
+        "permutationLength": 6
+    },
+    {
+        "ranknum": 12,
+        "baseProduct": "Green Crack",
+        "bestCombination": [
+            "Paracetamol",
+            "Mega Bean",
+            "Motor Oil",
+            "Cuke",
+            "Battery",
+            "Mega Bean"
+        ],
+        "maxNetProfit": 120,
+        "permutationLength": 6
+    },
+    {
+        "ranknum": 12,
+        "baseProduct": "Grandaddy Purple",
+        "bestCombination": [
+            "Energy Drink",
+            "Cuke",
+            "Mega Bean",
+            "Paracetamol",
+            "Chili",
+            "Mouth Wash"
+        ],
+        "maxNetProfit": 117,
+        "permutationLength": 6
+    },
+    {
+        "ranknum": 12,
+        "baseProduct": "Meth",
+        "bestCombination": [
+            "Cuke",
+            "Paracetamol",
+            "Gasoline",
+            "Cuke",
+            "Battery",
+            "Mega Bean"
+        ],
+        "maxNetProfit": 242,
+        "permutationLength": 6
+    },
+    {
+        "ranknum": 12,
+        "baseProduct": "Cocaine",
+        "bestCombination": [
+            "Cuke",
+            "Paracetamol",
+            "Gasoline",
+            "Cuke",
+            "Battery",
+            "Mega Bean"
+        ],
+        "maxNetProfit": 549,
+        "permutationLength": 6
+    },
+    {
+        "ranknum": 13,
+        "baseProduct": "OG Kush",
+        "bestCombination": [
+            "Cuke",
+            "Gasoline",
+            "Cuke",
+            "Mega Bean",
+            "Viagra",
+            "Mouth Wash"
+        ],
+        "maxNetProfit": 120,
+        "permutationLength": 6
+    },
+    {
+        "ranknum": 13,
+        "baseProduct": "Sour Diesel",
+        "bestCombination": [
+            "Banana",
+            "Cuke",
+            "Horse Semen",
+            "Mega Bean",
+            "Iodine",
+            "Motor Oil"
+        ],
+        "maxNetProfit": 117,
+        "permutationLength": 6
+    },
+    {
+        "ranknum": 13,
+        "baseProduct": "Green Crack",
+        "bestCombination": [
+            "Paracetamol",
+            "Mega Bean",
+            "Motor Oil",
+            "Cuke",
+            "Battery",
+            "Mega Bean"
+        ],
+        "maxNetProfit": 120,
+        "permutationLength": 6
+    },
+    {
+        "ranknum": 13,
+        "baseProduct": "Grandaddy Purple",
+        "bestCombination": [
+            "Energy Drink",
+            "Cuke",
+            "Mega Bean",
+            "Paracetamol",
+            "Chili",
+            "Mouth Wash"
+        ],
+        "maxNetProfit": 117,
+        "permutationLength": 6
+    },
+    {
+        "ranknum": 13,
+        "baseProduct": "Meth",
+        "bestCombination": [
+            "Cuke",
+            "Paracetamol",
+            "Gasoline",
+            "Cuke",
+            "Battery",
+            "Mega Bean"
+        ],
+        "maxNetProfit": 242,
+        "permutationLength": 6
+    },
+    {
+        "ranknum": 13,
+        "baseProduct": "Cocaine",
+        "bestCombination": [
+            "Cuke",
+            "Paracetamol",
+            "Gasoline",
+            "Cuke",
+            "Battery",
+            "Mega Bean"
+        ],
+        "maxNetProfit": 549,
+        "permutationLength": 6
+    },
+    {
+        "ranknum": 1,
+        "baseProduct": "OG Kush",
+        "bestCombination": [
+            "Paracetamol",
+            "Banana",
+            "Donut",
+            "Cuke",
+            "Paracetamol",
+            "Cuke",
+            "Banana"
+        ],
+        "maxNetProfit": 110,
+        "permutationLength": 7
+    },
+    {
+        "ranknum": 1,
+        "baseProduct": "Sour Diesel",
+        "bestCombination": [
+            "Paracetamol",
+            "Banana",
+            "Cuke",
+            "Paracetamol",
+            "Cuke",
+            "Banana",
+            "Donut"
+        ],
+        "maxNetProfit": 96,
+        "permutationLength": 7
+    },
+    {
+        "ranknum": 1,
+        "baseProduct": "Green Crack",
+        "bestCombination": [
+            "Paracetamol",
+            "Banana",
+            "Cuke",
+            "Paracetamol",
+            "Banana",
+            "Donut",
+            "Cuke"
+        ],
+        "maxNetProfit": 92,
+        "permutationLength": 7
+    },
+    {
+        "ranknum": 1,
+        "baseProduct": "Grandaddy Purple",
+        "bestCombination": [
+            "Paracetamol",
+            "Banana",
+            "Cuke",
+            "Paracetamol",
+            "Cuke",
+            "Banana",
+            "Donut"
+        ],
+        "maxNetProfit": 101,
+        "permutationLength": 7
+    },
+    {
+        "ranknum": 1,
+        "baseProduct": "Meth",
+        "bestCombination": [
+            "Paracetamol",
+            "Banana",
+            "Cuke",
+            "Paracetamol",
+            "Cuke",
+            "Banana",
+            "Donut"
+        ],
+        "maxNetProfit": 200,
+        "permutationLength": 7
+    },
+    {
+        "ranknum": 1,
+        "baseProduct": "Cocaine",
+        "bestCombination": [
+            "Paracetamol",
+            "Banana",
+            "Cuke",
+            "Paracetamol",
+            "Cuke",
+            "Banana",
+            "Donut"
+        ],
+        "maxNetProfit": 448,
+        "permutationLength": 7
+    },
+    {
+        "ranknum": 2,
+        "baseProduct": "OG Kush",
+        "bestCombination": [
+            "Viagra",
+            "Paracetamol",
+            "Donut",
+            "Cuke",
+            "Paracetamol",
+            "Cuke",
+            "Banana"
+        ],
+        "maxNetProfit": 117,
+        "permutationLength": 7
+    },
+    {
+        "ranknum": 2,
+        "baseProduct": "Sour Diesel",
+        "bestCombination": [
+            "Viagra",
+            "Paracetamol",
+            "Cuke",
+            "Paracetamol",
+            "Cuke",
+            "Banana",
+            "Donut"
+        ],
+        "maxNetProfit": 103,
+        "permutationLength": 7
+    },
+    {
+        "ranknum": 2,
+        "baseProduct": "Green Crack",
+        "bestCombination": [
+            "Viagra",
+            "Paracetamol",
+            "Banana",
+            "Donut",
+            "Cuke",
+            "Paracetamol",
+            "Cuke"
+        ],
+        "maxNetProfit": 99,
+        "permutationLength": 7
+    },
+    {
+        "ranknum": 2,
+        "baseProduct": "Grandaddy Purple",
+        "bestCombination": [
+            "Viagra",
+            "Paracetamol",
+            "Cuke",
+            "Paracetamol",
+            "Cuke",
+            "Banana",
+            "Donut"
+        ],
+        "maxNetProfit": 107,
+        "permutationLength": 7
+    },
+    {
+        "ranknum": 2,
+        "baseProduct": "Meth",
+        "bestCombination": [
+            "Viagra",
+            "Paracetamol",
+            "Cuke",
+            "Paracetamol",
+            "Cuke",
+            "Banana",
+            "Donut"
+        ],
+        "maxNetProfit": 215,
+        "permutationLength": 7
+    },
+    {
+        "ranknum": 2,
+        "baseProduct": "Cocaine",
+        "bestCombination": [
+            "Viagra",
+            "Paracetamol",
+            "Cuke",
+            "Paracetamol",
+            "Cuke",
+            "Banana",
+            "Donut"
+        ],
+        "maxNetProfit": 482,
+        "permutationLength": 7
+    },
+    {
+        "ranknum": 3,
+        "baseProduct": "OG Kush",
+        "bestCombination": [
+            "Viagra",
+            "Paracetamol",
+            "Donut",
+            "Cuke",
+            "Paracetamol",
+            "Cuke",
+            "Banana"
+        ],
+        "maxNetProfit": 117,
+        "permutationLength": 7
+    },
+    {
+        "ranknum": 3,
+        "baseProduct": "Sour Diesel",
+        "bestCombination": [
+            "Viagra",
+            "Paracetamol",
+            "Cuke",
+            "Paracetamol",
+            "Cuke",
+            "Banana",
+            "Donut"
+        ],
+        "maxNetProfit": 103,
+        "permutationLength": 7
+    },
+    {
+        "ranknum": 3,
+        "baseProduct": "Green Crack",
+        "bestCombination": [
+            "Viagra",
+            "Paracetamol",
+            "Cuke",
+            "Banana",
+            "Donut",
+            "Donut",
+            "Mouth Wash"
+        ],
+        "maxNetProfit": 105,
+        "permutationLength": 7
+    },
+    {
+        "ranknum": 3,
+        "baseProduct": "Grandaddy Purple",
+        "bestCombination": [
+            "Viagra",
+            "Paracetamol",
+            "Cuke",
+            "Paracetamol",
+            "Cuke",
+            "Banana",
+            "Donut"
+        ],
+        "maxNetProfit": 107,
+        "permutationLength": 7
+    },
+    {
+        "ranknum": 3,
+        "baseProduct": "Meth",
+        "bestCombination": [
+            "Viagra",
+            "Paracetamol",
+            "Cuke",
+            "Paracetamol",
+            "Cuke",
+            "Banana",
+            "Donut"
+        ],
+        "maxNetProfit": 215,
+        "permutationLength": 7
+    },
+    {
+        "ranknum": 3,
+        "baseProduct": "Cocaine",
+        "bestCombination": [
+            "Viagra",
+            "Donut",
+            "Donut",
+            "Mouth Wash",
+            "Donut",
+            "Cuke",
+            "Banana"
+        ],
+        "maxNetProfit": 483,
+        "permutationLength": 7
+    },
+    {
+        "ranknum": 4,
+        "baseProduct": "OG Kush",
+        "bestCombination": [
+            "Viagra",
+            "Paracetamol",
+            "Donut",
+            "Cuke",
+            "Paracetamol",
+            "Cuke",
+            "Banana"
+        ],
+        "maxNetProfit": 117,
+        "permutationLength": 7
+    },
+    {
+        "ranknum": 4,
+        "baseProduct": "Sour Diesel",
+        "bestCombination": [
+            "Viagra",
+            "Paracetamol",
+            "Cuke",
+            "Paracetamol",
+            "Cuke",
+            "Banana",
+            "Donut"
+        ],
+        "maxNetProfit": 103,
+        "permutationLength": 7
+    },
+    {
+        "ranknum": 4,
+        "baseProduct": "Green Crack",
+        "bestCombination": [
+            "Viagra",
+            "Paracetamol",
+            "Cuke",
+            "Banana",
+            "Donut",
+            "Donut",
+            "Mouth Wash"
+        ],
+        "maxNetProfit": 105,
+        "permutationLength": 7
+    },
+    {
+        "ranknum": 4,
+        "baseProduct": "Grandaddy Purple",
+        "bestCombination": [
+            "Viagra",
+            "Paracetamol",
+            "Cuke",
+            "Paracetamol",
+            "Cuke",
+            "Banana",
+            "Donut"
+        ],
+        "maxNetProfit": 107,
+        "permutationLength": 7
+    },
+    {
+        "ranknum": 4,
+        "baseProduct": "Meth",
+        "bestCombination": [
+            "Viagra",
+            "Paracetamol",
+            "Cuke",
+            "Paracetamol",
+            "Cuke",
+            "Banana",
+            "Donut"
+        ],
+        "maxNetProfit": 215,
+        "permutationLength": 7
+    },
+    {
+        "ranknum": 4,
+        "baseProduct": "Cocaine",
+        "bestCombination": [
+            "Viagra",
+            "Donut",
+            "Donut",
+            "Mouth Wash",
+            "Donut",
+            "Cuke",
+            "Banana"
+        ],
+        "maxNetProfit": 483,
+        "permutationLength": 7
+    },
+    {
+        "ranknum": 5,
+        "baseProduct": "OG Kush",
+        "bestCombination": [
+            "Gasoline",
+            "Cuke",
+            "Gasoline",
+            "Viagra",
+            "Banana",
+            "Cuke",
+            "Banana"
+        ],
+        "maxNetProfit": 120,
+        "permutationLength": 7
+    },
+    {
+        "ranknum": 5,
+        "baseProduct": "Sour Diesel",
+        "bestCombination": [
+            "Cuke",
+            "Gasoline",
+            "Cuke",
+            "Gasoline",
+            "Cuke",
+            "Viagra",
+            "Mouth Wash"
+        ],
+        "maxNetProfit": 116,
+        "permutationLength": 7
+    },
+    {
+        "ranknum": 5,
+        "baseProduct": "Green Crack",
+        "bestCombination": [
+            "Gasoline",
+            "Cuke",
+            "Paracetamol",
+            "Gasoline",
+            "Banana",
+            "Cuke",
+            "Banana"
+        ],
+        "maxNetProfit": 127,
+        "permutationLength": 7
+    },
+    {
+        "ranknum": 5,
+        "baseProduct": "Grandaddy Purple",
+        "bestCombination": [
+            "Cuke",
+            "Gasoline",
+            "Cuke",
+            "Gasoline",
+            "Cuke",
+            "Viagra",
+            "Mouth Wash"
+        ],
+        "maxNetProfit": 120,
+        "permutationLength": 7
+    },
+    {
+        "ranknum": 5,
+        "baseProduct": "Meth",
+        "bestCombination": [
+            "Cuke",
+            "Gasoline",
+            "Cuke",
+            "Gasoline",
+            "Cuke",
+            "Viagra",
+            "Mouth Wash"
+        ],
+        "maxNetProfit": 246,
+        "permutationLength": 7
+    },
+    {
+        "ranknum": 5,
+        "baseProduct": "Cocaine",
+        "bestCombination": [
+            "Cuke",
+            "Gasoline",
+            "Cuke",
+            "Gasoline",
+            "Cuke",
+            "Viagra",
+            "Mouth Wash"
+        ],
+        "maxNetProfit": 555,
+        "permutationLength": 7
+    },
+    {
+        "ranknum": 6,
+        "baseProduct": "OG Kush",
+        "bestCombination": [
+            "Gasoline",
+            "Cuke",
+            "Gasoline",
+            "Viagra",
+            "Banana",
+            "Cuke",
+            "Banana"
+        ],
+        "maxNetProfit": 120,
+        "permutationLength": 7
+    },
+    {
+        "ranknum": 6,
+        "baseProduct": "Sour Diesel",
+        "bestCombination": [
+            "Cuke",
+            "Gasoline",
+            "Cuke",
+            "Gasoline",
+            "Cuke",
+            "Viagra",
+            "Mouth Wash"
+        ],
+        "maxNetProfit": 116,
+        "permutationLength": 7
+    },
+    {
+        "ranknum": 6,
+        "baseProduct": "Green Crack",
+        "bestCombination": [
+            "Gasoline",
+            "Cuke",
+            "Paracetamol",
+            "Gasoline",
+            "Banana",
+            "Cuke",
+            "Banana"
+        ],
+        "maxNetProfit": 127,
+        "permutationLength": 7
+    },
+    {
+        "ranknum": 6,
+        "baseProduct": "Grandaddy Purple",
+        "bestCombination": [
+            "Cuke",
+            "Gasoline",
+            "Cuke",
+            "Gasoline",
+            "Cuke",
+            "Viagra",
+            "Mouth Wash"
+        ],
+        "maxNetProfit": 120,
+        "permutationLength": 7
+    },
+    {
+        "ranknum": 6,
+        "baseProduct": "Meth",
+        "bestCombination": [
+            "Cuke",
+            "Gasoline",
+            "Cuke",
+            "Gasoline",
+            "Cuke",
+            "Viagra",
+            "Mouth Wash"
+        ],
+        "maxNetProfit": 246,
+        "permutationLength": 7
+    },
+    {
+        "ranknum": 6,
+        "baseProduct": "Cocaine",
+        "bestCombination": [
+            "Cuke",
+            "Gasoline",
+            "Cuke",
+            "Gasoline",
+            "Cuke",
+            "Viagra",
+            "Mouth Wash"
+        ],
+        "maxNetProfit": 555,
+        "permutationLength": 7
+    },
+    {
+        "ranknum": 7,
+        "baseProduct": "OG Kush",
+        "bestCombination": [
+            "Gasoline",
+            "Cuke",
+            "Gasoline",
+            "Viagra",
+            "Banana",
+            "Cuke",
+            "Banana"
+        ],
+        "maxNetProfit": 120,
+        "permutationLength": 7
+    },
+    {
+        "ranknum": 7,
+        "baseProduct": "Sour Diesel",
+        "bestCombination": [
+            "Cuke",
+            "Gasoline",
+            "Cuke",
+            "Gasoline",
+            "Cuke",
+            "Viagra",
+            "Mouth Wash"
+        ],
+        "maxNetProfit": 116,
+        "permutationLength": 7
+    },
+    {
+        "ranknum": 7,
+        "baseProduct": "Green Crack",
+        "bestCombination": [
+            "Gasoline",
+            "Cuke",
+            "Paracetamol",
+            "Gasoline",
+            "Banana",
+            "Cuke",
+            "Banana"
+        ],
+        "maxNetProfit": 127,
+        "permutationLength": 7
+    },
+    {
+        "ranknum": 7,
+        "baseProduct": "Grandaddy Purple",
+        "bestCombination": [
+            "Cuke",
+            "Gasoline",
+            "Cuke",
+            "Gasoline",
+            "Cuke",
+            "Viagra",
+            "Mouth Wash"
+        ],
+        "maxNetProfit": 120,
+        "permutationLength": 7
+    },
+    {
+        "ranknum": 7,
+        "baseProduct": "Meth",
+        "bestCombination": [
+            "Cuke",
+            "Gasoline",
+            "Cuke",
+            "Gasoline",
+            "Cuke",
+            "Viagra",
+            "Mouth Wash"
+        ],
+        "maxNetProfit": 246,
+        "permutationLength": 7
+    },
+    {
+        "ranknum": 7,
+        "baseProduct": "Cocaine",
+        "bestCombination": [
+            "Cuke",
+            "Gasoline",
+            "Cuke",
+            "Gasoline",
+            "Cuke",
+            "Viagra",
+            "Mouth Wash"
+        ],
+        "maxNetProfit": 555,
+        "permutationLength": 7
+    },
+    {
+        "ranknum": 8,
+        "baseProduct": "OG Kush",
+        "bestCombination": [
+            "Mega Bean",
+            "Banana",
+            "Cuke",
+            "Gasoline",
+            "Cuke",
+            "Viagra",
+            "Mouth Wash"
+        ],
+        "maxNetProfit": 128,
+        "permutationLength": 7
+    },
+    {
+        "ranknum": 8,
+        "baseProduct": "Sour Diesel",
+        "bestCombination": [
+            "Paracetamol",
+            "Cuke",
+            "Gasoline",
+            "Cuke",
+            "Mega Bean",
+            "Viagra",
+            "Mouth Wash"
+        ],
+        "maxNetProfit": 121,
+        "permutationLength": 7
+    },
+    {
+        "ranknum": 8,
+        "baseProduct": "Green Crack",
+        "bestCombination": [
+            "Gasoline",
+            "Cuke",
+            "Paracetamol",
+            "Gasoline",
+            "Banana",
+            "Cuke",
+            "Banana"
+        ],
+        "maxNetProfit": 127,
+        "permutationLength": 7
+    },
+    {
+        "ranknum": 8,
+        "baseProduct": "Grandaddy Purple",
+        "bestCombination": [
+            "Paracetamol",
+            "Cuke",
+            "Gasoline",
+            "Cuke",
+            "Mega Bean",
+            "Viagra",
+            "Mouth Wash"
+        ],
+        "maxNetProfit": 126,
+        "permutationLength": 7
+    },
+    {
+        "ranknum": 8,
+        "baseProduct": "Meth",
+        "bestCombination": [
+            "Paracetamol",
+            "Cuke",
+            "Gasoline",
+            "Cuke",
+            "Mega Bean",
+            "Viagra",
+            "Mouth Wash"
+        ],
+        "maxNetProfit": 260,
+        "permutationLength": 7
+    },
+    {
+        "ranknum": 8,
+        "baseProduct": "Cocaine",
+        "bestCombination": [
+            "Paracetamol",
+            "Cuke",
+            "Gasoline",
+            "Cuke",
+            "Mega Bean",
+            "Viagra",
+            "Mouth Wash"
+        ],
+        "maxNetProfit": 588,
+        "permutationLength": 7
+    },
+    {
+        "ranknum": 9,
+        "baseProduct": "OG Kush",
+        "bestCombination": [
+            "Mega Bean",
+            "Banana",
+            "Cuke",
+            "Gasoline",
+            "Cuke",
+            "Viagra",
+            "Mouth Wash"
+        ],
+        "maxNetProfit": 128,
+        "permutationLength": 7
+    },
+    {
+        "ranknum": 9,
+        "baseProduct": "Sour Diesel",
+        "bestCombination": [
+            "Paracetamol",
+            "Cuke",
+            "Gasoline",
+            "Cuke",
+            "Mega Bean",
+            "Viagra",
+            "Mouth Wash"
+        ],
+        "maxNetProfit": 121,
+        "permutationLength": 7
+    },
+    {
+        "ranknum": 9,
+        "baseProduct": "Green Crack",
+        "bestCombination": [
+            "Viagra",
+            "Motor Oil",
+            "Cuke",
+            "Mega Bean",
+            "Paracetamol",
+            "Chili",
+            "Mega Bean"
+        ],
+        "maxNetProfit": 128,
+        "permutationLength": 7
+    },
+    {
+        "ranknum": 9,
+        "baseProduct": "Grandaddy Purple",
+        "bestCombination": [
+            "Energy Drink",
+            "Mega Bean",
+            "Paracetamol",
+            "Viagra",
+            "Chili",
+            "Cuke",
+            "Mega Bean"
+        ],
+        "maxNetProfit": 128,
+        "permutationLength": 7
+    },
+    {
+        "ranknum": 9,
+        "baseProduct": "Meth",
+        "bestCombination": [
+            "Gasoline",
+            "Cuke",
+            "Mega Bean",
+            "Cuke",
+            "Motor Oil",
+            "Paracetamol",
+            "Chili"
+        ],
+        "maxNetProfit": 262,
+        "permutationLength": 7
+    },
+    {
+        "ranknum": 9,
+        "baseProduct": "Cocaine",
+        "bestCombination": [
+            "Gasoline",
+            "Cuke",
+            "Mega Bean",
+            "Cuke",
+            "Motor Oil",
+            "Paracetamol",
+            "Chili"
+        ],
+        "maxNetProfit": 598,
+        "permutationLength": 7
+    },
+    {
+        "ranknum": 10,
+        "baseProduct": "OG Kush",
+        "bestCombination": [
+            "Banana",
+            "Gasoline",
+            "Cuke",
+            "Mega Bean",
+            "Battery",
+            "Banana",
+            "Cuke"
+        ],
+        "maxNetProfit": 136,
+        "permutationLength": 7
+    },
+    {
+        "ranknum": 10,
+        "baseProduct": "Sour Diesel",
+        "bestCombination": [
+            "Banana",
+            "Gasoline",
+            "Cuke",
+            "Mega Bean",
+            "Battery",
+            "Banana",
+            "Cuke"
+        ],
+        "maxNetProfit": 125,
+        "permutationLength": 7
+    },
+    {
+        "ranknum": 10,
+        "baseProduct": "Green Crack",
+        "bestCombination": [
+            "Paracetamol",
+            "Cuke",
+            "Gasoline",
+            "Cuke",
+            "Chili",
+            "Battery",
+            "Mega Bean"
+        ],
+        "maxNetProfit": 132,
+        "permutationLength": 7
+    },
+    {
+        "ranknum": 10,
+        "baseProduct": "Grandaddy Purple",
+        "bestCombination": [
+            "Energy Drink",
+            "Paracetamol",
+            "Gasoline",
+            "Cuke",
+            "Battery",
+            "Mega Bean",
+            "Chili"
+        ],
+        "maxNetProfit": 130,
+        "permutationLength": 7
+    },
+    {
+        "ranknum": 10,
+        "baseProduct": "Meth",
+        "bestCombination": [
+            "Motor Oil",
+            "Cuke",
+            "Paracetamol",
+            "Gasoline",
+            "Cuke",
+            "Battery",
+            "Mega Bean"
+        ],
+        "maxNetProfit": 274,
+        "permutationLength": 7
+    },
+    {
+        "ranknum": 10,
+        "baseProduct": "Cocaine",
+        "bestCombination": [
+            "Motor Oil",
+            "Cuke",
+            "Paracetamol",
+            "Gasoline",
+            "Cuke",
+            "Battery",
+            "Mega Bean"
+        ],
+        "maxNetProfit": 624,
+        "permutationLength": 7
+    },
+    {
+        "ranknum": 11,
+        "baseProduct": "OG Kush",
+        "bestCombination": [
+            "Banana",
+            "Gasoline",
+            "Cuke",
+            "Mega Bean",
+            "Battery",
+            "Banana",
+            "Cuke"
+        ],
+        "maxNetProfit": 136,
+        "permutationLength": 7
+    },
+    {
+        "ranknum": 11,
+        "baseProduct": "Sour Diesel",
+        "bestCombination": [
+            "Cuke",
+            "Gasoline",
+            "Cuke",
+            "Viagra",
+            "Mega Bean",
+            "Iodine",
+            "Motor Oil"
+        ],
+        "maxNetProfit": 128,
+        "permutationLength": 7
+    },
+    {
+        "ranknum": 11,
+        "baseProduct": "Green Crack",
+        "bestCombination": [
+            "Paracetamol",
+            "Cuke",
+            "Gasoline",
+            "Cuke",
+            "Chili",
+            "Battery",
+            "Mega Bean"
+        ],
+        "maxNetProfit": 132,
+        "permutationLength": 7
+    },
+    {
+        "ranknum": 11,
+        "baseProduct": "Grandaddy Purple",
+        "bestCombination": [
+            "Energy Drink",
+            "Paracetamol",
+            "Gasoline",
+            "Cuke",
+            "Battery",
+            "Mega Bean",
+            "Chili"
+        ],
+        "maxNetProfit": 130,
+        "permutationLength": 7
+    },
+    {
+        "ranknum": 11,
+        "baseProduct": "Meth",
+        "bestCombination": [
+            "Motor Oil",
+            "Cuke",
+            "Paracetamol",
+            "Gasoline",
+            "Cuke",
+            "Battery",
+            "Mega Bean"
+        ],
+        "maxNetProfit": 274,
+        "permutationLength": 7
+    },
+    {
+        "ranknum": 11,
+        "baseProduct": "Cocaine",
+        "bestCombination": [
+            "Motor Oil",
+            "Cuke",
+            "Paracetamol",
+            "Gasoline",
+            "Cuke",
+            "Battery",
+            "Mega Bean"
+        ],
+        "maxNetProfit": 624,
+        "permutationLength": 7
+    },
+    {
+        "ranknum": 12,
+        "baseProduct": "OG Kush",
+        "bestCombination": [
+            "Banana",
+            "Gasoline",
+            "Cuke",
+            "Mega Bean",
+            "Battery",
+            "Banana",
+            "Cuke"
+        ],
+        "maxNetProfit": 136,
+        "permutationLength": 7
+    },
+    {
+        "ranknum": 12,
+        "baseProduct": "Sour Diesel",
+        "bestCombination": [
+            "Cuke",
+            "Gasoline",
+            "Cuke",
+            "Viagra",
+            "Mega Bean",
+            "Iodine",
+            "Motor Oil"
+        ],
+        "maxNetProfit": 128,
+        "permutationLength": 7
+    },
+    {
+        "ranknum": 12,
+        "baseProduct": "Green Crack",
+        "bestCombination": [
+            "Paracetamol",
+            "Cuke",
+            "Gasoline",
+            "Cuke",
+            "Chili",
+            "Battery",
+            "Mega Bean"
+        ],
+        "maxNetProfit": 132,
+        "permutationLength": 7
+    },
+    {
+        "ranknum": 12,
+        "baseProduct": "Grandaddy Purple",
+        "bestCombination": [
+            "Energy Drink",
+            "Paracetamol",
+            "Gasoline",
+            "Cuke",
+            "Battery",
+            "Mega Bean",
+            "Chili"
+        ],
+        "maxNetProfit": 130,
+        "permutationLength": 7
+    },
+    {
+        "ranknum": 12,
+        "baseProduct": "Meth",
+        "bestCombination": [
+            "Motor Oil",
+            "Cuke",
+            "Paracetamol",
+            "Gasoline",
+            "Cuke",
+            "Battery",
+            "Mega Bean"
+        ],
+        "maxNetProfit": 274,
+        "permutationLength": 7
+    },
+    {
+        "ranknum": 12,
+        "baseProduct": "Cocaine",
+        "bestCombination": [
+            "Motor Oil",
+            "Cuke",
+            "Paracetamol",
+            "Gasoline",
+            "Cuke",
+            "Battery",
+            "Mega Bean"
+        ],
+        "maxNetProfit": 624,
+        "permutationLength": 7
+    },
+    {
+        "ranknum": 13,
+        "baseProduct": "OG Kush",
+        "bestCombination": [
+            "Banana",
+            "Gasoline",
+            "Cuke",
+            "Mega Bean",
+            "Battery",
+            "Banana",
+            "Cuke"
+        ],
+        "maxNetProfit": 136,
+        "permutationLength": 7
+    },
+    {
+        "ranknum": 13,
+        "baseProduct": "Sour Diesel",
+        "bestCombination": [
+            "Banana",
+            "Cuke",
+            "Horse Semen",
+            "Mega Bean",
+            "Viagra",
+            "Iodine",
+            "Motor Oil"
+        ],
+        "maxNetProfit": 129,
+        "permutationLength": 7
+    },
+    {
+        "ranknum": 13,
+        "baseProduct": "Green Crack",
+        "bestCombination": [
+            "Paracetamol",
+            "Cuke",
+            "Gasoline",
+            "Cuke",
+            "Chili",
+            "Battery",
+            "Mega Bean"
+        ],
+        "maxNetProfit": 132,
+        "permutationLength": 7
+    },
+    {
+        "ranknum": 13,
+        "baseProduct": "Grandaddy Purple",
+        "bestCombination": [
+            "Energy Drink",
+            "Paracetamol",
+            "Gasoline",
+            "Cuke",
+            "Battery",
+            "Mega Bean",
+            "Chili"
+        ],
+        "maxNetProfit": 130,
+        "permutationLength": 7
+    },
+    {
+        "ranknum": 13,
+        "baseProduct": "Meth",
+        "bestCombination": [
+            "Motor Oil",
+            "Cuke",
+            "Paracetamol",
+            "Gasoline",
+            "Cuke",
+            "Battery",
+            "Mega Bean"
+        ],
+        "maxNetProfit": 274,
+        "permutationLength": 7
+    },
+    {
+        "ranknum": 13,
+        "baseProduct": "Cocaine",
+        "bestCombination": [
+            "Motor Oil",
+            "Cuke",
+            "Paracetamol",
+            "Gasoline",
+            "Cuke",
+            "Battery",
+            "Mega Bean"
+        ],
+        "maxNetProfit": 624,
+        "permutationLength": 7
+    },
+    {
+        "ranknum": 1,
+        "baseProduct": "OG Kush",
+        "bestCombination": [
+            "Paracetamol",
+            "Banana",
+            "Donut",
+            "Cuke",
+            "Paracetamol",
+            "Cuke",
+            "Cuke",
+            "Banana"
+        ],
+        "maxNetProfit": 108,
+        "permutationLength": 8
+    },
+    {
+        "ranknum": 1,
+        "baseProduct": "Sour Diesel",
+        "bestCombination": [
+            "Paracetamol",
+            "Banana",
+            "Cuke",
+            "Paracetamol",
+            "Cuke",
+            "Cuke",
+            "Banana",
+            "Donut"
+        ],
+        "maxNetProfit": 94,
+        "permutationLength": 8
+    },
+    {
+        "ranknum": 1,
+        "baseProduct": "Green Crack",
+        "bestCombination": [
+            "Paracetamol",
+            "Banana",
+            "Cuke",
+            "Paracetamol",
+            "Banana",
+            "Donut",
+            "Cuke",
+            "Cuke"
+        ],
+        "maxNetProfit": 90,
+        "permutationLength": 8
+    },
+    {
+        "ranknum": 1,
+        "baseProduct": "Grandaddy Purple",
+        "bestCombination": [
+            "Paracetamol",
+            "Banana",
+            "Cuke",
+            "Paracetamol",
+            "Cuke",
+            "Cuke",
+            "Banana",
+            "Donut"
+        ],
+        "maxNetProfit": 99,
+        "permutationLength": 8
+    },
+    {
+        "ranknum": 1,
+        "baseProduct": "Meth",
+        "bestCombination": [
+            "Cuke",
+            "Paracetamol",
+            "Banana",
+            "Cuke",
+            "Paracetamol",
+            "Banana",
+            "Donut",
+            "Cuke"
+        ],
+        "maxNetProfit": 198,
+        "permutationLength": 8
+    },
+    {
+        "ranknum": 1,
+        "baseProduct": "Cocaine",
+        "bestCombination": [
+            "Cuke",
+            "Paracetamol",
+            "Banana",
+            "Cuke",
+            "Paracetamol",
+            "Banana",
+            "Donut",
+            "Cuke"
+        ],
+        "maxNetProfit": 446,
+        "permutationLength": 8
+    },
+    {
+        "ranknum": 2,
+        "baseProduct": "OG Kush",
+        "bestCombination": [
+            "Viagra",
+            "Paracetamol",
+            "Banana",
+            "Donut",
+            "Cuke",
+            "Paracetamol",
+            "Cuke",
+            "Banana"
+        ],
+        "maxNetProfit": 116,
+        "permutationLength": 8
+    },
+    {
+        "ranknum": 2,
+        "baseProduct": "Sour Diesel",
+        "bestCombination": [
+            "Viagra",
+            "Paracetamol",
+            "Banana",
+            "Cuke",
+            "Paracetamol",
+            "Donut",
+            "Cuke",
+            "Banana"
+        ],
+        "maxNetProfit": 102,
+        "permutationLength": 8
+    },
+    {
+        "ranknum": 2,
+        "baseProduct": "Green Crack",
+        "bestCombination": [
+            "Viagra",
+            "Banana",
+            "Paracetamol",
+            "Cuke",
+            "Paracetamol",
+            "Cuke",
+            "Banana",
+            "Donut"
+        ],
+        "maxNetProfit": 104,
+        "permutationLength": 8
+    },
+    {
+        "ranknum": 2,
+        "baseProduct": "Grandaddy Purple",
+        "bestCombination": [
+            "Viagra",
+            "Paracetamol",
+            "Banana",
+            "Cuke",
+            "Paracetamol",
+            "Donut",
+            "Cuke",
+            "Banana"
+        ],
+        "maxNetProfit": 106,
+        "permutationLength": 8
+    },
+    {
+        "ranknum": 2,
+        "baseProduct": "Meth",
+        "bestCombination": [
+            "Viagra",
+            "Paracetamol",
+            "Banana",
+            "Cuke",
+            "Paracetamol",
+            "Cuke",
+            "Banana",
+            "Donut"
+        ],
+        "maxNetProfit": 228,
+        "permutationLength": 8
+    },
+    {
+        "ranknum": 2,
+        "baseProduct": "Cocaine",
+        "bestCombination": [
+            "Viagra",
+            "Paracetamol",
+            "Banana",
+            "Cuke",
+            "Paracetamol",
+            "Cuke",
+            "Banana",
+            "Donut"
+        ],
+        "maxNetProfit": 513,
+        "permutationLength": 8
+    },
+    {
+        "ranknum": 3,
+        "baseProduct": "OG Kush",
+        "bestCombination": [
+            "Viagra",
+            "Paracetamol",
+            "Banana",
+            "Donut",
+            "Cuke",
+            "Paracetamol",
+            "Cuke",
+            "Banana"
+        ],
+        "maxNetProfit": 116,
+        "permutationLength": 8
+    },
+    {
+        "ranknum": 3,
+        "baseProduct": "Sour Diesel",
+        "bestCombination": [
+            "Viagra",
+            "Paracetamol",
+            "Banana",
+            "Cuke",
+            "Paracetamol",
+            "Donut",
+            "Cuke",
+            "Banana"
+        ],
+        "maxNetProfit": 102,
+        "permutationLength": 8
+    },
+    {
+        "ranknum": 3,
+        "baseProduct": "Green Crack",
+        "bestCombination": [
+            "Viagra",
+            "Banana",
+            "Paracetamol",
+            "Cuke",
+            "Paracetamol",
+            "Cuke",
+            "Banana",
+            "Donut"
+        ],
+        "maxNetProfit": 104,
+        "permutationLength": 8
+    },
+    {
+        "ranknum": 3,
+        "baseProduct": "Grandaddy Purple",
+        "bestCombination": [
+            "Viagra",
+            "Paracetamol",
+            "Banana",
+            "Cuke",
+            "Paracetamol",
+            "Donut",
+            "Cuke",
+            "Banana"
+        ],
+        "maxNetProfit": 106,
+        "permutationLength": 8
+    },
+    {
+        "ranknum": 3,
+        "baseProduct": "Meth",
+        "bestCombination": [
+            "Viagra",
+            "Cuke",
+            "Paracetamol",
+            "Cuke",
+            "Banana",
+            "Donut",
+            "Donut",
+            "Mouth Wash"
+        ],
+        "maxNetProfit": 229,
+        "permutationLength": 8
+    },
+    {
+        "ranknum": 3,
+        "baseProduct": "Cocaine",
+        "bestCombination": [
+            "Viagra",
+            "Cuke",
+            "Paracetamol",
+            "Cuke",
+            "Banana",
+            "Donut",
+            "Donut",
+            "Mouth Wash"
+        ],
+        "maxNetProfit": 517,
+        "permutationLength": 8
+    },
+    {
+        "ranknum": 4,
+        "baseProduct": "OG Kush",
+        "bestCombination": [
+            "Viagra",
+            "Paracetamol",
+            "Banana",
+            "Donut",
+            "Cuke",
+            "Paracetamol",
+            "Cuke",
+            "Banana"
+        ],
+        "maxNetProfit": 116,
+        "permutationLength": 8
+    },
+    {
+        "ranknum": 4,
+        "baseProduct": "Sour Diesel",
+        "bestCombination": [
+            "Viagra",
+            "Paracetamol",
+            "Banana",
+            "Cuke",
+            "Paracetamol",
+            "Donut",
+            "Cuke",
+            "Banana"
+        ],
+        "maxNetProfit": 102,
+        "permutationLength": 8
+    },
+    {
+        "ranknum": 4,
+        "baseProduct": "Green Crack",
+        "bestCombination": [
+            "Viagra",
+            "Banana",
+            "Paracetamol",
+            "Cuke",
+            "Paracetamol",
+            "Cuke",
+            "Banana",
+            "Donut"
+        ],
+        "maxNetProfit": 104,
+        "permutationLength": 8
+    },
+    {
+        "ranknum": 4,
+        "baseProduct": "Grandaddy Purple",
+        "bestCombination": [
+            "Viagra",
+            "Paracetamol",
+            "Banana",
+            "Cuke",
+            "Paracetamol",
+            "Donut",
+            "Cuke",
+            "Banana"
+        ],
+        "maxNetProfit": 106,
+        "permutationLength": 8
+    },
+    {
+        "ranknum": 4,
+        "baseProduct": "Meth",
+        "bestCombination": [
+            "Viagra",
+            "Cuke",
+            "Paracetamol",
+            "Cuke",
+            "Banana",
+            "Donut",
+            "Donut",
+            "Mouth Wash"
+        ],
+        "maxNetProfit": 229,
+        "permutationLength": 8
+    },
+    {
+        "ranknum": 4,
+        "baseProduct": "Cocaine",
+        "bestCombination": [
+            "Viagra",
+            "Cuke",
+            "Paracetamol",
+            "Cuke",
+            "Banana",
+            "Donut",
+            "Donut",
+            "Mouth Wash"
+        ],
+        "maxNetProfit": 517,
+        "permutationLength": 8
+    },
+    {
+        "ranknum": 5,
+        "baseProduct": "OG Kush",
+        "bestCombination": [
+            "Cuke",
+            "Gasoline",
+            "Cuke",
+            "Gasoline",
+            "Viagra",
+            "Banana",
+            "Cuke",
+            "Banana"
+        ],
+        "maxNetProfit": 131,
+        "permutationLength": 8
+    },
+    {
+        "ranknum": 5,
+        "baseProduct": "Sour Diesel",
+        "bestCombination": [
+            "Cuke",
+            "Gasoline",
+            "Cuke",
+            "Paracetamol",
+            "Gasoline",
+            "Banana",
+            "Cuke",
+            "Banana"
+        ],
+        "maxNetProfit": 123,
+        "permutationLength": 8
+    },
+    {
+        "ranknum": 5,
+        "baseProduct": "Green Crack",
+        "bestCombination": [
+            "Gasoline",
+            "Cuke",
+            "Paracetamol",
+            "Gasoline",
+            "Banana",
+            "Donut",
+            "Cuke",
+            "Banana"
+        ],
+        "maxNetProfit": 127,
+        "permutationLength": 8
+    },
+    {
+        "ranknum": 5,
+        "baseProduct": "Grandaddy Purple",
+        "bestCombination": [
+            "Cuke",
+            "Gasoline",
+            "Cuke",
+            "Paracetamol",
+            "Gasoline",
+            "Banana",
+            "Cuke",
+            "Banana"
+        ],
+        "maxNetProfit": 127,
+        "permutationLength": 8
+    },
+    {
+        "ranknum": 5,
+        "baseProduct": "Meth",
+        "bestCombination": [
+            "Banana",
+            "Cuke",
+            "Gasoline",
+            "Cuke",
+            "Gasoline",
+            "Cuke",
+            "Viagra",
+            "Mouth Wash"
+        ],
+        "maxNetProfit": 275,
+        "permutationLength": 8
+    },
+    {
+        "ranknum": 5,
+        "baseProduct": "Cocaine",
+        "bestCombination": [
+            "Banana",
+            "Cuke",
+            "Gasoline",
+            "Cuke",
+            "Gasoline",
+            "Cuke",
+            "Viagra",
+            "Mouth Wash"
+        ],
+        "maxNetProfit": 619,
+        "permutationLength": 8
+    },
+    {
+        "ranknum": 6,
+        "baseProduct": "OG Kush",
+        "bestCombination": [
+            "Cuke",
+            "Gasoline",
+            "Cuke",
+            "Gasoline",
+            "Viagra",
+            "Banana",
+            "Cuke",
+            "Banana"
+        ],
+        "maxNetProfit": 131,
+        "permutationLength": 8
+    },
+    {
+        "ranknum": 6,
+        "baseProduct": "Sour Diesel",
+        "bestCombination": [
+            "Cuke",
+            "Gasoline",
+            "Cuke",
+            "Paracetamol",
+            "Gasoline",
+            "Banana",
+            "Cuke",
+            "Banana"
+        ],
+        "maxNetProfit": 123,
+        "permutationLength": 8
+    },
+    {
+        "ranknum": 6,
+        "baseProduct": "Green Crack",
+        "bestCombination": [
+            "Gasoline",
+            "Cuke",
+            "Paracetamol",
+            "Gasoline",
+            "Banana",
+            "Donut",
+            "Cuke",
+            "Banana"
+        ],
+        "maxNetProfit": 127,
+        "permutationLength": 8
+    },
+    {
+        "ranknum": 6,
+        "baseProduct": "Grandaddy Purple",
+        "bestCombination": [
+            "Cuke",
+            "Gasoline",
+            "Cuke",
+            "Paracetamol",
+            "Gasoline",
+            "Banana",
+            "Cuke",
+            "Banana"
+        ],
+        "maxNetProfit": 127,
+        "permutationLength": 8
+    },
+    {
+        "ranknum": 6,
+        "baseProduct": "Meth",
+        "bestCombination": [
+            "Banana",
+            "Cuke",
+            "Gasoline",
+            "Cuke",
+            "Gasoline",
+            "Cuke",
+            "Viagra",
+            "Mouth Wash"
+        ],
+        "maxNetProfit": 275,
+        "permutationLength": 8
+    },
+    {
+        "ranknum": 6,
+        "baseProduct": "Cocaine",
+        "bestCombination": [
+            "Banana",
+            "Cuke",
+            "Gasoline",
+            "Cuke",
+            "Gasoline",
+            "Cuke",
+            "Viagra",
+            "Mouth Wash"
+        ],
+        "maxNetProfit": 619,
+        "permutationLength": 8
+    },
+    {
+        "ranknum": 7,
+        "baseProduct": "OG Kush",
+        "bestCombination": [
+            "Cuke",
+            "Gasoline",
+            "Cuke",
+            "Gasoline",
+            "Viagra",
+            "Banana",
+            "Cuke",
+            "Banana"
+        ],
+        "maxNetProfit": 131,
+        "permutationLength": 8
+    },
+    {
+        "ranknum": 7,
+        "baseProduct": "Sour Diesel",
+        "bestCombination": [
+            "Cuke",
+            "Gasoline",
+            "Cuke",
+            "Paracetamol",
+            "Gasoline",
+            "Banana",
+            "Cuke",
+            "Banana"
+        ],
+        "maxNetProfit": 123,
+        "permutationLength": 8
+    },
+    {
+        "ranknum": 7,
+        "baseProduct": "Green Crack",
+        "bestCombination": [
+            "Gasoline",
+            "Cuke",
+            "Paracetamol",
+            "Gasoline",
+            "Banana",
+            "Donut",
+            "Cuke",
+            "Banana"
+        ],
+        "maxNetProfit": 127,
+        "permutationLength": 8
+    },
+    {
+        "ranknum": 7,
+        "baseProduct": "Grandaddy Purple",
+        "bestCombination": [
+            "Cuke",
+            "Gasoline",
+            "Cuke",
+            "Paracetamol",
+            "Gasoline",
+            "Banana",
+            "Cuke",
+            "Banana"
+        ],
+        "maxNetProfit": 127,
+        "permutationLength": 8
+    },
+    {
+        "ranknum": 7,
+        "baseProduct": "Meth",
+        "bestCombination": [
+            "Banana",
+            "Cuke",
+            "Gasoline",
+            "Cuke",
+            "Gasoline",
+            "Cuke",
+            "Viagra",
+            "Mouth Wash"
+        ],
+        "maxNetProfit": 275,
+        "permutationLength": 8
+    },
+    {
+        "ranknum": 7,
+        "baseProduct": "Cocaine",
+        "bestCombination": [
+            "Banana",
+            "Cuke",
+            "Gasoline",
+            "Cuke",
+            "Gasoline",
+            "Cuke",
+            "Viagra",
+            "Mouth Wash"
+        ],
+        "maxNetProfit": 619,
+        "permutationLength": 8
+    },
+    {
+        "ranknum": 8,
+        "baseProduct": "OG Kush",
+        "bestCombination": [
+            "Cuke",
+            "Gasoline",
+            "Cuke",
+            "Gasoline",
+            "Viagra",
+            "Banana",
+            "Cuke",
+            "Banana"
+        ],
+        "maxNetProfit": 131,
+        "permutationLength": 8
+    },
+    {
+        "ranknum": 8,
+        "baseProduct": "Sour Diesel",
+        "bestCombination": [
+            "Cuke",
+            "Gasoline",
+            "Cuke",
+            "Paracetamol",
+            "Gasoline",
+            "Banana",
+            "Cuke",
+            "Banana"
+        ],
+        "maxNetProfit": 123,
+        "permutationLength": 8
+    },
+    {
+        "ranknum": 8,
+        "baseProduct": "Green Crack",
+        "bestCombination": [
+            "Gasoline",
+            "Cuke",
+            "Paracetamol",
+            "Viagra",
+            "Mega Bean",
+            "Mouth Wash",
+            "Banana",
+            "Cuke"
+        ],
+        "maxNetProfit": 132,
+        "permutationLength": 8
+    },
+    {
+        "ranknum": 8,
+        "baseProduct": "Grandaddy Purple",
+        "bestCombination": [
+            "Cuke",
+            "Gasoline",
+            "Cuke",
+            "Paracetamol",
+            "Gasoline",
+            "Banana",
+            "Cuke",
+            "Banana"
+        ],
+        "maxNetProfit": 127,
+        "permutationLength": 8
+    },
+    {
+        "ranknum": 8,
+        "baseProduct": "Meth",
+        "bestCombination": [
+            "Energy Drink",
+            "Gasoline",
+            "Cuke",
+            "Gasoline",
+            "Cuke",
+            "Viagra",
+            "Mega Bean",
+            "Mouth Wash"
+        ],
+        "maxNetProfit": 279,
+        "permutationLength": 8
+    },
+    {
+        "ranknum": 8,
+        "baseProduct": "Cocaine",
+        "bestCombination": [
+            "Energy Drink",
+            "Gasoline",
+            "Cuke",
+            "Gasoline",
+            "Cuke",
+            "Viagra",
+            "Mega Bean",
+            "Mouth Wash"
+        ],
+        "maxNetProfit": 637,
+        "permutationLength": 8
+    },
+    {
+        "ranknum": 9,
+        "baseProduct": "OG Kush",
+        "bestCombination": [
+            "Cuke",
+            "Gasoline",
+            "Cuke",
+            "Gasoline",
+            "Viagra",
+            "Banana",
+            "Cuke",
+            "Banana"
+        ],
+        "maxNetProfit": 131,
+        "permutationLength": 8
+    },
+    {
+        "ranknum": 9,
+        "baseProduct": "Sour Diesel",
+        "bestCombination": [
+            "Paracetamol",
+            "Banana",
+            "Gasoline",
+            "Cuke",
+            "Paracetamol",
+            "Cuke",
+            "Chili",
+            "Banana"
+        ],
+        "maxNetProfit": 125,
+        "permutationLength": 8
+    },
+    {
+        "ranknum": 9,
+        "baseProduct": "Green Crack",
+        "bestCombination": [
+            "Gasoline",
+            "Cuke",
+            "Paracetamol",
+            "Viagra",
+            "Mega Bean",
+            "Mouth Wash",
+            "Banana",
+            "Cuke"
+        ],
+        "maxNetProfit": 132,
+        "permutationLength": 8
+    },
+    {
+        "ranknum": 9,
+        "baseProduct": "Grandaddy Purple",
+        "bestCombination": [
+            "Energy Drink",
+            "Cuke",
+            "Paracetamol",
+            "Mega Bean",
+            "Viagra",
+            "Banana",
+            "Chili",
+            "Cuke"
+        ],
+        "maxNetProfit": 132,
+        "permutationLength": 8
+    },
+    {
+        "ranknum": 9,
+        "baseProduct": "Meth",
+        "bestCombination": [
+            "Viagra",
+            "Cuke",
+            "Motor Oil",
+            "Cuke",
+            "Mega Bean",
+            "Paracetamol",
+            "Chili",
+            "Mega Bean"
+        ],
+        "maxNetProfit": 291,
+        "permutationLength": 8
+    },
+    {
+        "ranknum": 9,
+        "baseProduct": "Cocaine",
+        "bestCombination": [
+            "Viagra",
+            "Cuke",
+            "Motor Oil",
+            "Cuke",
+            "Mega Bean",
+            "Paracetamol",
+            "Chili",
+            "Mega Bean"
+        ],
+        "maxNetProfit": 667,
+        "permutationLength": 8
+    },
+    {
+        "ranknum": 10,
+        "baseProduct": "OG Kush",
+        "permutationLength": 8,
+        "bestCombination": [
+            "Banana",
+            "Gasoline",
+            "Paracetamol",
+            "Cuke",
+            "Mega Bean",
+            "Battery",
+            "Banana",
+            "Cuke"
+        ],
+        "maxNetProfit": 140
+    },
+    {
+        "ranknum": 10,
+        "baseProduct": "Sour Diesel",
+        "permutationLength": 8,
+        "bestCombination": [
+            "Paracetamol",
+            "Banana",
+            "Gasoline",
+            "Cuke",
+            "Mega Bean",
+            "Battery",
+            "Banana",
+            "Cuke"
+        ],
+        "maxNetProfit": 130
+    },
+    {
+        "ranknum": 10,
+        "baseProduct": "Green Crack",
+        "permutationLength": 8,
+        "bestCombination": [
+            "Paracetamol",
+            "Banana",
+            "Gasoline",
+            "Cuke",
+            "Mega Bean",
+            "Battery",
+            "Banana",
+            "Cuke"
+        ],
+        "maxNetProfit": 140
+    },
+    {
+        "ranknum": 10,
+        "baseProduct": "Cocaine",
+        "permutationLength": 8,
+        "bestCombination": [
+            "Flu Medicine",
+            "Energy Drink",
+            "Paracetamol",
+            "Gasoline",
+            "Cuke",
+            "Battery",
+            "Mega Bean",
+            "Chili"
+        ],
+        "maxNetProfit": 677
+    },
+    {
+        "ranknum": 10,
+        "baseProduct": "Grandaddy Purple",
+        "permutationLength": 8,
+        "bestCombination": [
+            "Paracetamol",
+            "Banana",
+            "Gasoline",
+            "Cuke",
+            "Mega Bean",
+            "Battery",
+            "Banana",
+            "Cuke"
+        ],
+        "maxNetProfit": 134
+    },
+    {
+        "ranknum": 10,
+        "baseProduct": "Meth",
+        "permutationLength": 8,
+        "bestCombination": [
+            "Paracetamol",
+            "Banana",
+            "Gasoline",
+            "Cuke",
+            "Mega Bean",
+            "Battery",
+            "Banana",
+            "Cuke"
+        ],
+        "maxNetProfit": 297
+    },
+    {
+        "ranknum": 11,
+        "baseProduct": "OG Kush",
+        "permutationLength": 8,
+        "bestCombination": [
+            "Banana",
+            "Gasoline",
+            "Paracetamol",
+            "Cuke",
+            "Mega Bean",
+            "Battery",
+            "Banana",
+            "Cuke"
+        ],
+        "maxNetProfit": 140
+    },
+    {
+        "ranknum": 11,
+        "baseProduct": "Sour Diesel",
+        "permutationLength": 8,
+        "bestCombination": [
+            "Paracetamol",
+            "Banana",
+            "Gasoline",
+            "Cuke",
+            "Mega Bean",
+            "Battery",
+            "Banana",
+            "Cuke"
+        ],
+        "maxNetProfit": 130
+    },
+    {
+        "ranknum": 11,
+        "baseProduct": "Green Crack",
+        "permutationLength": 8,
+        "bestCombination": [
+            "Paracetamol",
+            "Banana",
+            "Gasoline",
+            "Cuke",
+            "Mega Bean",
+            "Battery",
+            "Banana",
+            "Cuke"
+        ],
+        "maxNetProfit": 140
+    },
+    {
+        "ranknum": 11,
+        "baseProduct": "Cocaine",
+        "permutationLength": 8,
+        "bestCombination": [
+            "Flu Medicine",
+            "Energy Drink",
+            "Paracetamol",
+            "Gasoline",
+            "Cuke",
+            "Battery",
+            "Mega Bean",
+            "Chili"
+        ],
+        "maxNetProfit": 677
+    },
+    {
+        "ranknum": 11,
+        "baseProduct": "Grandaddy Purple",
+        "permutationLength": 8,
+        "bestCombination": [
+            "Paracetamol",
+            "Banana",
+            "Gasoline",
+            "Cuke",
+            "Mega Bean",
+            "Battery",
+            "Banana",
+            "Cuke"
+        ],
+        "maxNetProfit": 134
+    },
+    {
+        "ranknum": 11,
+        "baseProduct": "Meth",
+        "permutationLength": 8,
+        "bestCombination": [
+            "Paracetamol",
+            "Banana",
+            "Gasoline",
+            "Cuke",
+            "Mega Bean",
+            "Battery",
+            "Banana",
+            "Cuke"
+        ],
+        "maxNetProfit": 297
+    },
+    {
+        "ranknum": 12,
+        "baseProduct": "OG Kush",
+        "permutationLength": 8,
+        "bestCombination": [
+            "Banana",
+            "Gasoline",
+            "Paracetamol",
+            "Cuke",
+            "Mega Bean",
+            "Battery",
+            "Banana",
+            "Cuke"
+        ],
+        "maxNetProfit": 140
+    },
+    {
+        "ranknum": 12,
+        "baseProduct": "Sour Diesel",
+        "permutationLength": 8,
+        "bestCombination": [
+            "Paracetamol",
+            "Banana",
+            "Gasoline",
+            "Cuke",
+            "Mega Bean",
+            "Battery",
+            "Banana",
+            "Cuke"
+        ],
+        "maxNetProfit": 130
+    },
+    {
+        "ranknum": 12,
+        "baseProduct": "Green Crack",
+        "permutationLength": 8,
+        "bestCombination": [
+            "Paracetamol",
+            "Banana",
+            "Gasoline",
+            "Cuke",
+            "Mega Bean",
+            "Battery",
+            "Banana",
+            "Cuke"
+        ],
+        "maxNetProfit": 140
+    },
+    {
+        "ranknum": 12,
+        "baseProduct": "Cocaine",
+        "permutationLength": 8,
+        "bestCombination": [
+            "Flu Medicine",
+            "Energy Drink",
+            "Paracetamol",
+            "Gasoline",
+            "Cuke",
+            "Battery",
+            "Mega Bean",
+            "Chili"
+        ],
+        "maxNetProfit": 677
+    },
+    {
+        "ranknum": 12,
+        "baseProduct": "Grandaddy Purple",
+        "permutationLength": 8,
+        "bestCombination": [
+            "Paracetamol",
+            "Banana",
+            "Gasoline",
+            "Cuke",
+            "Mega Bean",
+            "Battery",
+            "Banana",
+            "Cuke"
+        ],
+        "maxNetProfit": 134
+    },
+    {
+        "ranknum": 12,
+        "baseProduct": "Meth",
+        "permutationLength": 8,
+        "bestCombination": [
+            "Paracetamol",
+            "Banana",
+            "Gasoline",
+            "Cuke",
+            "Mega Bean",
+            "Battery",
+            "Banana",
+            "Cuke"
+        ],
+        "maxNetProfit": 297
+    },
+    {
+        "ranknum": 13,
+        "baseProduct": "OG Kush",
+        "permutationLength": 8,
+        "bestCombination": [
+            "Banana",
+            "Gasoline",
+            "Paracetamol",
+            "Cuke",
+            "Mega Bean",
+            "Battery",
+            "Banana",
+            "Cuke"
+        ],
+        "maxNetProfit": 140
+    },
+    {
+        "ranknum": 13,
+        "baseProduct": "Sour Diesel",
+        "permutationLength": 8,
+        "bestCombination": [
+            "Paracetamol",
+            "Banana",
+            "Gasoline",
+            "Cuke",
+            "Mega Bean",
+            "Battery",
+            "Banana",
+            "Cuke"
+        ],
+        "maxNetProfit": 130
+    },
+    {
+        "ranknum": 13,
+        "baseProduct": "Green Crack",
+        "permutationLength": 8,
+        "bestCombination": [
+            "Paracetamol",
+            "Banana",
+            "Gasoline",
+            "Cuke",
+            "Mega Bean",
+            "Battery",
+            "Banana",
+            "Cuke"
+        ],
+        "maxNetProfit": 140
+    },
+    {
+        "ranknum": 13,
+        "baseProduct": "Cocaine",
+        "permutationLength": 8,
+        "bestCombination": [
+            "Motor Oil",
+            "Cuke",
+            "Paracetamol",
+            "Gasoline",
+            "Cuke",
+            "Battery",
+            "Horse Semen",
+            "Mega Bean"
+        ],
+        "maxNetProfit": 693
+    },
+    {
+        "ranknum": 13,
+        "baseProduct": "Grandaddy Purple",
+        "permutationLength": 8,
+        "bestCombination": [
+            "Paracetamol",
+            "Banana",
+            "Gasoline",
+            "Cuke",
+            "Mega Bean",
+            "Battery",
+            "Banana",
+            "Cuke"
+        ],
+        "maxNetProfit": 134
+    },
+    {
+        "ranknum": 13,
+        "baseProduct": "Meth",
+        "permutationLength": 8,
+        "bestCombination": [
+            "Banana",
+            "Cuke",
+            "Paracetamol",
+            "Gasoline",
+            "Cuke",
+            "Battery",
+            "Horse Semen",
+            "Mega Bean"
+        ],
+        "maxNetProfit": 302
+    }
+]
